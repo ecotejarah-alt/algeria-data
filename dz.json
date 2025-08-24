@@ -1,0 +1,9248 @@
+{
+  "01": {
+    "name_ar": "Adrar",
+    "name_fr": "Adrar",
+    "name_en": "Adrar",
+    "communes": []
+  },
+  "02": {
+    "name_ar": "Tamest",
+    "name_fr": "Tamest",
+    "name_en": "Tamest",
+    "communes": []
+  },
+  "03": {
+    "name_ar": "Charouine",
+    "name_fr": "Charouine",
+    "name_en": "Charouine",
+    "communes": []
+  },
+  "04": {
+    "name_ar": "Reggane",
+    "name_fr": "Reggane",
+    "name_en": "Reggane",
+    "communes": []
+  },
+  "05": {
+    "name_ar": "In Zghmir",
+    "name_fr": "In Zghmir",
+    "name_en": "In Zghmir",
+    "communes": []
+  },
+  "06": {
+    "name_ar": "Tit",
+    "name_fr": "Tit",
+    "name_en": "Tit",
+    "communes": []
+  },
+  "07": {
+    "name_ar": "Ksar Kaddour",
+    "name_fr": "Ksar Kaddour",
+    "name_en": "Ksar Kaddour",
+    "communes": []
+  },
+  "08": {
+    "name_ar": "Tsabit",
+    "name_fr": "Tsabit",
+    "name_en": "Tsabit",
+    "communes": []
+  },
+  "09": {
+    "name_ar": "Timimoun",
+    "name_fr": "Timimoun",
+    "name_en": "Timimoun",
+    "communes": []
+  },
+  "10": {
+    "name_ar": "Ouled Said",
+    "name_fr": "Ouled Said",
+    "name_en": "Ouled Said",
+    "communes": []
+  },
+  "11": {
+    "name_ar": "Zaouiet Kounta",
+    "name_fr": "Zaouiet Kounta",
+    "name_en": "Zaouiet Kounta",
+    "communes": []
+  },
+  "12": {
+    "name_ar": "Aoulef",
+    "name_fr": "Aoulef",
+    "name_en": "Aoulef",
+    "communes": []
+  },
+  "13": {
+    "name_ar": "Timokten",
+    "name_fr": "Timokten",
+    "name_en": "Timokten",
+    "communes": []
+  },
+  "14": {
+    "name_ar": "Tamentit",
+    "name_fr": "Tamentit",
+    "name_en": "Tamentit",
+    "communes": []
+  },
+  "15": {
+    "name_ar": "Fenoughil",
+    "name_fr": "Fenoughil",
+    "name_en": "Fenoughil",
+    "communes": []
+  },
+  "16": {
+    "name_ar": "Tinerkouk",
+    "name_fr": "Tinerkouk",
+    "name_en": "Tinerkouk",
+    "communes": []
+  },
+  "17": {
+    "name_ar": "Deldoul",
+    "name_fr": "Deldoul",
+    "name_en": "Deldoul",
+    "communes": []
+  },
+  "18": {
+    "name_ar": "Sali",
+    "name_fr": "Sali",
+    "name_en": "Sali",
+    "communes": []
+  },
+  "19": {
+    "name_ar": "Akabli",
+    "name_fr": "Akabli",
+    "name_en": "Akabli",
+    "communes": []
+  },
+  "20": {
+    "name_ar": "Metarfa",
+    "name_fr": "Metarfa",
+    "name_en": "Metarfa",
+    "communes": []
+  },
+  "21": {
+    "name_ar": "Ouled Ahmed Tammi",
+    "name_fr": "Ouled Ahmed Tammi",
+    "name_en": "Ouled Ahmed Tammi",
+    "communes": []
+  },
+  "22": {
+    "name_ar": "Bouda",
+    "name_fr": "Bouda",
+    "name_en": "Bouda",
+    "communes": []
+  },
+  "23": {
+    "name_ar": "Aougrout",
+    "name_fr": "Aougrout",
+    "name_en": "Aougrout",
+    "communes": []
+  },
+  "24": {
+    "name_ar": "Talmine",
+    "name_fr": "Talmine",
+    "name_en": "Talmine",
+    "communes": []
+  },
+  "25": {
+    "name_ar": "Bordj Badji Mokhtar",
+    "name_fr": "Bordj Badji Mokhtar",
+    "name_en": "Bordj Badji Mokhtar",
+    "communes": []
+  },
+  "26": {
+    "name_ar": "Sbaa",
+    "name_fr": "Sbaa",
+    "name_en": "Sbaa",
+    "communes": []
+  },
+  "27": {
+    "name_ar": "Ouled Aissa",
+    "name_fr": "Ouled Aissa",
+    "name_en": "Ouled Aissa",
+    "communes": []
+  },
+  "28": {
+    "name_ar": "Timiaouine",
+    "name_fr": "Timiaouine",
+    "name_en": "Timiaouine",
+    "communes": []
+  },
+  "29": {
+    "name_ar": "Chlef",
+    "name_fr": "Chlef",
+    "name_en": "Chlef",
+    "communes": []
+  },
+  "30": {
+    "name_ar": "Tenes",
+    "name_fr": "Tenes",
+    "name_en": "Tenes",
+    "communes": []
+  },
+  "31": {
+    "name_ar": "Benairia",
+    "name_fr": "Benairia",
+    "name_en": "Benairia",
+    "communes": []
+  },
+  "32": {
+    "name_ar": "El Karimia",
+    "name_fr": "El Karimia",
+    "name_en": "El Karimia",
+    "communes": []
+  },
+  "33": {
+    "name_ar": "Tadjna",
+    "name_fr": "Tadjna",
+    "name_en": "Tadjna",
+    "communes": []
+  },
+  "34": {
+    "name_ar": "Taougrite",
+    "name_fr": "Taougrite",
+    "name_en": "Taougrite",
+    "communes": []
+  },
+  "35": {
+    "name_ar": "Beni Haoua",
+    "name_fr": "Beni Haoua",
+    "name_en": "Beni Haoua",
+    "communes": []
+  },
+  "36": {
+    "name_ar": "Sobha",
+    "name_fr": "Sobha",
+    "name_en": "Sobha",
+    "communes": []
+  },
+  "37": {
+    "name_ar": "Harchoun",
+    "name_fr": "Harchoun",
+    "name_en": "Harchoun",
+    "communes": []
+  },
+  "38": {
+    "name_ar": "Ouled Fares",
+    "name_fr": "Ouled Fares",
+    "name_en": "Ouled Fares",
+    "communes": []
+  },
+  "39": {
+    "name_ar": "Sidi Akacha",
+    "name_fr": "Sidi Akacha",
+    "name_en": "Sidi Akacha",
+    "communes": []
+  },
+  "40": {
+    "name_ar": "Boukadir",
+    "name_fr": "Boukadir",
+    "name_en": "Boukadir",
+    "communes": []
+  },
+  "41": {
+    "name_ar": "Beni Rached",
+    "name_fr": "Beni Rached",
+    "name_en": "Beni Rached",
+    "communes": []
+  },
+  "42": {
+    "name_ar": "Talassa",
+    "name_fr": "Talassa",
+    "name_en": "Talassa",
+    "communes": []
+  },
+  "43": {
+    "name_ar": "Herenfa",
+    "name_fr": "Herenfa",
+    "name_en": "Herenfa",
+    "communes": []
+  },
+  "44": {
+    "name_ar": "Oued Goussine",
+    "name_fr": "Oued Goussine",
+    "name_en": "Oued Goussine",
+    "communes": []
+  },
+  "45": {
+    "name_ar": "Dahra",
+    "name_fr": "Dahra",
+    "name_en": "Dahra",
+    "communes": []
+  },
+  "46": {
+    "name_ar": "Ouled Abbes",
+    "name_fr": "Ouled Abbes",
+    "name_en": "Ouled Abbes",
+    "communes": []
+  },
+  "47": {
+    "name_ar": "Sendjas",
+    "name_fr": "Sendjas",
+    "name_en": "Sendjas",
+    "communes": []
+  },
+  "48": {
+    "name_ar": "Zeboudja",
+    "name_fr": "Zeboudja",
+    "name_en": "Zeboudja",
+    "communes": []
+  },
+  "49": {
+    "name_ar": "Oued Sly",
+    "name_fr": "Oued Sly",
+    "name_en": "Oued Sly",
+    "communes": []
+  },
+  "50": {
+    "name_ar": "Abou El Hassen",
+    "name_fr": "Abou El Hassen",
+    "name_en": "Abou El Hassen",
+    "communes": []
+  },
+  "51": {
+    "name_ar": "El Marsa",
+    "name_fr": "El Marsa",
+    "name_en": "El Marsa",
+    "communes": []
+  },
+  "52": {
+    "name_ar": "Chettia",
+    "name_fr": "Chettia",
+    "name_en": "Chettia",
+    "communes": []
+  },
+  "53": {
+    "name_ar": "Sidi Abderrahmane",
+    "name_fr": "Sidi Abderrahmane",
+    "name_en": "Sidi Abderrahmane",
+    "communes": []
+  },
+  "54": {
+    "name_ar": "Moussadek",
+    "name_fr": "Moussadek",
+    "name_en": "Moussadek",
+    "communes": []
+  },
+  "55": {
+    "name_ar": "El Hadjadj",
+    "name_fr": "El Hadjadj",
+    "name_en": "El Hadjadj",
+    "communes": []
+  },
+  "56": {
+    "name_ar": "Labiod Medjadja",
+    "name_fr": "Labiod Medjadja",
+    "name_en": "Labiod Medjadja",
+    "communes": []
+  },
+  "57": {
+    "name_ar": "Oued Fodda",
+    "name_fr": "Oued Fodda",
+    "name_en": "Oued Fodda",
+    "communes": []
+  },
+  "58": {
+    "name_ar": "Ouled Ben Abdelkader",
+    "name_fr": "Ouled Ben Abdelkader",
+    "name_en": "Ouled Ben Abdelkader",
+    "communes": []
+  },
+  "59": {
+    "name_ar": "Bouzghaia",
+    "name_fr": "Bouzghaia",
+    "name_en": "Bouzghaia",
+    "communes": []
+  },
+  "60": {
+    "name_ar": "Ain Merane",
+    "name_fr": "Ain Merane",
+    "name_en": "Ain Merane",
+    "communes": []
+  },
+  "61": {
+    "name_ar": "Oum Drou",
+    "name_fr": "Oum Drou",
+    "name_en": "Oum Drou",
+    "communes": []
+  },
+  "62": {
+    "name_ar": "Breira",
+    "name_fr": "Breira",
+    "name_en": "Breira",
+    "communes": []
+  },
+  "63": {
+    "name_ar": "Beni Bouateb",
+    "name_fr": "Beni Bouateb",
+    "name_en": "Beni Bouateb",
+    "communes": []
+  },
+  "64": {
+    "name_ar": "Laghouat",
+    "name_fr": "Laghouat",
+    "name_en": "Laghouat",
+    "communes": []
+  },
+  "65": {
+    "name_ar": "Ksar El Hirane",
+    "name_fr": "Ksar El Hirane",
+    "name_en": "Ksar El Hirane",
+    "communes": []
+  },
+  "66": {
+    "name_ar": "Benacer Ben Chohra",
+    "name_fr": "Benacer Ben Chohra",
+    "name_en": "Benacer Ben Chohra",
+    "communes": []
+  },
+  "67": {
+    "name_ar": "Sidi Makhlouf",
+    "name_fr": "Sidi Makhlouf",
+    "name_en": "Sidi Makhlouf",
+    "communes": []
+  },
+  "68": {
+    "name_ar": "Hassi Delaa",
+    "name_fr": "Hassi Delaa",
+    "name_en": "Hassi Delaa",
+    "communes": []
+  },
+  "69": {
+    "name_ar": "Hassi R'Mel",
+    "name_fr": "Hassi R'Mel",
+    "name_en": "Hassi R'Mel",
+    "communes": []
+  },
+  "70": {
+    "name_ar": "Ain Mahdi",
+    "name_fr": "Ain Mahdi",
+    "name_en": "Ain Mahdi",
+    "communes": []
+  },
+  "71": {
+    "name_ar": "Tadjmout",
+    "name_fr": "Tadjmout",
+    "name_en": "Tadjmout",
+    "communes": []
+  },
+  "72": {
+    "name_ar": "El Kheneg",
+    "name_fr": "El Kheneg",
+    "name_en": "El Kheneg",
+    "communes": []
+  },
+  "73": {
+    "name_ar": "Gueltat Sidi Saad",
+    "name_fr": "Gueltat Sidi Saad",
+    "name_en": "Gueltat Sidi Saad",
+    "communes": []
+  },
+  "74": {
+    "name_ar": "Ain Sidi Ali",
+    "name_fr": "Ain Sidi Ali",
+    "name_en": "Ain Sidi Ali",
+    "communes": []
+  },
+  "75": {
+    "name_ar": "Beidha",
+    "name_fr": "Beidha",
+    "name_en": "Beidha",
+    "communes": []
+  },
+  "76": {
+    "name_ar": "Brida",
+    "name_fr": "Brida",
+    "name_en": "Brida",
+    "communes": []
+  },
+  "77": {
+    "name_ar": "El Ghicha",
+    "name_fr": "El Ghicha",
+    "name_en": "El Ghicha",
+    "communes": []
+  },
+  "78": {
+    "name_ar": "Hadj Mechri",
+    "name_fr": "Hadj Mechri",
+    "name_en": "Hadj Mechri",
+    "communes": []
+  },
+  "79": {
+    "name_ar": "Sebgag",
+    "name_fr": "Sebgag",
+    "name_en": "Sebgag",
+    "communes": []
+  },
+  "80": {
+    "name_ar": "Taouiala",
+    "name_fr": "Taouiala",
+    "name_en": "Taouiala",
+    "communes": []
+  },
+  "81": {
+    "name_ar": "Tadjrouna",
+    "name_fr": "Tadjrouna",
+    "name_en": "Tadjrouna",
+    "communes": []
+  },
+  "82": {
+    "name_ar": "Aflou",
+    "name_fr": "Aflou",
+    "name_en": "Aflou",
+    "communes": []
+  },
+  "83": {
+    "name_ar": "El Assafia",
+    "name_fr": "El Assafia",
+    "name_en": "El Assafia",
+    "communes": []
+  },
+  "84": {
+    "name_ar": "Oued Morra",
+    "name_fr": "Oued Morra",
+    "name_en": "Oued Morra",
+    "communes": []
+  },
+  "85": {
+    "name_ar": "Oued M'Zi",
+    "name_fr": "Oued M'Zi",
+    "name_en": "Oued M'Zi",
+    "communes": []
+  },
+  "86": {
+    "name_ar": "El Haouaita",
+    "name_fr": "El Haouaita",
+    "name_en": "El Haouaita",
+    "communes": []
+  },
+  "87": {
+    "name_ar": "Sidi Bouzid",
+    "name_fr": "Sidi Bouzid",
+    "name_en": "Sidi Bouzid",
+    "communes": []
+  },
+  "88": {
+    "name_ar": "Oum El Bouaghi",
+    "name_fr": "Oum El Bouaghi",
+    "name_en": "Oum El Bouaghi",
+    "communes": []
+  },
+  "89": {
+    "name_ar": "Ain Beida",
+    "name_fr": "Ain Beida",
+    "name_en": "Ain Beida",
+    "communes": []
+  },
+  "90": {
+    "name_ar": "Ain M'lila",
+    "name_fr": "Ain M'lila",
+    "name_en": "Ain M'lila",
+    "communes": []
+  },
+  "91": {
+    "name_ar": "Behir Chergui",
+    "name_fr": "Behir Chergui",
+    "name_en": "Behir Chergui",
+    "communes": []
+  },
+  "92": {
+    "name_ar": "El Amiria",
+    "name_fr": "El Amiria",
+    "name_en": "El Amiria",
+    "communes": []
+  },
+  "93": {
+    "name_ar": "Sigus",
+    "name_fr": "Sigus",
+    "name_en": "Sigus",
+    "communes": []
+  },
+  "94": {
+    "name_ar": "El Belala",
+    "name_fr": "El Belala",
+    "name_en": "El Belala",
+    "communes": []
+  },
+  "95": {
+    "name_ar": "Ain Babouche",
+    "name_fr": "Ain Babouche",
+    "name_en": "Ain Babouche",
+    "communes": []
+  },
+  "96": {
+    "name_ar": "Berriche",
+    "name_fr": "Berriche",
+    "name_en": "Berriche",
+    "communes": []
+  },
+  "97": {
+    "name_ar": "Ouled Hamla",
+    "name_fr": "Ouled Hamla",
+    "name_en": "Ouled Hamla",
+    "communes": []
+  },
+  "98": {
+    "name_ar": "Dhala",
+    "name_fr": "Dhala",
+    "name_en": "Dhala",
+    "communes": []
+  },
+  "99": {
+    "name_ar": "Ain Kercha",
+    "name_fr": "Ain Kercha",
+    "name_en": "Ain Kercha",
+    "communes": []
+  },
+  "100": {
+    "name_ar": "Hanchir Toumghani",
+    "name_fr": "Hanchir Toumghani",
+    "name_en": "Hanchir Toumghani",
+    "communes": []
+  },
+  "101": {
+    "name_ar": "El Djazia",
+    "name_fr": "El Djazia",
+    "name_en": "El Djazia",
+    "communes": []
+  },
+  "102": {
+    "name_ar": "Ain Diss",
+    "name_fr": "Ain Diss",
+    "name_en": "Ain Diss",
+    "communes": []
+  },
+  "103": {
+    "name_ar": "Fkirina",
+    "name_fr": "Fkirina",
+    "name_en": "Fkirina",
+    "communes": []
+  },
+  "104": {
+    "name_ar": "Souk Naamane",
+    "name_fr": "Souk Naamane",
+    "name_en": "Souk Naamane",
+    "communes": []
+  },
+  "105": {
+    "name_ar": "Zorg",
+    "name_fr": "Zorg",
+    "name_en": "Zorg",
+    "communes": []
+  },
+  "106": {
+    "name_ar": "El Fedjoudj Boughrara Saoudi",
+    "name_fr": "El Fedjoudj Boughrara Saoudi",
+    "name_en": "El Fedjoudj Boughrara Saoudi",
+    "communes": []
+  },
+  "107": {
+    "name_ar": "Ouled Zouai",
+    "name_fr": "Ouled Zouai",
+    "name_en": "Ouled Zouai",
+    "communes": []
+  },
+  "108": {
+    "name_ar": "Bir Chouhada",
+    "name_fr": "Bir Chouhada",
+    "name_en": "Bir Chouhada",
+    "communes": []
+  },
+  "109": {
+    "name_ar": "Ksar Sbahi",
+    "name_fr": "Ksar Sbahi",
+    "name_en": "Ksar Sbahi",
+    "communes": []
+  },
+  "110": {
+    "name_ar": "Oued Nini",
+    "name_fr": "Oued Nini",
+    "name_en": "Oued Nini",
+    "communes": []
+  },
+  "111": {
+    "name_ar": "Meskiana",
+    "name_fr": "Meskiana",
+    "name_en": "Meskiana",
+    "communes": []
+  },
+  "112": {
+    "name_ar": "Ain Fekroune",
+    "name_fr": "Ain Fekroune",
+    "name_en": "Ain Fekroune",
+    "communes": []
+  },
+  "113": {
+    "name_ar": "Rahia",
+    "name_fr": "Rahia",
+    "name_en": "Rahia",
+    "communes": []
+  },
+  "114": {
+    "name_ar": "Ain Zitoun",
+    "name_fr": "Ain Zitoun",
+    "name_en": "Ain Zitoun",
+    "communes": []
+  },
+  "115": {
+    "name_ar": "Ouled Gacem",
+    "name_fr": "Ouled Gacem",
+    "name_en": "Ouled Gacem",
+    "communes": []
+  },
+  "116": {
+    "name_ar": "El Harmilia",
+    "name_fr": "El Harmilia",
+    "name_en": "El Harmilia",
+    "communes": []
+  },
+  "117": {
+    "name_ar": "Batna",
+    "name_fr": "Batna",
+    "name_en": "Batna",
+    "communes": []
+  },
+  "118": {
+    "name_ar": "Ghassira",
+    "name_fr": "Ghassira",
+    "name_en": "Ghassira",
+    "communes": []
+  },
+  "119": {
+    "name_ar": "Maafa",
+    "name_fr": "Maafa",
+    "name_en": "Maafa",
+    "communes": []
+  },
+  "120": {
+    "name_ar": "Merouana",
+    "name_fr": "Merouana",
+    "name_en": "Merouana",
+    "communes": []
+  },
+  "121": {
+    "name_ar": "Seriana",
+    "name_fr": "Seriana",
+    "name_en": "Seriana",
+    "communes": []
+  },
+  "122": {
+    "name_ar": "Menaa",
+    "name_fr": "Menaa",
+    "name_en": "Menaa",
+    "communes": []
+  },
+  "123": {
+    "name_ar": "El Madher",
+    "name_fr": "El Madher",
+    "name_en": "El Madher",
+    "communes": []
+  },
+  "124": {
+    "name_ar": "Tazoult",
+    "name_fr": "Tazoult",
+    "name_en": "Tazoult",
+    "communes": []
+  },
+  "125": {
+    "name_ar": "Ngaous",
+    "name_fr": "Ngaous",
+    "name_en": "Ngaous",
+    "communes": []
+  },
+  "126": {
+    "name_ar": "Guigba",
+    "name_fr": "Guigba",
+    "name_en": "Guigba",
+    "communes": []
+  },
+  "127": {
+    "name_ar": "Inoughissen",
+    "name_fr": "Inoughissen",
+    "name_en": "Inoughissen",
+    "communes": []
+  },
+  "128": {
+    "name_ar": "Ouyoun El Assafir",
+    "name_fr": "Ouyoun El Assafir",
+    "name_en": "Ouyoun El Assafir",
+    "communes": []
+  },
+  "129": {
+    "name_ar": "Djerma",
+    "name_fr": "Djerma",
+    "name_en": "Djerma",
+    "communes": []
+  },
+  "130": {
+    "name_ar": "Bitam",
+    "name_fr": "Bitam",
+    "name_en": "Bitam",
+    "communes": []
+  },
+  "131": {
+    "name_ar": "Metkaouak",
+    "name_fr": "Metkaouak",
+    "name_en": "Metkaouak",
+    "communes": []
+  },
+  "132": {
+    "name_ar": "Arris",
+    "name_fr": "Arris",
+    "name_en": "Arris",
+    "communes": []
+  },
+  "133": {
+    "name_ar": "Kimmel",
+    "name_fr": "Kimmel",
+    "name_en": "Kimmel",
+    "communes": []
+  },
+  "134": {
+    "name_ar": "Tilatou",
+    "name_fr": "Tilatou",
+    "name_en": "Tilatou",
+    "communes": []
+  },
+  "135": {
+    "name_ar": "Ain Djasser",
+    "name_fr": "Ain Djasser",
+    "name_en": "Ain Djasser",
+    "communes": []
+  },
+  "136": {
+    "name_ar": "Ouled Selam",
+    "name_fr": "Ouled Selam",
+    "name_en": "Ouled Selam",
+    "communes": []
+  },
+  "137": {
+    "name_ar": "Tigherghar",
+    "name_fr": "Tigherghar",
+    "name_en": "Tigherghar",
+    "communes": []
+  },
+  "138": {
+    "name_ar": "Ain Yagout",
+    "name_fr": "Ain Yagout",
+    "name_en": "Ain Yagout",
+    "communes": []
+  },
+  "139": {
+    "name_ar": "Fesdis",
+    "name_fr": "Fesdis",
+    "name_en": "Fesdis",
+    "communes": []
+  },
+  "140": {
+    "name_ar": "Sefiane",
+    "name_fr": "Sefiane",
+    "name_en": "Sefiane",
+    "communes": []
+  },
+  "141": {
+    "name_ar": "Rahbat",
+    "name_fr": "Rahbat",
+    "name_en": "Rahbat",
+    "communes": []
+  },
+  "142": {
+    "name_ar": "Tighanimine",
+    "name_fr": "Tighanimine",
+    "name_en": "Tighanimine",
+    "communes": []
+  },
+  "143": {
+    "name_ar": "Lemsane",
+    "name_fr": "Lemsane",
+    "name_en": "Lemsane",
+    "communes": []
+  },
+  "144": {
+    "name_ar": "Ksar Belezma",
+    "name_fr": "Ksar Belezma",
+    "name_en": "Ksar Belezma",
+    "communes": []
+  },
+  "145": {
+    "name_ar": "Seggana",
+    "name_fr": "Seggana",
+    "name_en": "Seggana",
+    "communes": []
+  },
+  "146": {
+    "name_ar": "Ichmoul",
+    "name_fr": "Ichmoul",
+    "name_en": "Ichmoul",
+    "communes": []
+  },
+  "147": {
+    "name_ar": "Foum Toub",
+    "name_fr": "Foum Toub",
+    "name_en": "Foum Toub",
+    "communes": []
+  },
+  "148": {
+    "name_ar": "Beni Foudhala El Hakania",
+    "name_fr": "Beni Foudhala El Hakania",
+    "name_en": "Beni Foudhala El Hakania",
+    "communes": []
+  },
+  "149": {
+    "name_ar": "Oued El Ma",
+    "name_fr": "Oued El Ma",
+    "name_en": "Oued El Ma",
+    "communes": []
+  },
+  "150": {
+    "name_ar": "Talkhamt",
+    "name_fr": "Talkhamt",
+    "name_en": "Talkhamt",
+    "communes": []
+  },
+  "151": {
+    "name_ar": "Bouzina",
+    "name_fr": "Bouzina",
+    "name_en": "Bouzina",
+    "communes": []
+  },
+  "152": {
+    "name_ar": "Chemora",
+    "name_fr": "Chemora",
+    "name_en": "Chemora",
+    "communes": []
+  },
+  "153": {
+    "name_ar": "Oued Chaaba",
+    "name_fr": "Oued Chaaba",
+    "name_en": "Oued Chaaba",
+    "communes": []
+  },
+  "154": {
+    "name_ar": "Taxlent",
+    "name_fr": "Taxlent",
+    "name_en": "Taxlent",
+    "communes": []
+  },
+  "155": {
+    "name_ar": "Gosbat",
+    "name_fr": "Gosbat",
+    "name_en": "Gosbat",
+    "communes": []
+  },
+  "156": {
+    "name_ar": "Ouled Aouf",
+    "name_fr": "Ouled Aouf",
+    "name_en": "Ouled Aouf",
+    "communes": []
+  },
+  "157": {
+    "name_ar": "Boumagueur",
+    "name_fr": "Boumagueur",
+    "name_en": "Boumagueur",
+    "communes": []
+  },
+  "158": {
+    "name_ar": "Barika",
+    "name_fr": "Barika",
+    "name_en": "Barika",
+    "communes": []
+  },
+  "159": {
+    "name_ar": "Djezzar",
+    "name_fr": "Djezzar",
+    "name_en": "Djezzar",
+    "communes": []
+  },
+  "160": {
+    "name_ar": "Tkout",
+    "name_fr": "Tkout",
+    "name_en": "Tkout",
+    "communes": []
+  },
+  "161": {
+    "name_ar": "Ain Touta",
+    "name_fr": "Ain Touta",
+    "name_en": "Ain Touta",
+    "communes": []
+  },
+  "162": {
+    "name_ar": "Hidoussa",
+    "name_fr": "Hidoussa",
+    "name_en": "Hidoussa",
+    "communes": []
+  },
+  "163": {
+    "name_ar": "Teniet El Abed",
+    "name_fr": "Teniet El Abed",
+    "name_en": "Teniet El Abed",
+    "communes": []
+  },
+  "164": {
+    "name_ar": "Oued Taga",
+    "name_fr": "Oued Taga",
+    "name_en": "Oued Taga",
+    "communes": []
+  },
+  "165": {
+    "name_ar": "Ouled Fadel",
+    "name_fr": "Ouled Fadel",
+    "name_en": "Ouled Fadel",
+    "communes": []
+  },
+  "166": {
+    "name_ar": "Timgad",
+    "name_fr": "Timgad",
+    "name_en": "Timgad",
+    "communes": []
+  },
+  "167": {
+    "name_ar": "Ras El Aioun",
+    "name_fr": "Ras El Aioun",
+    "name_en": "Ras El Aioun",
+    "communes": []
+  },
+  "168": {
+    "name_ar": "Chir",
+    "name_fr": "Chir",
+    "name_en": "Chir",
+    "communes": []
+  },
+  "169": {
+    "name_ar": "Ouled Si Slimane",
+    "name_fr": "Ouled Si Slimane",
+    "name_en": "Ouled Si Slimane",
+    "communes": []
+  },
+  "170": {
+    "name_ar": "Zanat El Beida",
+    "name_fr": "Zanat El Beida",
+    "name_en": "Zanat El Beida",
+    "communes": []
+  },
+  "171": {
+    "name_ar": "M'doukel",
+    "name_fr": "M'doukel",
+    "name_en": "M'doukel",
+    "communes": []
+  },
+  "172": {
+    "name_ar": "Ouled Ammar",
+    "name_fr": "Ouled Ammar",
+    "name_en": "Ouled Ammar",
+    "communes": []
+  },
+  "173": {
+    "name_ar": "El Hassi",
+    "name_fr": "El Hassi",
+    "name_en": "El Hassi",
+    "communes": []
+  },
+  "174": {
+    "name_ar": "Lazrou",
+    "name_fr": "Lazrou",
+    "name_en": "Lazrou",
+    "communes": []
+  },
+  "175": {
+    "name_ar": "Boumia",
+    "name_fr": "Boumia",
+    "name_en": "Boumia",
+    "communes": []
+  },
+  "176": {
+    "name_ar": "Boulhilat",
+    "name_fr": "Boulhilat",
+    "name_en": "Boulhilat",
+    "communes": []
+  },
+  "177": {
+    "name_ar": "Larbaa",
+    "name_fr": "Larbaa",
+    "name_en": "Larbaa",
+    "communes": []
+  },
+  "178": {
+    "name_ar": "Bejaia",
+    "name_fr": "Bejaia",
+    "name_en": "Bejaia",
+    "communes": []
+  },
+  "179": {
+    "name_ar": "Amizour",
+    "name_fr": "Amizour",
+    "name_en": "Amizour",
+    "communes": []
+  },
+  "180": {
+    "name_ar": "Ferraoun",
+    "name_fr": "Ferraoun",
+    "name_en": "Ferraoun",
+    "communes": []
+  },
+  "181": {
+    "name_ar": "Taourirt Ighil",
+    "name_fr": "Taourirt Ighil",
+    "name_en": "Taourirt Ighil",
+    "communes": []
+  },
+  "182": {
+    "name_ar": "Chelata",
+    "name_fr": "Chelata",
+    "name_en": "Chelata",
+    "communes": []
+  },
+  "183": {
+    "name_ar": "Tamokra",
+    "name_fr": "Tamokra",
+    "name_en": "Tamokra",
+    "communes": []
+  },
+  "184": {
+    "name_ar": "Timzrit",
+    "name_fr": "Timzrit",
+    "name_en": "Timzrit",
+    "communes": []
+  },
+  "185": {
+    "name_ar": "Souk El Thenine",
+    "name_fr": "Souk El Thenine",
+    "name_en": "Souk El Thenine",
+    "communes": []
+  },
+  "186": {
+    "name_ar": "M'cisna",
+    "name_fr": "M'cisna",
+    "name_en": "M'cisna",
+    "communes": []
+  },
+  "187": {
+    "name_ar": "Thinabdher",
+    "name_fr": "Thinabdher",
+    "name_en": "Thinabdher",
+    "communes": []
+  },
+  "188": {
+    "name_ar": "Tichi",
+    "name_fr": "Tichi",
+    "name_en": "Tichi",
+    "communes": []
+  },
+  "189": {
+    "name_ar": "Semaoun",
+    "name_fr": "Semaoun",
+    "name_en": "Semaoun",
+    "communes": []
+  },
+  "190": {
+    "name_ar": "Kendira",
+    "name_fr": "Kendira",
+    "name_en": "Kendira",
+    "communes": []
+  },
+  "191": {
+    "name_ar": "Tifra",
+    "name_fr": "Tifra",
+    "name_en": "Tifra",
+    "communes": []
+  },
+  "192": {
+    "name_ar": "Ighram",
+    "name_fr": "Ighram",
+    "name_en": "Ighram",
+    "communes": []
+  },
+  "193": {
+    "name_ar": "Amalou",
+    "name_fr": "Amalou",
+    "name_en": "Amalou",
+    "communes": []
+  },
+  "194": {
+    "name_ar": "Ighil Ali",
+    "name_fr": "Ighil Ali",
+    "name_en": "Ighil Ali",
+    "communes": []
+  },
+  "195": {
+    "name_ar": "Ifelain Ilmathen",
+    "name_fr": "Ifelain Ilmathen",
+    "name_en": "Ifelain Ilmathen",
+    "communes": []
+  },
+  "196": {
+    "name_ar": "Toudja",
+    "name_fr": "Toudja",
+    "name_en": "Toudja",
+    "communes": []
+  },
+  "197": {
+    "name_ar": "Darguina",
+    "name_fr": "Darguina",
+    "name_en": "Darguina",
+    "communes": []
+  },
+  "198": {
+    "name_ar": "Sidi Ayad",
+    "name_fr": "Sidi Ayad",
+    "name_en": "Sidi Ayad",
+    "communes": []
+  },
+  "199": {
+    "name_ar": "Aokas",
+    "name_fr": "Aokas",
+    "name_en": "Aokas",
+    "communes": []
+  },
+  "200": {
+    "name_ar": "Ait Djellil",
+    "name_fr": "Ait Djellil",
+    "name_en": "Ait Djellil",
+    "communes": []
+  },
+  "201": {
+    "name_ar": "Adekar",
+    "name_fr": "Adekar",
+    "name_en": "Adekar",
+    "communes": []
+  },
+  "202": {
+    "name_ar": "Akbou",
+    "name_fr": "Akbou",
+    "name_en": "Akbou",
+    "communes": []
+  },
+  "203": {
+    "name_ar": "Seddouk",
+    "name_fr": "Seddouk",
+    "name_en": "Seddouk",
+    "communes": []
+  },
+  "204": {
+    "name_ar": "Tazmalt",
+    "name_fr": "Tazmalt",
+    "name_en": "Tazmalt",
+    "communes": []
+  },
+  "205": {
+    "name_ar": "Ait R'zine",
+    "name_fr": "Ait R'zine",
+    "name_en": "Ait R'zine",
+    "communes": []
+  },
+  "206": {
+    "name_ar": "Chemini",
+    "name_fr": "Chemini",
+    "name_en": "Chemini",
+    "communes": []
+  },
+  "207": {
+    "name_ar": "Souk Oufella",
+    "name_fr": "Souk Oufella",
+    "name_en": "Souk Oufella",
+    "communes": []
+  },
+  "208": {
+    "name_ar": "Taskriout",
+    "name_fr": "Taskriout",
+    "name_en": "Taskriout",
+    "communes": []
+  },
+  "209": {
+    "name_ar": "Tibane",
+    "name_fr": "Tibane",
+    "name_en": "Tibane",
+    "communes": []
+  },
+  "210": {
+    "name_ar": "Tala Hamza",
+    "name_fr": "Tala Hamza",
+    "name_en": "Tala Hamza",
+    "communes": []
+  },
+  "211": {
+    "name_ar": "Barbacha",
+    "name_fr": "Barbacha",
+    "name_en": "Barbacha",
+    "communes": []
+  },
+  "212": {
+    "name_ar": "Beni Ksila",
+    "name_fr": "Beni Ksila",
+    "name_en": "Beni Ksila",
+    "communes": []
+  },
+  "213": {
+    "name_ar": "Ouzallaguen",
+    "name_fr": "Ouzallaguen",
+    "name_en": "Ouzallaguen",
+    "communes": []
+  },
+  "214": {
+    "name_ar": "Bouhamza",
+    "name_fr": "Bouhamza",
+    "name_en": "Bouhamza",
+    "communes": []
+  },
+  "215": {
+    "name_ar": "Beni Melikeche",
+    "name_fr": "Beni Melikeche",
+    "name_en": "Beni Melikeche",
+    "communes": []
+  },
+  "216": {
+    "name_ar": "Sidi Aich",
+    "name_fr": "Sidi Aich",
+    "name_en": "Sidi Aich",
+    "communes": []
+  },
+  "217": {
+    "name_ar": "El Kseur",
+    "name_fr": "El Kseur",
+    "name_en": "El Kseur",
+    "communes": []
+  },
+  "218": {
+    "name_ar": "Melbou",
+    "name_fr": "Melbou",
+    "name_en": "Melbou",
+    "communes": []
+  },
+  "219": {
+    "name_ar": "Akfadou",
+    "name_fr": "Akfadou",
+    "name_en": "Akfadou",
+    "communes": []
+  },
+  "220": {
+    "name_ar": "Leflaye",
+    "name_fr": "Leflaye",
+    "name_en": "Leflaye",
+    "communes": []
+  },
+  "221": {
+    "name_ar": "Kherrata",
+    "name_fr": "Kherrata",
+    "name_en": "Kherrata",
+    "communes": []
+  },
+  "222": {
+    "name_ar": "Draa Kaid",
+    "name_fr": "Draa Kaid",
+    "name_en": "Draa Kaid",
+    "communes": []
+  },
+  "223": {
+    "name_ar": "Tamridjet",
+    "name_fr": "Tamridjet",
+    "name_en": "Tamridjet",
+    "communes": []
+  },
+  "224": {
+    "name_ar": "Ait Smail",
+    "name_fr": "Ait Smail",
+    "name_en": "Ait Smail",
+    "communes": []
+  },
+  "225": {
+    "name_ar": "Boukhelifa",
+    "name_fr": "Boukhelifa",
+    "name_en": "Boukhelifa",
+    "communes": []
+  },
+  "226": {
+    "name_ar": "Tizi N'berber",
+    "name_fr": "Tizi N'berber",
+    "name_en": "Tizi N'berber",
+    "communes": []
+  },
+  "227": {
+    "name_ar": "Beni Maouch",
+    "name_fr": "Beni Maouch",
+    "name_en": "Beni Maouch",
+    "communes": []
+  },
+  "228": {
+    "name_ar": "Oued Ghir",
+    "name_fr": "Oued Ghir",
+    "name_en": "Oued Ghir",
+    "communes": []
+  },
+  "229": {
+    "name_ar": "Boudjellil",
+    "name_fr": "Boudjellil",
+    "name_en": "Boudjellil",
+    "communes": []
+  },
+  "230": {
+    "name_ar": "Biskra",
+    "name_fr": "Biskra",
+    "name_en": "Biskra",
+    "communes": []
+  },
+  "231": {
+    "name_ar": "Oumache",
+    "name_fr": "Oumache",
+    "name_en": "Oumache",
+    "communes": []
+  },
+  "232": {
+    "name_ar": "Branis",
+    "name_fr": "Branis",
+    "name_en": "Branis",
+    "communes": []
+  },
+  "233": {
+    "name_ar": "Chetma",
+    "name_fr": "Chetma",
+    "name_en": "Chetma",
+    "communes": []
+  },
+  "234": {
+    "name_ar": "Ouled Djellal",
+    "name_fr": "Ouled Djellal",
+    "name_en": "Ouled Djellal",
+    "communes": []
+  },
+  "235": {
+    "name_ar": "Ras El Miaad",
+    "name_fr": "Ras El Miaad",
+    "name_en": "Ras El Miaad",
+    "communes": []
+  },
+  "236": {
+    "name_ar": "Besbes",
+    "name_fr": "Besbes",
+    "name_en": "Besbes",
+    "communes": []
+  },
+  "237": {
+    "name_ar": "Sidi Khaled",
+    "name_fr": "Sidi Khaled",
+    "name_en": "Sidi Khaled",
+    "communes": []
+  },
+  "238": {
+    "name_ar": "Doucen",
+    "name_fr": "Doucen",
+    "name_en": "Doucen",
+    "communes": []
+  },
+  "239": {
+    "name_ar": "Ech Chaiba",
+    "name_fr": "Ech Chaiba",
+    "name_en": "Ech Chaiba",
+    "communes": []
+  },
+  "240": {
+    "name_ar": "Sidi Okba",
+    "name_fr": "Sidi Okba",
+    "name_en": "Sidi Okba",
+    "communes": []
+  },
+  "241": {
+    "name_ar": "Mchouneche",
+    "name_fr": "Mchouneche",
+    "name_en": "Mchouneche",
+    "communes": []
+  },
+  "242": {
+    "name_ar": "El Haouch",
+    "name_fr": "El Haouch",
+    "name_en": "El Haouch",
+    "communes": []
+  },
+  "243": {
+    "name_ar": "Ain Naga",
+    "name_fr": "Ain Naga",
+    "name_en": "Ain Naga",
+    "communes": []
+  },
+  "244": {
+    "name_ar": "Zeribet El Oued",
+    "name_fr": "Zeribet El Oued",
+    "name_en": "Zeribet El Oued",
+    "communes": []
+  },
+  "245": {
+    "name_ar": "El Feidh",
+    "name_fr": "El Feidh",
+    "name_en": "El Feidh",
+    "communes": []
+  },
+  "246": {
+    "name_ar": "El Kantara",
+    "name_fr": "El Kantara",
+    "name_en": "El Kantara",
+    "communes": []
+  },
+  "247": {
+    "name_ar": "Ain Zaatout",
+    "name_fr": "Ain Zaatout",
+    "name_en": "Ain Zaatout",
+    "communes": []
+  },
+  "248": {
+    "name_ar": "El Outaya",
+    "name_fr": "El Outaya",
+    "name_en": "El Outaya",
+    "communes": []
+  },
+  "249": {
+    "name_ar": "Djemorah",
+    "name_fr": "Djemorah",
+    "name_en": "Djemorah",
+    "communes": []
+  },
+  "250": {
+    "name_ar": "Tolga",
+    "name_fr": "Tolga",
+    "name_en": "Tolga",
+    "communes": []
+  },
+  "251": {
+    "name_ar": "Lioua",
+    "name_fr": "Lioua",
+    "name_en": "Lioua",
+    "communes": []
+  },
+  "252": {
+    "name_ar": "Lichana",
+    "name_fr": "Lichana",
+    "name_en": "Lichana",
+    "communes": []
+  },
+  "253": {
+    "name_ar": "Ourlal",
+    "name_fr": "Ourlal",
+    "name_en": "Ourlal",
+    "communes": []
+  },
+  "254": {
+    "name_ar": "M'lili",
+    "name_fr": "M'lili",
+    "name_en": "M'lili",
+    "communes": []
+  },
+  "255": {
+    "name_ar": "Foughala",
+    "name_fr": "Foughala",
+    "name_en": "Foughala",
+    "communes": []
+  },
+  "256": {
+    "name_ar": "Bordj Ben Azzouz",
+    "name_fr": "Bordj Ben Azzouz",
+    "name_en": "Bordj Ben Azzouz",
+    "communes": []
+  },
+  "257": {
+    "name_ar": "M'ziraa",
+    "name_fr": "M'ziraa",
+    "name_en": "M'ziraa",
+    "communes": []
+  },
+  "258": {
+    "name_ar": "Bouchagroun",
+    "name_fr": "Bouchagroun",
+    "name_en": "Bouchagroun",
+    "communes": []
+  },
+  "259": {
+    "name_ar": "Mekhadma",
+    "name_fr": "Mekhadma",
+    "name_en": "Mekhadma",
+    "communes": []
+  },
+  "260": {
+    "name_ar": "El Ghrous",
+    "name_fr": "El Ghrous",
+    "name_en": "El Ghrous",
+    "communes": []
+  },
+  "261": {
+    "name_ar": "El Hadjab",
+    "name_fr": "El Hadjab",
+    "name_en": "El Hadjab",
+    "communes": []
+  },
+  "262": {
+    "name_ar": "Khanguet Sidinadji",
+    "name_fr": "Khanguet Sidinadji",
+    "name_en": "Khanguet Sidinadji",
+    "communes": []
+  },
+  "263": {
+    "name_ar": "Bechar",
+    "name_fr": "Bechar",
+    "name_en": "Bechar",
+    "communes": []
+  },
+  "264": {
+    "name_ar": "Erg Ferradj",
+    "name_fr": "Erg Ferradj",
+    "name_en": "Erg Ferradj",
+    "communes": []
+  },
+  "265": {
+    "name_ar": "Ouled Khoudir",
+    "name_fr": "Ouled Khoudir",
+    "name_en": "Ouled Khoudir",
+    "communes": []
+  },
+  "266": {
+    "name_ar": "Meridja",
+    "name_fr": "Meridja",
+    "name_en": "Meridja",
+    "communes": []
+  },
+  "267": {
+    "name_ar": "Timoudi",
+    "name_fr": "Timoudi",
+    "name_en": "Timoudi",
+    "communes": []
+  },
+  "268": {
+    "name_ar": "Lahmar",
+    "name_fr": "Lahmar",
+    "name_en": "Lahmar",
+    "communes": []
+  },
+  "269": {
+    "name_ar": "Beni Abbes",
+    "name_fr": "Beni Abbes",
+    "name_en": "Beni Abbes",
+    "communes": []
+  },
+  "270": {
+    "name_ar": "Beni Ikhlef",
+    "name_fr": "Beni Ikhlef",
+    "name_en": "Beni Ikhlef",
+    "communes": []
+  },
+  "271": {
+    "name_ar": "Mechraa Houari Boumedienne",
+    "name_fr": "Mechraa Houari Boumedienne",
+    "name_en": "Mechraa Houari Boumedienne",
+    "communes": []
+  },
+  "272": {
+    "name_ar": "Kenedsa",
+    "name_fr": "Kenedsa",
+    "name_en": "Kenedsa",
+    "communes": []
+  },
+  "273": {
+    "name_ar": "Igli",
+    "name_fr": "Igli",
+    "name_en": "Igli",
+    "communes": []
+  },
+  "274": {
+    "name_ar": "Tabalbala",
+    "name_fr": "Tabalbala",
+    "name_en": "Tabalbala",
+    "communes": []
+  },
+  "275": {
+    "name_ar": "Taghit",
+    "name_fr": "Taghit",
+    "name_en": "Taghit",
+    "communes": []
+  },
+  "276": {
+    "name_ar": "El Ouata",
+    "name_fr": "El Ouata",
+    "name_en": "El Ouata",
+    "communes": []
+  },
+  "277": {
+    "name_ar": "Boukais",
+    "name_fr": "Boukais",
+    "name_en": "Boukais",
+    "communes": []
+  },
+  "278": {
+    "name_ar": "Mogheul",
+    "name_fr": "Mogheul",
+    "name_en": "Mogheul",
+    "communes": []
+  },
+  "279": {
+    "name_ar": "Abadla",
+    "name_fr": "Abadla",
+    "name_en": "Abadla",
+    "communes": []
+  },
+  "280": {
+    "name_ar": "Kerzaz",
+    "name_fr": "Kerzaz",
+    "name_en": "Kerzaz",
+    "communes": []
+  },
+  "281": {
+    "name_ar": "Ksabi",
+    "name_fr": "Ksabi",
+    "name_en": "Ksabi",
+    "communes": []
+  },
+  "282": {
+    "name_ar": "Tamtert",
+    "name_fr": "Tamtert",
+    "name_en": "Tamtert",
+    "communes": []
+  },
+  "283": {
+    "name_ar": "Beni Ounif",
+    "name_fr": "Beni Ounif",
+    "name_en": "Beni Ounif",
+    "communes": []
+  },
+  "284": {
+    "name_ar": "Blida",
+    "name_fr": "Blida",
+    "name_en": "Blida",
+    "communes": []
+  },
+  "285": {
+    "name_ar": "Chebli",
+    "name_fr": "Chebli",
+    "name_en": "Chebli",
+    "communes": []
+  },
+  "286": {
+    "name_ar": "Bouinan",
+    "name_fr": "Bouinan",
+    "name_en": "Bouinan",
+    "communes": []
+  },
+  "287": {
+    "name_ar": "Oued El Alleug",
+    "name_fr": "Oued El Alleug",
+    "name_en": "Oued El Alleug",
+    "communes": []
+  },
+  "288": {
+    "name_ar": "Ouled Yaich",
+    "name_fr": "Ouled Yaich",
+    "name_en": "Ouled Yaich",
+    "communes": []
+  },
+  "289": {
+    "name_ar": "Chrea",
+    "name_fr": "Chrea",
+    "name_en": "Chrea",
+    "communes": []
+  },
+  "290": {
+    "name_ar": "El Affroun",
+    "name_fr": "El Affroun",
+    "name_en": "El Affroun",
+    "communes": []
+  },
+  "291": {
+    "name_ar": "Chiffa",
+    "name_fr": "Chiffa",
+    "name_en": "Chiffa",
+    "communes": []
+  },
+  "292": {
+    "name_ar": "Hammam Melouane",
+    "name_fr": "Hammam Melouane",
+    "name_en": "Hammam Melouane",
+    "communes": []
+  },
+  "293": {
+    "name_ar": "Ben Khlil",
+    "name_fr": "Ben Khlil",
+    "name_en": "Ben Khlil",
+    "communes": []
+  },
+  "294": {
+    "name_ar": "Soumaa",
+    "name_fr": "Soumaa",
+    "name_en": "Soumaa",
+    "communes": []
+  },
+  "295": {
+    "name_ar": "Mouzaia",
+    "name_fr": "Mouzaia",
+    "name_en": "Mouzaia",
+    "communes": []
+  },
+  "296": {
+    "name_ar": "Souhane",
+    "name_fr": "Souhane",
+    "name_en": "Souhane",
+    "communes": []
+  },
+  "297": {
+    "name_ar": "Meftah",
+    "name_fr": "Meftah",
+    "name_en": "Meftah",
+    "communes": []
+  },
+  "298": {
+    "name_ar": "Ouled Selama",
+    "name_fr": "Ouled Selama",
+    "name_en": "Ouled Selama",
+    "communes": []
+  },
+  "299": {
+    "name_ar": "Boufarik",
+    "name_fr": "Boufarik",
+    "name_en": "Boufarik",
+    "communes": []
+  },
+  "300": {
+    "name_ar": "Larbaa",
+    "name_fr": "Larbaa",
+    "name_en": "Larbaa",
+    "communes": []
+  },
+  "301": {
+    "name_ar": "Oued Djer",
+    "name_fr": "Oued Djer",
+    "name_en": "Oued Djer",
+    "communes": []
+  },
+  "302": {
+    "name_ar": "Beni Tamou",
+    "name_fr": "Beni Tamou",
+    "name_en": "Beni Tamou",
+    "communes": []
+  },
+  "303": {
+    "name_ar": "Bouarfa",
+    "name_fr": "Bouarfa",
+    "name_en": "Bouarfa",
+    "communes": []
+  },
+  "304": {
+    "name_ar": "Beni Mered",
+    "name_fr": "Beni Mered",
+    "name_en": "Beni Mered",
+    "communes": []
+  },
+  "305": {
+    "name_ar": "Bougara",
+    "name_fr": "Bougara",
+    "name_en": "Bougara",
+    "communes": []
+  },
+  "306": {
+    "name_ar": "Guerrouaou",
+    "name_fr": "Guerrouaou",
+    "name_en": "Guerrouaou",
+    "communes": []
+  },
+  "307": {
+    "name_ar": "Ain Romana",
+    "name_fr": "Ain Romana",
+    "name_en": "Ain Romana",
+    "communes": []
+  },
+  "308": {
+    "name_ar": "Djebabra",
+    "name_fr": "Djebabra",
+    "name_en": "Djebabra",
+    "communes": []
+  },
+  "309": {
+    "name_ar": "Bouira",
+    "name_fr": "Bouira",
+    "name_en": "Bouira",
+    "communes": []
+  },
+  "310": {
+    "name_ar": "El Asnam",
+    "name_fr": "El Asnam",
+    "name_en": "El Asnam",
+    "communes": []
+  },
+  "311": {
+    "name_ar": "Guerrouma",
+    "name_fr": "Guerrouma",
+    "name_en": "Guerrouma",
+    "communes": []
+  },
+  "312": {
+    "name_ar": "Souk El Khemis",
+    "name_fr": "Souk El Khemis",
+    "name_en": "Souk El Khemis",
+    "communes": []
+  },
+  "313": {
+    "name_ar": "Kadiria",
+    "name_fr": "Kadiria",
+    "name_en": "Kadiria",
+    "communes": []
+  },
+  "314": {
+    "name_ar": "Hanif",
+    "name_fr": "Hanif",
+    "name_en": "Hanif",
+    "communes": []
+  },
+  "315": {
+    "name_ar": "Dirah",
+    "name_fr": "Dirah",
+    "name_en": "Dirah",
+    "communes": []
+  },
+  "316": {
+    "name_ar": "Ait Laaziz",
+    "name_fr": "Ait Laaziz",
+    "name_en": "Ait Laaziz",
+    "communes": []
+  },
+  "317": {
+    "name_ar": "Taghzout",
+    "name_fr": "Taghzout",
+    "name_en": "Taghzout",
+    "communes": []
+  },
+  "318": {
+    "name_ar": "Raouraoua",
+    "name_fr": "Raouraoua",
+    "name_en": "Raouraoua",
+    "communes": []
+  },
+  "319": {
+    "name_ar": "Mezdour",
+    "name_fr": "Mezdour",
+    "name_en": "Mezdour",
+    "communes": []
+  },
+  "320": {
+    "name_ar": "Haizer",
+    "name_fr": "Haizer",
+    "name_en": "Haizer",
+    "communes": []
+  },
+  "321": {
+    "name_ar": "Lakhdaria",
+    "name_fr": "Lakhdaria",
+    "name_en": "Lakhdaria",
+    "communes": []
+  },
+  "322": {
+    "name_ar": "Maala",
+    "name_fr": "Maala",
+    "name_en": "Maala",
+    "communes": []
+  },
+  "323": {
+    "name_ar": "El Hachimia",
+    "name_fr": "El Hachimia",
+    "name_en": "El Hachimia",
+    "communes": []
+  },
+  "324": {
+    "name_ar": "Aomar",
+    "name_fr": "Aomar",
+    "name_en": "Aomar",
+    "communes": []
+  },
+  "325": {
+    "name_ar": "Chorfa",
+    "name_fr": "Chorfa",
+    "name_en": "Chorfa",
+    "communes": []
+  },
+  "326": {
+    "name_ar": "Bordj Oukhriss",
+    "name_fr": "Bordj Oukhriss",
+    "name_en": "Bordj Oukhriss",
+    "communes": []
+  },
+  "327": {
+    "name_ar": "El Adjiba",
+    "name_fr": "El Adjiba",
+    "name_en": "El Adjiba",
+    "communes": []
+  },
+  "328": {
+    "name_ar": "El Hakimia",
+    "name_fr": "El Hakimia",
+    "name_en": "El Hakimia",
+    "communes": []
+  },
+  "329": {
+    "name_ar": "El Khebouzia",
+    "name_fr": "El Khebouzia",
+    "name_en": "El Khebouzia",
+    "communes": []
+  },
+  "330": {
+    "name_ar": "Ahl El Ksar",
+    "name_fr": "Ahl El Ksar",
+    "name_en": "Ahl El Ksar",
+    "communes": []
+  },
+  "331": {
+    "name_ar": "Bouderbala",
+    "name_fr": "Bouderbala",
+    "name_en": "Bouderbala",
+    "communes": []
+  },
+  "332": {
+    "name_ar": "Zbarbar",
+    "name_fr": "Zbarbar",
+    "name_en": "Zbarbar",
+    "communes": []
+  },
+  "333": {
+    "name_ar": "Ain El Hadjar",
+    "name_fr": "Ain El Hadjar",
+    "name_en": "Ain El Hadjar",
+    "communes": []
+  },
+  "334": {
+    "name_ar": "Djebahia",
+    "name_fr": "Djebahia",
+    "name_en": "Djebahia",
+    "communes": []
+  },
+  "335": {
+    "name_ar": "Aghbalou",
+    "name_fr": "Aghbalou",
+    "name_en": "Aghbalou",
+    "communes": []
+  },
+  "336": {
+    "name_ar": "Taguedit",
+    "name_fr": "Taguedit",
+    "name_en": "Taguedit",
+    "communes": []
+  },
+  "337": {
+    "name_ar": "Ain Turk",
+    "name_fr": "Ain Turk",
+    "name_en": "Ain Turk",
+    "communes": []
+  },
+  "338": {
+    "name_ar": "Saharidj",
+    "name_fr": "Saharidj",
+    "name_en": "Saharidj",
+    "communes": []
+  },
+  "339": {
+    "name_ar": "Dechmia",
+    "name_fr": "Dechmia",
+    "name_en": "Dechmia",
+    "communes": []
+  },
+  "340": {
+    "name_ar": "Ridane",
+    "name_fr": "Ridane",
+    "name_en": "Ridane",
+    "communes": []
+  },
+  "341": {
+    "name_ar": "Bechloul",
+    "name_fr": "Bechloul",
+    "name_en": "Bechloul",
+    "communes": []
+  },
+  "342": {
+    "name_ar": "Boukram",
+    "name_fr": "Boukram",
+    "name_en": "Boukram",
+    "communes": []
+  },
+  "343": {
+    "name_ar": "Ain Bessam",
+    "name_fr": "Ain Bessam",
+    "name_en": "Ain Bessam",
+    "communes": []
+  },
+  "344": {
+    "name_ar": "Bir Ghbalou",
+    "name_fr": "Bir Ghbalou",
+    "name_en": "Bir Ghbalou",
+    "communes": []
+  },
+  "345": {
+    "name_ar": "Mchedallah",
+    "name_fr": "Mchedallah",
+    "name_en": "Mchedallah",
+    "communes": []
+  },
+  "346": {
+    "name_ar": "Sour El Ghozlane",
+    "name_fr": "Sour El Ghozlane",
+    "name_en": "Sour El Ghozlane",
+    "communes": []
+  },
+  "347": {
+    "name_ar": "Maamora",
+    "name_fr": "Maamora",
+    "name_en": "Maamora",
+    "communes": []
+  },
+  "348": {
+    "name_ar": "Ouled Rached",
+    "name_fr": "Ouled Rached",
+    "name_en": "Ouled Rached",
+    "communes": []
+  },
+  "349": {
+    "name_ar": "Ain Laloui",
+    "name_fr": "Ain Laloui",
+    "name_en": "Ain Laloui",
+    "communes": []
+  },
+  "350": {
+    "name_ar": "Hadjera Zerga",
+    "name_fr": "Hadjera Zerga",
+    "name_en": "Hadjera Zerga",
+    "communes": []
+  },
+  "351": {
+    "name_ar": "Ath Mansour",
+    "name_fr": "Ath Mansour",
+    "name_en": "Ath Mansour",
+    "communes": []
+  },
+  "352": {
+    "name_ar": "El Mokrani",
+    "name_fr": "El Mokrani",
+    "name_en": "El Mokrani",
+    "communes": []
+  },
+  "353": {
+    "name_ar": "Oued El Berdi",
+    "name_fr": "Oued El Berdi",
+    "name_en": "Oued El Berdi",
+    "communes": []
+  },
+  "354": {
+    "name_ar": "Tamanghasset",
+    "name_fr": "Tamanghasset",
+    "name_en": "Tamanghasset",
+    "communes": []
+  },
+  "355": {
+    "name_ar": "Abalessa",
+    "name_fr": "Abalessa",
+    "name_en": "Abalessa",
+    "communes": []
+  },
+  "356": {
+    "name_ar": "In Ghar",
+    "name_fr": "In Ghar",
+    "name_en": "In Ghar",
+    "communes": []
+  },
+  "357": {
+    "name_ar": "In Guezzam",
+    "name_fr": "In Guezzam",
+    "name_en": "In Guezzam",
+    "communes": []
+  },
+  "358": {
+    "name_ar": "Idles",
+    "name_fr": "Idles",
+    "name_en": "Idles",
+    "communes": []
+  },
+  "359": {
+    "name_ar": "Tazouk",
+    "name_fr": "Tazouk",
+    "name_en": "Tazouk",
+    "communes": []
+  },
+  "360": {
+    "name_ar": "Tinzaouatine",
+    "name_fr": "Tinzaouatine",
+    "name_en": "Tinzaouatine",
+    "communes": []
+  },
+  "361": {
+    "name_ar": "In Salah",
+    "name_fr": "In Salah",
+    "name_en": "In Salah",
+    "communes": []
+  },
+  "362": {
+    "name_ar": "In Amguel",
+    "name_fr": "In Amguel",
+    "name_en": "In Amguel",
+    "communes": []
+  },
+  "363": {
+    "name_ar": "Foggaret Ezzaouia",
+    "name_fr": "Foggaret Ezzaouia",
+    "name_en": "Foggaret Ezzaouia",
+    "communes": []
+  },
+  "364": {
+    "name_ar": "Tebessa",
+    "name_fr": "Tebessa",
+    "name_en": "Tebessa",
+    "communes": []
+  },
+  "365": {
+    "name_ar": "Bir El Ater",
+    "name_fr": "Bir El Ater",
+    "name_en": "Bir El Ater",
+    "communes": []
+  },
+  "366": {
+    "name_ar": "Cheria",
+    "name_fr": "Cheria",
+    "name_en": "Cheria",
+    "communes": []
+  },
+  "367": {
+    "name_ar": "Stah Guentis",
+    "name_fr": "Stah Guentis",
+    "name_en": "Stah Guentis",
+    "communes": []
+  },
+  "368": {
+    "name_ar": "El Aouinet",
+    "name_fr": "El Aouinet",
+    "name_en": "El Aouinet",
+    "communes": []
+  },
+  "369": {
+    "name_ar": "Lahouidjbet",
+    "name_fr": "Lahouidjbet",
+    "name_en": "Lahouidjbet",
+    "communes": []
+  },
+  "370": {
+    "name_ar": "Safsaf El Ouesra",
+    "name_fr": "Safsaf El Ouesra",
+    "name_en": "Safsaf El Ouesra",
+    "communes": []
+  },
+  "371": {
+    "name_ar": "Hammamet",
+    "name_fr": "Hammamet",
+    "name_en": "Hammamet",
+    "communes": []
+  },
+  "372": {
+    "name_ar": "Negrine",
+    "name_fr": "Negrine",
+    "name_en": "Negrine",
+    "communes": []
+  },
+  "373": {
+    "name_ar": "Bir El Mokadem",
+    "name_fr": "Bir El Mokadem",
+    "name_en": "Bir El Mokadem",
+    "communes": []
+  },
+  "374": {
+    "name_ar": "El Kouif",
+    "name_fr": "El Kouif",
+    "name_en": "El Kouif",
+    "communes": []
+  },
+  "375": {
+    "name_ar": "Morsott",
+    "name_fr": "Morsott",
+    "name_en": "Morsott",
+    "communes": []
+  },
+  "376": {
+    "name_ar": "El Ogla",
+    "name_fr": "El Ogla",
+    "name_en": "El Ogla",
+    "communes": []
+  },
+  "377": {
+    "name_ar": "Bir Dheb",
+    "name_fr": "Bir Dheb",
+    "name_en": "Bir Dheb",
+    "communes": []
+  },
+  "378": {
+    "name_ar": "El Ogla",
+    "name_fr": "El Ogla",
+    "name_en": "El Ogla",
+    "communes": []
+  },
+  "379": {
+    "name_ar": "Gorriguer",
+    "name_fr": "Gorriguer",
+    "name_en": "Gorriguer",
+    "communes": []
+  },
+  "380": {
+    "name_ar": "Bekkaria",
+    "name_fr": "Bekkaria",
+    "name_en": "Bekkaria",
+    "communes": []
+  },
+  "381": {
+    "name_ar": "Boukhadra",
+    "name_fr": "Boukhadra",
+    "name_en": "Boukhadra",
+    "communes": []
+  },
+  "382": {
+    "name_ar": "Ouenza",
+    "name_fr": "Ouenza",
+    "name_en": "Ouenza",
+    "communes": []
+  },
+  "383": {
+    "name_ar": "El Ma El Biodh",
+    "name_fr": "El Ma El Biodh",
+    "name_en": "El Ma El Biodh",
+    "communes": []
+  },
+  "384": {
+    "name_ar": "Oum Ali",
+    "name_fr": "Oum Ali",
+    "name_en": "Oum Ali",
+    "communes": []
+  },
+  "385": {
+    "name_ar": "Tlidjene",
+    "name_fr": "Tlidjene",
+    "name_en": "Tlidjene",
+    "communes": []
+  },
+  "386": {
+    "name_ar": "Ain Zerga",
+    "name_fr": "Ain Zerga",
+    "name_en": "Ain Zerga",
+    "communes": []
+  },
+  "387": {
+    "name_ar": "El Meridj",
+    "name_fr": "El Meridj",
+    "name_en": "El Meridj",
+    "communes": []
+  },
+  "388": {
+    "name_ar": "Boulhaf Dyr",
+    "name_fr": "Boulhaf Dyr",
+    "name_en": "Boulhaf Dyr",
+    "communes": []
+  },
+  "389": {
+    "name_ar": "Bedjene",
+    "name_fr": "Bedjene",
+    "name_en": "Bedjene",
+    "communes": []
+  },
+  "390": {
+    "name_ar": "El Mazeraa",
+    "name_fr": "El Mazeraa",
+    "name_en": "El Mazeraa",
+    "communes": []
+  },
+  "391": {
+    "name_ar": "Ferkane",
+    "name_fr": "Ferkane",
+    "name_en": "Ferkane",
+    "communes": []
+  },
+  "392": {
+    "name_ar": "Tlemcen",
+    "name_fr": "Tlemcen",
+    "name_en": "Tlemcen",
+    "communes": []
+  },
+  "393": {
+    "name_ar": "Beni Mester",
+    "name_fr": "Beni Mester",
+    "name_en": "Beni Mester",
+    "communes": []
+  },
+  "394": {
+    "name_ar": "Ain Tallout",
+    "name_fr": "Ain Tallout",
+    "name_en": "Ain Tallout",
+    "communes": []
+  },
+  "395": {
+    "name_ar": "Remchi",
+    "name_fr": "Remchi",
+    "name_en": "Remchi",
+    "communes": []
+  },
+  "396": {
+    "name_ar": "El Fehoul",
+    "name_fr": "El Fehoul",
+    "name_en": "El Fehoul",
+    "communes": []
+  },
+  "397": {
+    "name_ar": "Sabra",
+    "name_fr": "Sabra",
+    "name_en": "Sabra",
+    "communes": []
+  },
+  "398": {
+    "name_ar": "Ghazaouet",
+    "name_fr": "Ghazaouet",
+    "name_en": "Ghazaouet",
+    "communes": []
+  },
+  "399": {
+    "name_ar": "Souani",
+    "name_fr": "Souani",
+    "name_en": "Souani",
+    "communes": []
+  },
+  "400": {
+    "name_ar": "Djebala",
+    "name_fr": "Djebala",
+    "name_en": "Djebala",
+    "communes": []
+  },
+  "401": {
+    "name_ar": "El Gor",
+    "name_fr": "El Gor",
+    "name_en": "El Gor",
+    "communes": []
+  },
+  "402": {
+    "name_ar": "Oued Chouly",
+    "name_fr": "Oued Chouly",
+    "name_en": "Oued Chouly",
+    "communes": []
+  },
+  "403": {
+    "name_ar": "Ain Fezza",
+    "name_fr": "Ain Fezza",
+    "name_en": "Ain Fezza",
+    "communes": []
+  },
+  "404": {
+    "name_ar": "Ouled Mimoun",
+    "name_fr": "Ouled Mimoun",
+    "name_en": "Ouled Mimoun",
+    "communes": []
+  },
+  "405": {
+    "name_ar": "Amieur",
+    "name_fr": "Amieur",
+    "name_en": "Amieur",
+    "communes": []
+  },
+  "406": {
+    "name_ar": "Ain Youcef",
+    "name_fr": "Ain Youcef",
+    "name_en": "Ain Youcef",
+    "communes": []
+  },
+  "407": {
+    "name_ar": "Zenata",
+    "name_fr": "Zenata",
+    "name_en": "Zenata",
+    "communes": []
+  },
+  "408": {
+    "name_ar": "Beni Snous",
+    "name_fr": "Beni Snous",
+    "name_en": "Beni Snous",
+    "communes": []
+  },
+  "409": {
+    "name_ar": "Bab El Assa",
+    "name_fr": "Bab El Assa",
+    "name_en": "Bab El Assa",
+    "communes": []
+  },
+  "410": {
+    "name_ar": "Dar Yaghmouracene",
+    "name_fr": "Dar Yaghmouracene",
+    "name_en": "Dar Yaghmouracene",
+    "communes": []
+  },
+  "411": {
+    "name_ar": "Fellaoucene",
+    "name_fr": "Fellaoucene",
+    "name_en": "Fellaoucene",
+    "communes": []
+  },
+  "412": {
+    "name_ar": "Azails",
+    "name_fr": "Azails",
+    "name_en": "Azails",
+    "communes": []
+  },
+  "413": {
+    "name_ar": "Sebbaa Chioukh",
+    "name_fr": "Sebbaa Chioukh",
+    "name_en": "Sebbaa Chioukh",
+    "communes": []
+  },
+  "414": {
+    "name_ar": "Terni Beni Hediel",
+    "name_fr": "Terni Beni Hediel",
+    "name_en": "Terni Beni Hediel",
+    "communes": []
+  },
+  "415": {
+    "name_ar": "Bensekrane",
+    "name_fr": "Bensekrane",
+    "name_en": "Bensekrane",
+    "communes": []
+  },
+  "416": {
+    "name_ar": "Ain Nehala",
+    "name_fr": "Ain Nehala",
+    "name_en": "Ain Nehala",
+    "communes": []
+  },
+  "417": {
+    "name_ar": "Hennaya",
+    "name_fr": "Hennaya",
+    "name_en": "Hennaya",
+    "communes": []
+  },
+  "418": {
+    "name_ar": "Maghnia",
+    "name_fr": "Maghnia",
+    "name_en": "Maghnia",
+    "communes": []
+  },
+  "419": {
+    "name_ar": "Hammam Boughrara",
+    "name_fr": "Hammam Boughrara",
+    "name_en": "Hammam Boughrara",
+    "communes": []
+  },
+  "420": {
+    "name_ar": "Souahlia",
+    "name_fr": "Souahlia",
+    "name_en": "Souahlia",
+    "communes": []
+  },
+  "421": {
+    "name_ar": "Msirda Fouaga",
+    "name_fr": "Msirda Fouaga",
+    "name_en": "Msirda Fouaga",
+    "communes": []
+  },
+  "422": {
+    "name_ar": "Ain Fetah",
+    "name_fr": "Ain Fetah",
+    "name_en": "Ain Fetah",
+    "communes": []
+  },
+  "423": {
+    "name_ar": "El Aricha",
+    "name_fr": "El Aricha",
+    "name_en": "El Aricha",
+    "communes": []
+  },
+  "424": {
+    "name_ar": "Souk Thlata",
+    "name_fr": "Souk Thlata",
+    "name_en": "Souk Thlata",
+    "communes": []
+  },
+  "425": {
+    "name_ar": "Sidi Abdelli",
+    "name_fr": "Sidi Abdelli",
+    "name_en": "Sidi Abdelli",
+    "communes": []
+  },
+  "426": {
+    "name_ar": "Sebdou",
+    "name_fr": "Sebdou",
+    "name_en": "Sebdou",
+    "communes": []
+  },
+  "427": {
+    "name_ar": "Beni Ouarsous",
+    "name_fr": "Beni Ouarsous",
+    "name_en": "Beni Ouarsous",
+    "communes": []
+  },
+  "428": {
+    "name_ar": "Sidi Medjahed",
+    "name_fr": "Sidi Medjahed",
+    "name_en": "Sidi Medjahed",
+    "communes": []
+  },
+  "429": {
+    "name_ar": "Beni Boussaid",
+    "name_fr": "Beni Boussaid",
+    "name_en": "Beni Boussaid",
+    "communes": []
+  },
+  "430": {
+    "name_ar": "Marsa Ben Mhidi",
+    "name_fr": "Marsa Ben Mhidi",
+    "name_en": "Marsa Ben Mhidi",
+    "communes": []
+  },
+  "431": {
+    "name_ar": "Nedroma",
+    "name_fr": "Nedroma",
+    "name_en": "Nedroma",
+    "communes": []
+  },
+  "432": {
+    "name_ar": "Sidi Djillali",
+    "name_fr": "Sidi Djillali",
+    "name_en": "Sidi Djillali",
+    "communes": []
+  },
+  "433": {
+    "name_ar": "Beni Bahdel",
+    "name_fr": "Beni Bahdel",
+    "name_en": "Beni Bahdel",
+    "communes": []
+  },
+  "434": {
+    "name_ar": "El Bouihi",
+    "name_fr": "El Bouihi",
+    "name_en": "El Bouihi",
+    "communes": []
+  },
+  "435": {
+    "name_ar": "Honaine",
+    "name_fr": "Honaine",
+    "name_en": "Honaine",
+    "communes": []
+  },
+  "436": {
+    "name_ar": "Tianet",
+    "name_fr": "Tianet",
+    "name_en": "Tianet",
+    "communes": []
+  },
+  "437": {
+    "name_ar": "Ouled Riyah",
+    "name_fr": "Ouled Riyah",
+    "name_en": "Ouled Riyah",
+    "communes": []
+  },
+  "438": {
+    "name_ar": "Bouhlou",
+    "name_fr": "Bouhlou",
+    "name_en": "Bouhlou",
+    "communes": []
+  },
+  "439": {
+    "name_ar": "Souk El Khemis",
+    "name_fr": "Souk El Khemis",
+    "name_en": "Souk El Khemis",
+    "communes": []
+  },
+  "440": {
+    "name_ar": "Ain Ghoraba",
+    "name_fr": "Ain Ghoraba",
+    "name_en": "Ain Ghoraba",
+    "communes": []
+  },
+  "441": {
+    "name_ar": "Chetouane",
+    "name_fr": "Chetouane",
+    "name_en": "Chetouane",
+    "communes": []
+  },
+  "442": {
+    "name_ar": "Mansourah",
+    "name_fr": "Mansourah",
+    "name_en": "Mansourah",
+    "communes": []
+  },
+  "443": {
+    "name_ar": "Beni Semiel",
+    "name_fr": "Beni Semiel",
+    "name_en": "Beni Semiel",
+    "communes": []
+  },
+  "444": {
+    "name_ar": "Ain Kebira",
+    "name_fr": "Ain Kebira",
+    "name_en": "Ain Kebira",
+    "communes": []
+  },
+  "445": {
+    "name_ar": "Tiaret",
+    "name_fr": "Tiaret",
+    "name_en": "Tiaret",
+    "communes": []
+  },
+  "446": {
+    "name_ar": "Medroussa",
+    "name_fr": "Medroussa",
+    "name_en": "Medroussa",
+    "communes": []
+  },
+  "447": {
+    "name_ar": "Ain Bouchekif",
+    "name_fr": "Ain Bouchekif",
+    "name_en": "Ain Bouchekif",
+    "communes": []
+  },
+  "448": {
+    "name_ar": "Sidi Ali Mellal",
+    "name_fr": "Sidi Ali Mellal",
+    "name_en": "Sidi Ali Mellal",
+    "communes": []
+  },
+  "449": {
+    "name_ar": "Ain Zarit",
+    "name_fr": "Ain Zarit",
+    "name_en": "Ain Zarit",
+    "communes": []
+  },
+  "450": {
+    "name_ar": "Ain Deheb",
+    "name_fr": "Ain Deheb",
+    "name_en": "Ain Deheb",
+    "communes": []
+  },
+  "451": {
+    "name_ar": "Sidi Bakhti",
+    "name_fr": "Sidi Bakhti",
+    "name_en": "Sidi Bakhti",
+    "communes": []
+  },
+  "452": {
+    "name_ar": "Medrissa",
+    "name_fr": "Medrissa",
+    "name_en": "Medrissa",
+    "communes": []
+  },
+  "453": {
+    "name_ar": "Zmalet El Emir Aek",
+    "name_fr": "Zmalet El Emir Aek",
+    "name_en": "Zmalet El Emir Aek",
+    "communes": []
+  },
+  "454": {
+    "name_ar": "Madna",
+    "name_fr": "Madna",
+    "name_en": "Madna",
+    "communes": []
+  },
+  "455": {
+    "name_ar": "Sebt",
+    "name_fr": "Sebt",
+    "name_en": "Sebt",
+    "communes": []
+  },
+  "456": {
+    "name_ar": "Mellakou",
+    "name_fr": "Mellakou",
+    "name_en": "Mellakou",
+    "communes": []
+  },
+  "457": {
+    "name_ar": "Dahmouni",
+    "name_fr": "Dahmouni",
+    "name_en": "Dahmouni",
+    "communes": []
+  },
+  "458": {
+    "name_ar": "Rahouia",
+    "name_fr": "Rahouia",
+    "name_en": "Rahouia",
+    "communes": []
+  },
+  "459": {
+    "name_ar": "Mahdia",
+    "name_fr": "Mahdia",
+    "name_en": "Mahdia",
+    "communes": []
+  },
+  "460": {
+    "name_ar": "Sougueur",
+    "name_fr": "Sougueur",
+    "name_en": "Sougueur",
+    "communes": []
+  },
+  "461": {
+    "name_ar": "Sidi Abdelghani",
+    "name_fr": "Sidi Abdelghani",
+    "name_en": "Sidi Abdelghani",
+    "communes": []
+  },
+  "462": {
+    "name_ar": "Ain El Hadid",
+    "name_fr": "Ain El Hadid",
+    "name_en": "Ain El Hadid",
+    "communes": []
+  },
+  "463": {
+    "name_ar": "Ouled Djerad",
+    "name_fr": "Ouled Djerad",
+    "name_en": "Ouled Djerad",
+    "communes": []
+  },
+  "464": {
+    "name_ar": "Naima",
+    "name_fr": "Naima",
+    "name_en": "Naima",
+    "communes": []
+  },
+  "465": {
+    "name_ar": "Meghila",
+    "name_fr": "Meghila",
+    "name_en": "Meghila",
+    "communes": []
+  },
+  "466": {
+    "name_ar": "Guertoufa",
+    "name_fr": "Guertoufa",
+    "name_en": "Guertoufa",
+    "communes": []
+  },
+  "467": {
+    "name_ar": "Sidi Hosni",
+    "name_fr": "Sidi Hosni",
+    "name_en": "Sidi Hosni",
+    "communes": []
+  },
+  "468": {
+    "name_ar": "Djillali Ben Amar",
+    "name_fr": "Djillali Ben Amar",
+    "name_en": "Djillali Ben Amar",
+    "communes": []
+  },
+  "469": {
+    "name_ar": "Sebaine",
+    "name_fr": "Sebaine",
+    "name_en": "Sebaine",
+    "communes": []
+  },
+  "470": {
+    "name_ar": "Tousnina",
+    "name_fr": "Tousnina",
+    "name_en": "Tousnina",
+    "communes": []
+  },
+  "471": {
+    "name_ar": "Frenda",
+    "name_fr": "Frenda",
+    "name_en": "Frenda",
+    "communes": []
+  },
+  "472": {
+    "name_ar": "Ain Kermes",
+    "name_fr": "Ain Kermes",
+    "name_en": "Ain Kermes",
+    "communes": []
+  },
+  "473": {
+    "name_ar": "Ksar Chellala",
+    "name_fr": "Ksar Chellala",
+    "name_en": "Ksar Chellala",
+    "communes": []
+  },
+  "474": {
+    "name_ar": "Rechaiga",
+    "name_fr": "Rechaiga",
+    "name_en": "Rechaiga",
+    "communes": []
+  },
+  "475": {
+    "name_ar": "Nadorah",
+    "name_fr": "Nadorah",
+    "name_en": "Nadorah",
+    "communes": []
+  },
+  "476": {
+    "name_ar": "Tagdemt",
+    "name_fr": "Tagdemt",
+    "name_en": "Tagdemt",
+    "communes": []
+  },
+  "477": {
+    "name_ar": "Oued Lilli",
+    "name_fr": "Oued Lilli",
+    "name_en": "Oued Lilli",
+    "communes": []
+  },
+  "478": {
+    "name_ar": "Mechraa Safa",
+    "name_fr": "Mechraa Safa",
+    "name_en": "Mechraa Safa",
+    "communes": []
+  },
+  "479": {
+    "name_ar": "Hamadia",
+    "name_fr": "Hamadia",
+    "name_en": "Hamadia",
+    "communes": []
+  },
+  "480": {
+    "name_ar": "Chehaima",
+    "name_fr": "Chehaima",
+    "name_en": "Chehaima",
+    "communes": []
+  },
+  "481": {
+    "name_ar": "Takhemaret",
+    "name_fr": "Takhemaret",
+    "name_en": "Takhemaret",
+    "communes": []
+  },
+  "482": {
+    "name_ar": "Sidi Abderrahmane",
+    "name_fr": "Sidi Abderrahmane",
+    "name_en": "Sidi Abderrahmane",
+    "communes": []
+  },
+  "483": {
+    "name_ar": "Serghine",
+    "name_fr": "Serghine",
+    "name_en": "Serghine",
+    "communes": []
+  },
+  "484": {
+    "name_ar": "Bougara",
+    "name_fr": "Bougara",
+    "name_en": "Bougara",
+    "communes": []
+  },
+  "485": {
+    "name_ar": "Faidja",
+    "name_fr": "Faidja",
+    "name_en": "Faidja",
+    "communes": []
+  },
+  "486": {
+    "name_ar": "Tidda",
+    "name_fr": "Tidda",
+    "name_en": "Tidda",
+    "communes": []
+  },
+  "487": {
+    "name_ar": "Tizi Ouzou",
+    "name_fr": "Tizi Ouzou",
+    "name_en": "Tizi Ouzou",
+    "communes": []
+  },
+  "488": {
+    "name_ar": "Ain El Hammam",
+    "name_fr": "Ain El Hammam",
+    "name_en": "Ain El Hammam",
+    "communes": []
+  },
+  "489": {
+    "name_ar": "Akbil",
+    "name_fr": "Akbil",
+    "name_en": "Akbil",
+    "communes": []
+  },
+  "490": {
+    "name_ar": "Freha",
+    "name_fr": "Freha",
+    "name_en": "Freha",
+    "communes": []
+  },
+  "491": {
+    "name_ar": "Souamaa",
+    "name_fr": "Souamaa",
+    "name_en": "Souamaa",
+    "communes": []
+  },
+  "492": {
+    "name_ar": "Mechtrass",
+    "name_fr": "Mechtrass",
+    "name_en": "Mechtrass",
+    "communes": []
+  },
+  "493": {
+    "name_ar": "Irdjen",
+    "name_fr": "Irdjen",
+    "name_en": "Irdjen",
+    "communes": []
+  },
+  "494": {
+    "name_ar": "Timizart",
+    "name_fr": "Timizart",
+    "name_en": "Timizart",
+    "communes": []
+  },
+  "495": {
+    "name_ar": "Makouda",
+    "name_fr": "Makouda",
+    "name_en": "Makouda",
+    "communes": []
+  },
+  "496": {
+    "name_ar": "Draa El Mizan",
+    "name_fr": "Draa El Mizan",
+    "name_en": "Draa El Mizan",
+    "communes": []
+  },
+  "497": {
+    "name_ar": "Tizi Ghenif",
+    "name_fr": "Tizi Ghenif",
+    "name_en": "Tizi Ghenif",
+    "communes": []
+  },
+  "498": {
+    "name_ar": "Bounouh",
+    "name_fr": "Bounouh",
+    "name_en": "Bounouh",
+    "communes": []
+  },
+  "499": {
+    "name_ar": "Ait Chaffaa",
+    "name_fr": "Ait Chaffaa",
+    "name_en": "Ait Chaffaa",
+    "communes": []
+  },
+  "500": {
+    "name_ar": "Frikat",
+    "name_fr": "Frikat",
+    "name_en": "Frikat",
+    "communes": []
+  },
+  "501": {
+    "name_ar": "Beni Aissi",
+    "name_fr": "Beni Aissi",
+    "name_en": "Beni Aissi",
+    "communes": []
+  },
+  "502": {
+    "name_ar": "Beni Zmenzer",
+    "name_fr": "Beni Zmenzer",
+    "name_en": "Beni Zmenzer",
+    "communes": []
+  },
+  "503": {
+    "name_ar": "Iferhounene",
+    "name_fr": "Iferhounene",
+    "name_en": "Iferhounene",
+    "communes": []
+  },
+  "504": {
+    "name_ar": "Azazga",
+    "name_fr": "Azazga",
+    "name_en": "Azazga",
+    "communes": []
+  },
+  "505": {
+    "name_ar": "Iloula Oumalou",
+    "name_fr": "Iloula Oumalou",
+    "name_en": "Iloula Oumalou",
+    "communes": []
+  },
+  "506": {
+    "name_ar": "Yakouren",
+    "name_fr": "Yakouren",
+    "name_en": "Yakouren",
+    "communes": []
+  },
+  "507": {
+    "name_ar": "Larba Nait Irathen",
+    "name_fr": "Larba Nait Irathen",
+    "name_en": "Larba Nait Irathen",
+    "communes": []
+  },
+  "508": {
+    "name_ar": "Tizi Rached",
+    "name_fr": "Tizi Rached",
+    "name_en": "Tizi Rached",
+    "communes": []
+  },
+  "509": {
+    "name_ar": "Zekri",
+    "name_fr": "Zekri",
+    "name_en": "Zekri",
+    "communes": []
+  },
+  "510": {
+    "name_ar": "Ouaguenoun",
+    "name_fr": "Ouaguenoun",
+    "name_en": "Ouaguenoun",
+    "communes": []
+  },
+  "511": {
+    "name_ar": "Ain Zaouia",
+    "name_fr": "Ain Zaouia",
+    "name_en": "Ain Zaouia",
+    "communes": []
+  },
+  "512": {
+    "name_ar": "Mkira",
+    "name_fr": "Mkira",
+    "name_en": "Mkira",
+    "communes": []
+  },
+  "513": {
+    "name_ar": "Ait Yahia",
+    "name_fr": "Ait Yahia",
+    "name_en": "Ait Yahia",
+    "communes": []
+  },
+  "514": {
+    "name_ar": "Ait Mahmoud",
+    "name_fr": "Ait Mahmoud",
+    "name_en": "Ait Mahmoud",
+    "communes": []
+  },
+  "515": {
+    "name_ar": "Maatka",
+    "name_fr": "Maatka",
+    "name_en": "Maatka",
+    "communes": []
+  },
+  "516": {
+    "name_ar": "Ait Boumehdi",
+    "name_fr": "Ait Boumehdi",
+    "name_en": "Ait Boumehdi",
+    "communes": []
+  },
+  "517": {
+    "name_ar": "Abi Youcef",
+    "name_fr": "Abi Youcef",
+    "name_en": "Abi Youcef",
+    "communes": []
+  },
+  "518": {
+    "name_ar": "Beni Douala",
+    "name_fr": "Beni Douala",
+    "name_en": "Beni Douala",
+    "communes": []
+  },
+  "519": {
+    "name_ar": "Illilten",
+    "name_fr": "Illilten",
+    "name_en": "Illilten",
+    "communes": []
+  },
+  "520": {
+    "name_ar": "Bouzguen",
+    "name_fr": "Bouzguen",
+    "name_en": "Bouzguen",
+    "communes": []
+  },
+  "521": {
+    "name_ar": "Ait Aggouacha",
+    "name_fr": "Ait Aggouacha",
+    "name_en": "Ait Aggouacha",
+    "communes": []
+  },
+  "522": {
+    "name_ar": "Ouadhia",
+    "name_fr": "Ouadhia",
+    "name_en": "Ouadhia",
+    "communes": []
+  },
+  "523": {
+    "name_ar": "Azzefoun",
+    "name_fr": "Azzefoun",
+    "name_en": "Azzefoun",
+    "communes": []
+  },
+  "524": {
+    "name_ar": "Tigzirt",
+    "name_fr": "Tigzirt",
+    "name_en": "Tigzirt",
+    "communes": []
+  },
+  "525": {
+    "name_ar": "Ait Aissa Mimoun",
+    "name_fr": "Ait Aissa Mimoun",
+    "name_en": "Ait Aissa Mimoun",
+    "communes": []
+  },
+  "526": {
+    "name_ar": "Boghni",
+    "name_fr": "Boghni",
+    "name_en": "Boghni",
+    "communes": []
+  },
+  "527": {
+    "name_ar": "Ifigha",
+    "name_fr": "Ifigha",
+    "name_en": "Ifigha",
+    "communes": []
+  },
+  "528": {
+    "name_ar": "Ait Oumalou",
+    "name_fr": "Ait Oumalou",
+    "name_en": "Ait Oumalou",
+    "communes": []
+  },
+  "529": {
+    "name_ar": "Tirmitine",
+    "name_fr": "Tirmitine",
+    "name_en": "Tirmitine",
+    "communes": []
+  },
+  "530": {
+    "name_ar": "Akerrou",
+    "name_fr": "Akerrou",
+    "name_en": "Akerrou",
+    "communes": []
+  },
+  "531": {
+    "name_ar": "Yatafen",
+    "name_fr": "Yatafen",
+    "name_en": "Yatafen",
+    "communes": []
+  },
+  "532": {
+    "name_ar": "Beni Ziki",
+    "name_fr": "Beni Ziki",
+    "name_en": "Beni Ziki",
+    "communes": []
+  },
+  "533": {
+    "name_ar": "Draa Ben Khedda",
+    "name_fr": "Draa Ben Khedda",
+    "name_en": "Draa Ben Khedda",
+    "communes": []
+  },
+  "534": {
+    "name_ar": "Ouacif",
+    "name_fr": "Ouacif",
+    "name_en": "Ouacif",
+    "communes": []
+  },
+  "535": {
+    "name_ar": "Idjeur",
+    "name_fr": "Idjeur",
+    "name_en": "Idjeur",
+    "communes": []
+  },
+  "536": {
+    "name_ar": "Mekla",
+    "name_fr": "Mekla",
+    "name_en": "Mekla",
+    "communes": []
+  },
+  "537": {
+    "name_ar": "Tizi Nthlata",
+    "name_fr": "Tizi Nthlata",
+    "name_en": "Tizi Nthlata",
+    "communes": []
+  },
+  "538": {
+    "name_ar": "Beni Yenni",
+    "name_fr": "Beni Yenni",
+    "name_en": "Beni Yenni",
+    "communes": []
+  },
+  "539": {
+    "name_ar": "Aghrib",
+    "name_fr": "Aghrib",
+    "name_en": "Aghrib",
+    "communes": []
+  },
+  "540": {
+    "name_ar": "Iflissen",
+    "name_fr": "Iflissen",
+    "name_en": "Iflissen",
+    "communes": []
+  },
+  "541": {
+    "name_ar": "Boudjima",
+    "name_fr": "Boudjima",
+    "name_en": "Boudjima",
+    "communes": []
+  },
+  "542": {
+    "name_ar": "Ait Yahia Moussa",
+    "name_fr": "Ait Yahia Moussa",
+    "name_en": "Ait Yahia Moussa",
+    "communes": []
+  },
+  "543": {
+    "name_ar": "Souk El Thenine",
+    "name_fr": "Souk El Thenine",
+    "name_en": "Souk El Thenine",
+    "communes": []
+  },
+  "544": {
+    "name_ar": "Ait Khelil",
+    "name_fr": "Ait Khelil",
+    "name_en": "Ait Khelil",
+    "communes": []
+  },
+  "545": {
+    "name_ar": "Sidi Naamane",
+    "name_fr": "Sidi Naamane",
+    "name_en": "Sidi Naamane",
+    "communes": []
+  },
+  "546": {
+    "name_ar": "Iboudraren",
+    "name_fr": "Iboudraren",
+    "name_en": "Iboudraren",
+    "communes": []
+  },
+  "547": {
+    "name_ar": "Agouni Gueghrane",
+    "name_fr": "Agouni Gueghrane",
+    "name_en": "Agouni Gueghrane",
+    "communes": []
+  },
+  "548": {
+    "name_ar": "Mizrana",
+    "name_fr": "Mizrana",
+    "name_en": "Mizrana",
+    "communes": []
+  },
+  "549": {
+    "name_ar": "Imsouhal",
+    "name_fr": "Imsouhal",
+    "name_en": "Imsouhal",
+    "communes": []
+  },
+  "550": {
+    "name_ar": "Tadmait",
+    "name_fr": "Tadmait",
+    "name_en": "Tadmait",
+    "communes": []
+  },
+  "551": {
+    "name_ar": "Ait Bouadou",
+    "name_fr": "Ait Bouadou",
+    "name_en": "Ait Bouadou",
+    "communes": []
+  },
+  "552": {
+    "name_ar": "Assi Youcef",
+    "name_fr": "Assi Youcef",
+    "name_en": "Assi Youcef",
+    "communes": []
+  },
+  "553": {
+    "name_ar": "Ait Toudert",
+    "name_fr": "Ait Toudert",
+    "name_en": "Ait Toudert",
+    "communes": []
+  },
+  "554": {
+    "name_ar": "Alger Centre",
+    "name_fr": "Alger Centre",
+    "name_en": "Alger Centre",
+    "communes": []
+  },
+  "555": {
+    "name_ar": "Sidi Mhamed",
+    "name_fr": "Sidi Mhamed",
+    "name_en": "Sidi Mhamed",
+    "communes": []
+  },
+  "556": {
+    "name_ar": "El Madania",
+    "name_fr": "El Madania",
+    "name_en": "El Madania",
+    "communes": []
+  },
+  "557": {
+    "name_ar": "Belouizdad",
+    "name_fr": "Belouizdad",
+    "name_en": "Belouizdad",
+    "communes": []
+  },
+  "558": {
+    "name_ar": "Bab El Oued",
+    "name_fr": "Bab El Oued",
+    "name_en": "Bab El Oued",
+    "communes": []
+  },
+  "559": {
+    "name_ar": "Bologhine",
+    "name_fr": "Bologhine",
+    "name_en": "Bologhine",
+    "communes": []
+  },
+  "560": {
+    "name_ar": "Casbah",
+    "name_fr": "Casbah",
+    "name_en": "Casbah",
+    "communes": []
+  },
+  "561": {
+    "name_ar": "Oued Koriche",
+    "name_fr": "Oued Koriche",
+    "name_en": "Oued Koriche",
+    "communes": []
+  },
+  "562": {
+    "name_ar": "Bir Mourad Rais",
+    "name_fr": "Bir Mourad Rais",
+    "name_en": "Bir Mourad Rais",
+    "communes": []
+  },
+  "563": {
+    "name_ar": "El Biar",
+    "name_fr": "El Biar",
+    "name_en": "El Biar",
+    "communes": []
+  },
+  "564": {
+    "name_ar": "Bouzareah",
+    "name_fr": "Bouzareah",
+    "name_en": "Bouzareah",
+    "communes": []
+  },
+  "565": {
+    "name_ar": "Birkhadem",
+    "name_fr": "Birkhadem",
+    "name_en": "Birkhadem",
+    "communes": []
+  },
+  "566": {
+    "name_ar": "El Harrach",
+    "name_fr": "El Harrach",
+    "name_en": "El Harrach",
+    "communes": []
+  },
+  "567": {
+    "name_ar": "Baraki",
+    "name_fr": "Baraki",
+    "name_en": "Baraki",
+    "communes": []
+  },
+  "568": {
+    "name_ar": "Oued Smar",
+    "name_fr": "Oued Smar",
+    "name_en": "Oued Smar",
+    "communes": []
+  },
+  "569": {
+    "name_ar": "Bourouba",
+    "name_fr": "Bourouba",
+    "name_en": "Bourouba",
+    "communes": []
+  },
+  "570": {
+    "name_ar": "Hussein Dey",
+    "name_fr": "Hussein Dey",
+    "name_en": "Hussein Dey",
+    "communes": []
+  },
+  "571": {
+    "name_ar": "Kouba",
+    "name_fr": "Kouba",
+    "name_en": "Kouba",
+    "communes": []
+  },
+  "572": {
+    "name_ar": "Bachedjerah",
+    "name_fr": "Bachedjerah",
+    "name_en": "Bachedjerah",
+    "communes": []
+  },
+  "573": {
+    "name_ar": "Dar El Beida",
+    "name_fr": "Dar El Beida",
+    "name_en": "Dar El Beida",
+    "communes": []
+  },
+  "574": {
+    "name_ar": "Bab Azzouar",
+    "name_fr": "Bab Azzouar",
+    "name_en": "Bab Azzouar",
+    "communes": []
+  },
+  "575": {
+    "name_ar": "Ben Aknoun",
+    "name_fr": "Ben Aknoun",
+    "name_en": "Ben Aknoun",
+    "communes": []
+  },
+  "576": {
+    "name_ar": "Dely Ibrahim",
+    "name_fr": "Dely Ibrahim",
+    "name_en": "Dely Ibrahim",
+    "communes": []
+  },
+  "577": {
+    "name_ar": "El Hammamet",
+    "name_fr": "El Hammamet",
+    "name_en": "El Hammamet",
+    "communes": []
+  },
+  "578": {
+    "name_ar": "Rais Hamidou",
+    "name_fr": "Rais Hamidou",
+    "name_en": "Rais Hamidou",
+    "communes": []
+  },
+  "579": {
+    "name_ar": "Djasr Kasentina",
+    "name_fr": "Djasr Kasentina",
+    "name_en": "Djasr Kasentina",
+    "communes": []
+  },
+  "580": {
+    "name_ar": "El Mouradia",
+    "name_fr": "El Mouradia",
+    "name_en": "El Mouradia",
+    "communes": []
+  },
+  "581": {
+    "name_ar": "Hydra",
+    "name_fr": "Hydra",
+    "name_en": "Hydra",
+    "communes": []
+  },
+  "582": {
+    "name_ar": "Mohammadia",
+    "name_fr": "Mohammadia",
+    "name_en": "Mohammadia",
+    "communes": []
+  },
+  "583": {
+    "name_ar": "Bordj El Kiffan",
+    "name_fr": "Bordj El Kiffan",
+    "name_en": "Bordj El Kiffan",
+    "communes": []
+  },
+  "584": {
+    "name_ar": "El Magharia",
+    "name_fr": "El Magharia",
+    "name_en": "El Magharia",
+    "communes": []
+  },
+  "585": {
+    "name_ar": "Beni Messous",
+    "name_fr": "Beni Messous",
+    "name_en": "Beni Messous",
+    "communes": []
+  },
+  "586": {
+    "name_ar": "Les Eucalyptus",
+    "name_fr": "Les Eucalyptus",
+    "name_en": "Les Eucalyptus",
+    "communes": []
+  },
+  "587": {
+    "name_ar": "Birtouta",
+    "name_fr": "Birtouta",
+    "name_en": "Birtouta",
+    "communes": []
+  },
+  "588": {
+    "name_ar": "Tassala El Merdja",
+    "name_fr": "Tassala El Merdja",
+    "name_en": "Tassala El Merdja",
+    "communes": []
+  },
+  "589": {
+    "name_ar": "Ouled Chebel",
+    "name_fr": "Ouled Chebel",
+    "name_en": "Ouled Chebel",
+    "communes": []
+  },
+  "590": {
+    "name_ar": "Sidi Moussa",
+    "name_fr": "Sidi Moussa",
+    "name_en": "Sidi Moussa",
+    "communes": []
+  },
+  "591": {
+    "name_ar": "Ain Taya",
+    "name_fr": "Ain Taya",
+    "name_en": "Ain Taya",
+    "communes": []
+  },
+  "592": {
+    "name_ar": "Bordj El Bahri",
+    "name_fr": "Bordj El Bahri",
+    "name_en": "Bordj El Bahri",
+    "communes": []
+  },
+  "593": {
+    "name_ar": "Marsa",
+    "name_fr": "Marsa",
+    "name_en": "Marsa",
+    "communes": []
+  },
+  "594": {
+    "name_ar": "Haraoua",
+    "name_fr": "Haraoua",
+    "name_en": "Haraoua",
+    "communes": []
+  },
+  "595": {
+    "name_ar": "Rouiba",
+    "name_fr": "Rouiba",
+    "name_en": "Rouiba",
+    "communes": []
+  },
+  "596": {
+    "name_ar": "Reghaia",
+    "name_fr": "Reghaia",
+    "name_en": "Reghaia",
+    "communes": []
+  },
+  "597": {
+    "name_ar": "Ain Benian",
+    "name_fr": "Ain Benian",
+    "name_en": "Ain Benian",
+    "communes": []
+  },
+  "598": {
+    "name_ar": "Staoueli",
+    "name_fr": "Staoueli",
+    "name_en": "Staoueli",
+    "communes": []
+  },
+  "599": {
+    "name_ar": "Zeralda",
+    "name_fr": "Zeralda",
+    "name_en": "Zeralda",
+    "communes": []
+  },
+  "600": {
+    "name_ar": "Mahelma",
+    "name_fr": "Mahelma",
+    "name_en": "Mahelma",
+    "communes": []
+  },
+  "601": {
+    "name_ar": "Rahmania",
+    "name_fr": "Rahmania",
+    "name_en": "Rahmania",
+    "communes": []
+  },
+  "602": {
+    "name_ar": "Souidania",
+    "name_fr": "Souidania",
+    "name_en": "Souidania",
+    "communes": []
+  },
+  "603": {
+    "name_ar": "Cheraga",
+    "name_fr": "Cheraga",
+    "name_en": "Cheraga",
+    "communes": []
+  },
+  "604": {
+    "name_ar": "Ouled Fayet",
+    "name_fr": "Ouled Fayet",
+    "name_en": "Ouled Fayet",
+    "communes": []
+  },
+  "605": {
+    "name_ar": "El Achour",
+    "name_fr": "El Achour",
+    "name_en": "El Achour",
+    "communes": []
+  },
+  "606": {
+    "name_ar": "Draria",
+    "name_fr": "Draria",
+    "name_en": "Draria",
+    "communes": []
+  },
+  "607": {
+    "name_ar": "Douera",
+    "name_fr": "Douera",
+    "name_en": "Douera",
+    "communes": []
+  },
+  "608": {
+    "name_ar": "Baba Hassen",
+    "name_fr": "Baba Hassen",
+    "name_en": "Baba Hassen",
+    "communes": []
+  },
+  "609": {
+    "name_ar": "Khracia",
+    "name_fr": "Khracia",
+    "name_en": "Khracia",
+    "communes": []
+  },
+  "610": {
+    "name_ar": "Saoula",
+    "name_fr": "Saoula",
+    "name_en": "Saoula",
+    "communes": []
+  },
+  "611": {
+    "name_ar": "Djelfa",
+    "name_fr": "Djelfa",
+    "name_en": "Djelfa",
+    "communes": []
+  },
+  "612": {
+    "name_ar": "Moudjebara",
+    "name_fr": "Moudjebara",
+    "name_en": "Moudjebara",
+    "communes": []
+  },
+  "613": {
+    "name_ar": "El Guedid",
+    "name_fr": "El Guedid",
+    "name_en": "El Guedid",
+    "communes": []
+  },
+  "614": {
+    "name_ar": "Hassi Bahbah",
+    "name_fr": "Hassi Bahbah",
+    "name_en": "Hassi Bahbah",
+    "communes": []
+  },
+  "615": {
+    "name_ar": "Ain Maabed",
+    "name_fr": "Ain Maabed",
+    "name_en": "Ain Maabed",
+    "communes": []
+  },
+  "616": {
+    "name_ar": "Sed Rahal",
+    "name_fr": "Sed Rahal",
+    "name_en": "Sed Rahal",
+    "communes": []
+  },
+  "617": {
+    "name_ar": "Feidh El Botma",
+    "name_fr": "Feidh El Botma",
+    "name_en": "Feidh El Botma",
+    "communes": []
+  },
+  "618": {
+    "name_ar": "Birine",
+    "name_fr": "Birine",
+    "name_en": "Birine",
+    "communes": []
+  },
+  "619": {
+    "name_ar": "Bouira Lahdeb",
+    "name_fr": "Bouira Lahdeb",
+    "name_en": "Bouira Lahdeb",
+    "communes": []
+  },
+  "620": {
+    "name_ar": "Zaccar",
+    "name_fr": "Zaccar",
+    "name_en": "Zaccar",
+    "communes": []
+  },
+  "621": {
+    "name_ar": "El Khemis",
+    "name_fr": "El Khemis",
+    "name_en": "El Khemis",
+    "communes": []
+  },
+  "622": {
+    "name_ar": "Sidi Baizid",
+    "name_fr": "Sidi Baizid",
+    "name_en": "Sidi Baizid",
+    "communes": []
+  },
+  "623": {
+    "name_ar": "M'Liliha",
+    "name_fr": "M'Liliha",
+    "name_en": "M'Liliha",
+    "communes": []
+  },
+  "624": {
+    "name_ar": "El Idrissia",
+    "name_fr": "El Idrissia",
+    "name_en": "El Idrissia",
+    "communes": []
+  },
+  "625": {
+    "name_ar": "Douis",
+    "name_fr": "Douis",
+    "name_en": "Douis",
+    "communes": []
+  },
+  "626": {
+    "name_ar": "Hassi El Euch",
+    "name_fr": "Hassi El Euch",
+    "name_en": "Hassi El Euch",
+    "communes": []
+  },
+  "627": {
+    "name_ar": "Messaad",
+    "name_fr": "Messaad",
+    "name_en": "Messaad",
+    "communes": []
+  },
+  "628": {
+    "name_ar": "Guettara",
+    "name_fr": "Guettara",
+    "name_en": "Guettara",
+    "communes": []
+  },
+  "629": {
+    "name_ar": "Sidi Ladjel",
+    "name_fr": "Sidi Ladjel",
+    "name_en": "Sidi Ladjel",
+    "communes": []
+  },
+  "630": {
+    "name_ar": "Had Sahary",
+    "name_fr": "Had Sahary",
+    "name_en": "Had Sahary",
+    "communes": []
+  },
+  "631": {
+    "name_ar": "Guernini",
+    "name_fr": "Guernini",
+    "name_en": "Guernini",
+    "communes": []
+  },
+  "632": {
+    "name_ar": "Selmana",
+    "name_fr": "Selmana",
+    "name_en": "Selmana",
+    "communes": []
+  },
+  "633": {
+    "name_ar": "Ain Chouhada",
+    "name_fr": "Ain Chouhada",
+    "name_en": "Ain Chouhada",
+    "communes": []
+  },
+  "634": {
+    "name_ar": "Oum Laadham",
+    "name_fr": "Oum Laadham",
+    "name_en": "Oum Laadham",
+    "communes": []
+  },
+  "635": {
+    "name_ar": "Dar Chouikh",
+    "name_fr": "Dar Chouikh",
+    "name_en": "Dar Chouikh",
+    "communes": []
+  },
+  "636": {
+    "name_ar": "Charef",
+    "name_fr": "Charef",
+    "name_en": "Charef",
+    "communes": []
+  },
+  "637": {
+    "name_ar": "Beni Yacoub",
+    "name_fr": "Beni Yacoub",
+    "name_en": "Beni Yacoub",
+    "communes": []
+  },
+  "638": {
+    "name_ar": "Zaafrane",
+    "name_fr": "Zaafrane",
+    "name_en": "Zaafrane",
+    "communes": []
+  },
+  "639": {
+    "name_ar": "Deldoul",
+    "name_fr": "Deldoul",
+    "name_en": "Deldoul",
+    "communes": []
+  },
+  "640": {
+    "name_ar": "Ain El Ibel",
+    "name_fr": "Ain El Ibel",
+    "name_en": "Ain El Ibel",
+    "communes": []
+  },
+  "641": {
+    "name_ar": "Ain Oussera",
+    "name_fr": "Ain Oussera",
+    "name_en": "Ain Oussera",
+    "communes": []
+  },
+  "642": {
+    "name_ar": "Benhar",
+    "name_fr": "Benhar",
+    "name_en": "Benhar",
+    "communes": []
+  },
+  "643": {
+    "name_ar": "Hassi Fedoul",
+    "name_fr": "Hassi Fedoul",
+    "name_en": "Hassi Fedoul",
+    "communes": []
+  },
+  "644": {
+    "name_ar": "Amourah",
+    "name_fr": "Amourah",
+    "name_en": "Amourah",
+    "communes": []
+  },
+  "645": {
+    "name_ar": "Ain Fekka",
+    "name_fr": "Ain Fekka",
+    "name_en": "Ain Fekka",
+    "communes": []
+  },
+  "646": {
+    "name_ar": "Tadmit",
+    "name_fr": "Tadmit",
+    "name_en": "Tadmit",
+    "communes": []
+  },
+  "647": {
+    "name_ar": "Jijel",
+    "name_fr": "Jijel",
+    "name_en": "Jijel",
+    "communes": []
+  },
+  "648": {
+    "name_ar": "Erraguene",
+    "name_fr": "Erraguene",
+    "name_en": "Erraguene",
+    "communes": []
+  },
+  "649": {
+    "name_ar": "El Aouana",
+    "name_fr": "El Aouana",
+    "name_en": "El Aouana",
+    "communes": []
+  },
+  "650": {
+    "name_ar": "Ziamma Mansouriah",
+    "name_fr": "Ziamma Mansouriah",
+    "name_en": "Ziamma Mansouriah",
+    "communes": []
+  },
+  "651": {
+    "name_ar": "Taher",
+    "name_fr": "Taher",
+    "name_en": "Taher",
+    "communes": []
+  },
+  "652": {
+    "name_ar": "Emir Abdelkader",
+    "name_fr": "Emir Abdelkader",
+    "name_en": "Emir Abdelkader",
+    "communes": []
+  },
+  "653": {
+    "name_ar": "Chekfa",
+    "name_fr": "Chekfa",
+    "name_en": "Chekfa",
+    "communes": []
+  },
+  "654": {
+    "name_ar": "Chahna",
+    "name_fr": "Chahna",
+    "name_en": "Chahna",
+    "communes": []
+  },
+  "655": {
+    "name_ar": "El Milia",
+    "name_fr": "El Milia",
+    "name_en": "El Milia",
+    "communes": []
+  },
+  "656": {
+    "name_ar": "Sidi Maarouf",
+    "name_fr": "Sidi Maarouf",
+    "name_en": "Sidi Maarouf",
+    "communes": []
+  },
+  "657": {
+    "name_ar": "Settara",
+    "name_fr": "Settara",
+    "name_en": "Settara",
+    "communes": []
+  },
+  "658": {
+    "name_ar": "El Ancer",
+    "name_fr": "El Ancer",
+    "name_en": "El Ancer",
+    "communes": []
+  },
+  "659": {
+    "name_ar": "Sidi Abdelaziz",
+    "name_fr": "Sidi Abdelaziz",
+    "name_en": "Sidi Abdelaziz",
+    "communes": []
+  },
+  "660": {
+    "name_ar": "Kaous",
+    "name_fr": "Kaous",
+    "name_en": "Kaous",
+    "communes": []
+  },
+  "661": {
+    "name_ar": "Ghebala",
+    "name_fr": "Ghebala",
+    "name_en": "Ghebala",
+    "communes": []
+  },
+  "662": {
+    "name_ar": "Bouraoui Belhadef",
+    "name_fr": "Bouraoui Belhadef",
+    "name_en": "Bouraoui Belhadef",
+    "communes": []
+  },
+  "663": {
+    "name_ar": "Djmila",
+    "name_fr": "Djmila",
+    "name_en": "Djmila",
+    "communes": []
+  },
+  "664": {
+    "name_ar": "Selma Benziada",
+    "name_fr": "Selma Benziada",
+    "name_en": "Selma Benziada",
+    "communes": []
+  },
+  "665": {
+    "name_ar": "Boussif Ouled Askeur",
+    "name_fr": "Boussif Ouled Askeur",
+    "name_en": "Boussif Ouled Askeur",
+    "communes": []
+  },
+  "666": {
+    "name_ar": "El Kennar Nouchfi",
+    "name_fr": "El Kennar Nouchfi",
+    "name_en": "El Kennar Nouchfi",
+    "communes": []
+  },
+  "667": {
+    "name_ar": "Ouled Yahia Khadrouch",
+    "name_fr": "Ouled Yahia Khadrouch",
+    "name_en": "Ouled Yahia Khadrouch",
+    "communes": []
+  },
+  "668": {
+    "name_ar": "Boudria Beni Yadjis",
+    "name_fr": "Boudria Beni Yadjis",
+    "name_en": "Boudria Beni Yadjis",
+    "communes": []
+  },
+  "669": {
+    "name_ar": "Kemir Oued Adjoul",
+    "name_fr": "Kemir Oued Adjoul",
+    "name_en": "Kemir Oued Adjoul",
+    "communes": []
+  },
+  "670": {
+    "name_ar": "Texena",
+    "name_fr": "Texena",
+    "name_en": "Texena",
+    "communes": []
+  },
+  "671": {
+    "name_ar": "Djemaa Beni Habibi",
+    "name_fr": "Djemaa Beni Habibi",
+    "name_en": "Djemaa Beni Habibi",
+    "communes": []
+  },
+  "672": {
+    "name_ar": "Bordj T'her",
+    "name_fr": "Bordj T'her",
+    "name_en": "Bordj T'her",
+    "communes": []
+  },
+  "673": {
+    "name_ar": "Ouled Rabah",
+    "name_fr": "Ouled Rabah",
+    "name_en": "Ouled Rabah",
+    "communes": []
+  },
+  "674": {
+    "name_ar": "Ouadjana",
+    "name_fr": "Ouadjana",
+    "name_en": "Ouadjana",
+    "communes": []
+  },
+  "675": {
+    "name_ar": "Setif",
+    "name_fr": "Setif",
+    "name_en": "Setif",
+    "communes": []
+  },
+  "676": {
+    "name_ar": "Ain El Kebira",
+    "name_fr": "Ain El Kebira",
+    "name_en": "Ain El Kebira",
+    "communes": []
+  },
+  "677": {
+    "name_ar": "Beni Aziz",
+    "name_fr": "Beni Aziz",
+    "name_en": "Beni Aziz",
+    "communes": []
+  },
+  "678": {
+    "name_ar": "Ouled Sidi Ahmed",
+    "name_fr": "Ouled Sidi Ahmed",
+    "name_en": "Ouled Sidi Ahmed",
+    "communes": []
+  },
+  "679": {
+    "name_ar": "Boutaleb",
+    "name_fr": "Boutaleb",
+    "name_en": "Boutaleb",
+    "communes": []
+  },
+  "680": {
+    "name_ar": "Ain Roua",
+    "name_fr": "Ain Roua",
+    "name_en": "Ain Roua",
+    "communes": []
+  },
+  "681": {
+    "name_ar": "Draa Kebila",
+    "name_fr": "Draa Kebila",
+    "name_en": "Draa Kebila",
+    "communes": []
+  },
+  "682": {
+    "name_ar": "Bir El Arch",
+    "name_fr": "Bir El Arch",
+    "name_en": "Bir El Arch",
+    "communes": []
+  },
+  "683": {
+    "name_ar": "Beni Chebana",
+    "name_fr": "Beni Chebana",
+    "name_en": "Beni Chebana",
+    "communes": []
+  },
+  "684": {
+    "name_ar": "Ouled Tebben",
+    "name_fr": "Ouled Tebben",
+    "name_en": "Ouled Tebben",
+    "communes": []
+  },
+  "685": {
+    "name_ar": "Hamma",
+    "name_fr": "Hamma",
+    "name_en": "Hamma",
+    "communes": []
+  },
+  "686": {
+    "name_ar": "Maaouia",
+    "name_fr": "Maaouia",
+    "name_en": "Maaouia",
+    "communes": []
+  },
+  "687": {
+    "name_ar": "Ain Legraj",
+    "name_fr": "Ain Legraj",
+    "name_en": "Ain Legraj",
+    "communes": []
+  },
+  "688": {
+    "name_ar": "Ain Abessa",
+    "name_fr": "Ain Abessa",
+    "name_en": "Ain Abessa",
+    "communes": []
+  },
+  "689": {
+    "name_ar": "Dehamcha",
+    "name_fr": "Dehamcha",
+    "name_en": "Dehamcha",
+    "communes": []
+  },
+  "690": {
+    "name_ar": "Babor",
+    "name_fr": "Babor",
+    "name_en": "Babor",
+    "communes": []
+  },
+  "691": {
+    "name_ar": "Guidjel",
+    "name_fr": "Guidjel",
+    "name_en": "Guidjel",
+    "communes": []
+  },
+  "692": {
+    "name_ar": "Ain Lahdjar",
+    "name_fr": "Ain Lahdjar",
+    "name_en": "Ain Lahdjar",
+    "communes": []
+  },
+  "693": {
+    "name_ar": "Bousselam",
+    "name_fr": "Bousselam",
+    "name_en": "Bousselam",
+    "communes": []
+  },
+  "694": {
+    "name_ar": "El Eulma",
+    "name_fr": "El Eulma",
+    "name_en": "El Eulma",
+    "communes": []
+  },
+  "695": {
+    "name_ar": "Djemila",
+    "name_fr": "Djemila",
+    "name_en": "Djemila",
+    "communes": []
+  },
+  "696": {
+    "name_ar": "Beni Ouartilane",
+    "name_fr": "Beni Ouartilane",
+    "name_en": "Beni Ouartilane",
+    "communes": []
+  },
+  "697": {
+    "name_ar": "Rosfa",
+    "name_fr": "Rosfa",
+    "name_en": "Rosfa",
+    "communes": []
+  },
+  "698": {
+    "name_ar": "Ouled Addouane",
+    "name_fr": "Ouled Addouane",
+    "name_en": "Ouled Addouane",
+    "communes": []
+  },
+  "699": {
+    "name_ar": "Belaa",
+    "name_fr": "Belaa",
+    "name_en": "Belaa",
+    "communes": []
+  },
+  "700": {
+    "name_ar": "Ain Arnat",
+    "name_fr": "Ain Arnat",
+    "name_en": "Ain Arnat",
+    "communes": []
+  },
+  "701": {
+    "name_ar": "Amoucha",
+    "name_fr": "Amoucha",
+    "name_en": "Amoucha",
+    "communes": []
+  },
+  "702": {
+    "name_ar": "Ain Oulmane",
+    "name_fr": "Ain Oulmane",
+    "name_en": "Ain Oulmane",
+    "communes": []
+  },
+  "703": {
+    "name_ar": "Beidha Bordj",
+    "name_fr": "Beidha Bordj",
+    "name_en": "Beidha Bordj",
+    "communes": []
+  },
+  "704": {
+    "name_ar": "Bouandas",
+    "name_fr": "Bouandas",
+    "name_en": "Bouandas",
+    "communes": []
+  },
+  "705": {
+    "name_ar": "Bazer Sakhra",
+    "name_fr": "Bazer Sakhra",
+    "name_en": "Bazer Sakhra",
+    "communes": []
+  },
+  "706": {
+    "name_ar": "Hammam Essokhna",
+    "name_fr": "Hammam Essokhna",
+    "name_en": "Hammam Essokhna",
+    "communes": []
+  },
+  "707": {
+    "name_ar": "Mezloug",
+    "name_fr": "Mezloug",
+    "name_en": "Mezloug",
+    "communes": []
+  },
+  "708": {
+    "name_ar": "Bir Haddada",
+    "name_fr": "Bir Haddada",
+    "name_en": "Bir Haddada",
+    "communes": []
+  },
+  "709": {
+    "name_ar": "Serdj El Ghoul",
+    "name_fr": "Serdj El Ghoul",
+    "name_en": "Serdj El Ghoul",
+    "communes": []
+  },
+  "710": {
+    "name_ar": "Harbil",
+    "name_fr": "Harbil",
+    "name_en": "Harbil",
+    "communes": []
+  },
+  "711": {
+    "name_ar": "El Ouricia",
+    "name_fr": "El Ouricia",
+    "name_en": "El Ouricia",
+    "communes": []
+  },
+  "712": {
+    "name_ar": "Tizi Nbechar",
+    "name_fr": "Tizi Nbechar",
+    "name_en": "Tizi Nbechar",
+    "communes": []
+  },
+  "713": {
+    "name_ar": "Salah Bey",
+    "name_fr": "Salah Bey",
+    "name_en": "Salah Bey",
+    "communes": []
+  },
+  "714": {
+    "name_ar": "Ain Azal",
+    "name_fr": "Ain Azal",
+    "name_en": "Ain Azal",
+    "communes": []
+  },
+  "715": {
+    "name_ar": "Guenzet",
+    "name_fr": "Guenzet",
+    "name_en": "Guenzet",
+    "communes": []
+  },
+  "716": {
+    "name_ar": "Talaifacene",
+    "name_fr": "Talaifacene",
+    "name_en": "Talaifacene",
+    "communes": []
+  },
+  "717": {
+    "name_ar": "Bougaa",
+    "name_fr": "Bougaa",
+    "name_en": "Bougaa",
+    "communes": []
+  },
+  "718": {
+    "name_ar": "Beni Fouda",
+    "name_fr": "Beni Fouda",
+    "name_en": "Beni Fouda",
+    "communes": []
+  },
+  "719": {
+    "name_ar": "Tachouda",
+    "name_fr": "Tachouda",
+    "name_en": "Tachouda",
+    "communes": []
+  },
+  "720": {
+    "name_ar": "Beni Mouhli",
+    "name_fr": "Beni Mouhli",
+    "name_en": "Beni Mouhli",
+    "communes": []
+  },
+  "721": {
+    "name_ar": "Ouled Sabor",
+    "name_fr": "Ouled Sabor",
+    "name_en": "Ouled Sabor",
+    "communes": []
+  },
+  "722": {
+    "name_ar": "Guellal",
+    "name_fr": "Guellal",
+    "name_en": "Guellal",
+    "communes": []
+  },
+  "723": {
+    "name_ar": "Ain Sebt",
+    "name_fr": "Ain Sebt",
+    "name_en": "Ain Sebt",
+    "communes": []
+  },
+  "724": {
+    "name_ar": "Hammam Guergour",
+    "name_fr": "Hammam Guergour",
+    "name_en": "Hammam Guergour",
+    "communes": []
+  },
+  "725": {
+    "name_ar": "Ait Naoual Mezada",
+    "name_fr": "Ait Naoual Mezada",
+    "name_en": "Ait Naoual Mezada",
+    "communes": []
+  },
+  "726": {
+    "name_ar": "Ksar El Abtal",
+    "name_fr": "Ksar El Abtal",
+    "name_en": "Ksar El Abtal",
+    "communes": []
+  },
+  "727": {
+    "name_ar": "Beni Hocine",
+    "name_fr": "Beni Hocine",
+    "name_en": "Beni Hocine",
+    "communes": []
+  },
+  "728": {
+    "name_ar": "Ait Tizi",
+    "name_fr": "Ait Tizi",
+    "name_en": "Ait Tizi",
+    "communes": []
+  },
+  "729": {
+    "name_ar": "Maouklane",
+    "name_fr": "Maouklane",
+    "name_en": "Maouklane",
+    "communes": []
+  },
+  "730": {
+    "name_ar": "Guelta Zerka",
+    "name_fr": "Guelta Zerka",
+    "name_en": "Guelta Zerka",
+    "communes": []
+  },
+  "731": {
+    "name_ar": "Oued El Barad",
+    "name_fr": "Oued El Barad",
+    "name_en": "Oued El Barad",
+    "communes": []
+  },
+  "732": {
+    "name_ar": "Taya",
+    "name_fr": "Taya",
+    "name_en": "Taya",
+    "communes": []
+  },
+  "733": {
+    "name_ar": "El Ouldja",
+    "name_fr": "El Ouldja",
+    "name_en": "El Ouldja",
+    "communes": []
+  },
+  "734": {
+    "name_ar": "Tella",
+    "name_fr": "Tella",
+    "name_en": "Tella",
+    "communes": []
+  },
+  "735": {
+    "name_ar": "Saida",
+    "name_fr": "Saida",
+    "name_en": "Saida",
+    "communes": []
+  },
+  "736": {
+    "name_ar": "Doui Thabet",
+    "name_fr": "Doui Thabet",
+    "name_en": "Doui Thabet",
+    "communes": []
+  },
+  "737": {
+    "name_ar": "Ain El Hadjar",
+    "name_fr": "Ain El Hadjar",
+    "name_en": "Ain El Hadjar",
+    "communes": []
+  },
+  "738": {
+    "name_ar": "Ouled Khaled",
+    "name_fr": "Ouled Khaled",
+    "name_en": "Ouled Khaled",
+    "communes": []
+  },
+  "739": {
+    "name_ar": "Moulay Larbi",
+    "name_fr": "Moulay Larbi",
+    "name_en": "Moulay Larbi",
+    "communes": []
+  },
+  "740": {
+    "name_ar": "Youb",
+    "name_fr": "Youb",
+    "name_en": "Youb",
+    "communes": []
+  },
+  "741": {
+    "name_ar": "Hounet",
+    "name_fr": "Hounet",
+    "name_en": "Hounet",
+    "communes": []
+  },
+  "742": {
+    "name_ar": "Sidi Amar",
+    "name_fr": "Sidi Amar",
+    "name_en": "Sidi Amar",
+    "communes": []
+  },
+  "743": {
+    "name_ar": "Sidi Boubekeur",
+    "name_fr": "Sidi Boubekeur",
+    "name_en": "Sidi Boubekeur",
+    "communes": []
+  },
+  "744": {
+    "name_ar": "El Hassasna",
+    "name_fr": "El Hassasna",
+    "name_en": "El Hassasna",
+    "communes": []
+  },
+  "745": {
+    "name_ar": "Maamora",
+    "name_fr": "Maamora",
+    "name_en": "Maamora",
+    "communes": []
+  },
+  "746": {
+    "name_ar": "Sidi Ahmed",
+    "name_fr": "Sidi Ahmed",
+    "name_en": "Sidi Ahmed",
+    "communes": []
+  },
+  "747": {
+    "name_ar": "Ain Sekhouna",
+    "name_fr": "Ain Sekhouna",
+    "name_en": "Ain Sekhouna",
+    "communes": []
+  },
+  "748": {
+    "name_ar": "Ouled Brahim",
+    "name_fr": "Ouled Brahim",
+    "name_en": "Ouled Brahim",
+    "communes": []
+  },
+  "749": {
+    "name_ar": "Tircine",
+    "name_fr": "Tircine",
+    "name_en": "Tircine",
+    "communes": []
+  },
+  "750": {
+    "name_ar": "Ain Soltane",
+    "name_fr": "Ain Soltane",
+    "name_en": "Ain Soltane",
+    "communes": []
+  },
+  "751": {
+    "name_ar": "Skikda",
+    "name_fr": "Skikda",
+    "name_en": "Skikda",
+    "communes": []
+  },
+  "752": {
+    "name_ar": "Ain Zouit",
+    "name_fr": "Ain Zouit",
+    "name_en": "Ain Zouit",
+    "communes": []
+  },
+  "753": {
+    "name_ar": "El Hadaik",
+    "name_fr": "El Hadaik",
+    "name_en": "El Hadaik",
+    "communes": []
+  },
+  "754": {
+    "name_ar": "Azzaba",
+    "name_fr": "Azzaba",
+    "name_en": "Azzaba",
+    "communes": []
+  },
+  "755": {
+    "name_ar": "Djendel",
+    "name_fr": "Djendel",
+    "name_en": "Djendel",
+    "communes": []
+  },
+  "756": {
+    "name_ar": "Ain Cherchar",
+    "name_fr": "Ain Cherchar",
+    "name_en": "Ain Cherchar",
+    "communes": []
+  },
+  "757": {
+    "name_ar": "Bekkouche Lakhdar",
+    "name_fr": "Bekkouche Lakhdar",
+    "name_en": "Bekkouche Lakhdar",
+    "communes": []
+  },
+  "758": {
+    "name_ar": "Ben Azzouz",
+    "name_fr": "Ben Azzouz",
+    "name_en": "Ben Azzouz",
+    "communes": []
+  },
+  "759": {
+    "name_ar": "Es Sebt",
+    "name_fr": "Es Sebt",
+    "name_en": "Es Sebt",
+    "communes": []
+  },
+  "760": {
+    "name_ar": "Collo",
+    "name_fr": "Collo",
+    "name_en": "Collo",
+    "communes": []
+  },
+  "761": {
+    "name_ar": "Beni Zid",
+    "name_fr": "Beni Zid",
+    "name_en": "Beni Zid",
+    "communes": []
+  },
+  "762": {
+    "name_ar": "Kerkera",
+    "name_fr": "Kerkera",
+    "name_en": "Kerkera",
+    "communes": []
+  },
+  "763": {
+    "name_ar": "Ouled Attia",
+    "name_fr": "Ouled Attia",
+    "name_en": "Ouled Attia",
+    "communes": []
+  },
+  "764": {
+    "name_ar": "Oued Zehour",
+    "name_fr": "Oued Zehour",
+    "name_en": "Oued Zehour",
+    "communes": []
+  },
+  "765": {
+    "name_ar": "Zitouna",
+    "name_fr": "Zitouna",
+    "name_en": "Zitouna",
+    "communes": []
+  },
+  "766": {
+    "name_ar": "El Harrouch",
+    "name_fr": "El Harrouch",
+    "name_en": "El Harrouch",
+    "communes": []
+  },
+  "767": {
+    "name_ar": "Zerdazas",
+    "name_fr": "Zerdazas",
+    "name_en": "Zerdazas",
+    "communes": []
+  },
+  "768": {
+    "name_ar": "Ouled Hebaba",
+    "name_fr": "Ouled Hebaba",
+    "name_en": "Ouled Hebaba",
+    "communes": []
+  },
+  "769": {
+    "name_ar": "Sidi Mezghiche",
+    "name_fr": "Sidi Mezghiche",
+    "name_en": "Sidi Mezghiche",
+    "communes": []
+  },
+  "770": {
+    "name_ar": "Emdjez Edchich",
+    "name_fr": "Emdjez Edchich",
+    "name_en": "Emdjez Edchich",
+    "communes": []
+  },
+  "771": {
+    "name_ar": "Beni Oulbane",
+    "name_fr": "Beni Oulbane",
+    "name_en": "Beni Oulbane",
+    "communes": []
+  },
+  "772": {
+    "name_ar": "Ain Bouziane",
+    "name_fr": "Ain Bouziane",
+    "name_en": "Ain Bouziane",
+    "communes": []
+  },
+  "773": {
+    "name_ar": "Ramdane Djamel",
+    "name_fr": "Ramdane Djamel",
+    "name_en": "Ramdane Djamel",
+    "communes": []
+  },
+  "774": {
+    "name_ar": "Beni Bachir",
+    "name_fr": "Beni Bachir",
+    "name_en": "Beni Bachir",
+    "communes": []
+  },
+  "775": {
+    "name_ar": "Salah Bouchaour",
+    "name_fr": "Salah Bouchaour",
+    "name_en": "Salah Bouchaour",
+    "communes": []
+  },
+  "776": {
+    "name_ar": "Tamalous",
+    "name_fr": "Tamalous",
+    "name_en": "Tamalous",
+    "communes": []
+  },
+  "777": {
+    "name_ar": "Ain Kechra",
+    "name_fr": "Ain Kechra",
+    "name_en": "Ain Kechra",
+    "communes": []
+  },
+  "778": {
+    "name_ar": "Oum Toub",
+    "name_fr": "Oum Toub",
+    "name_en": "Oum Toub",
+    "communes": []
+  },
+  "779": {
+    "name_ar": "Bein El Ouiden",
+    "name_fr": "Bein El Ouiden",
+    "name_en": "Bein El Ouiden",
+    "communes": []
+  },
+  "780": {
+    "name_ar": "Filfila",
+    "name_fr": "Filfila",
+    "name_en": "Filfila",
+    "communes": []
+  },
+  "781": {
+    "name_ar": "Cheraia",
+    "name_fr": "Cheraia",
+    "name_en": "Cheraia",
+    "communes": []
+  },
+  "782": {
+    "name_ar": "Kanoua",
+    "name_fr": "Kanoua",
+    "name_en": "Kanoua",
+    "communes": []
+  },
+  "783": {
+    "name_ar": "El Ghedir",
+    "name_fr": "El Ghedir",
+    "name_en": "El Ghedir",
+    "communes": []
+  },
+  "784": {
+    "name_ar": "Bouchtata",
+    "name_fr": "Bouchtata",
+    "name_en": "Bouchtata",
+    "communes": []
+  },
+  "785": {
+    "name_ar": "Ouldja Boulbalout",
+    "name_fr": "Ouldja Boulbalout",
+    "name_en": "Ouldja Boulbalout",
+    "communes": []
+  },
+  "786": {
+    "name_ar": "Kheneg Mayoum",
+    "name_fr": "Kheneg Mayoum",
+    "name_en": "Kheneg Mayoum",
+    "communes": []
+  },
+  "787": {
+    "name_ar": "Hamadi Krouma",
+    "name_fr": "Hamadi Krouma",
+    "name_en": "Hamadi Krouma",
+    "communes": []
+  },
+  "788": {
+    "name_ar": "El Marsa",
+    "name_fr": "El Marsa",
+    "name_en": "El Marsa",
+    "communes": []
+  },
+  "789": {
+    "name_ar": "Sidi Bel Abbes",
+    "name_fr": "Sidi Bel Abbes",
+    "name_en": "Sidi Bel Abbes",
+    "communes": []
+  },
+  "790": {
+    "name_ar": "Tessala",
+    "name_fr": "Tessala",
+    "name_en": "Tessala",
+    "communes": []
+  },
+  "791": {
+    "name_ar": "Sidi Brahim",
+    "name_fr": "Sidi Brahim",
+    "name_en": "Sidi Brahim",
+    "communes": []
+  },
+  "792": {
+    "name_ar": "Mostefa Ben Brahim",
+    "name_fr": "Mostefa Ben Brahim",
+    "name_en": "Mostefa Ben Brahim",
+    "communes": []
+  },
+  "793": {
+    "name_ar": "Telagh",
+    "name_fr": "Telagh",
+    "name_en": "Telagh",
+    "communes": []
+  },
+  "794": {
+    "name_ar": "Mezaourou",
+    "name_fr": "Mezaourou",
+    "name_en": "Mezaourou",
+    "communes": []
+  },
+  "795": {
+    "name_ar": "Boukhanafis",
+    "name_fr": "Boukhanafis",
+    "name_en": "Boukhanafis",
+    "communes": []
+  },
+  "796": {
+    "name_ar": "Sidi Ali Boussidi",
+    "name_fr": "Sidi Ali Boussidi",
+    "name_en": "Sidi Ali Boussidi",
+    "communes": []
+  },
+  "797": {
+    "name_ar": "Badredine El Mokrani",
+    "name_fr": "Badredine El Mokrani",
+    "name_en": "Badredine El Mokrani",
+    "communes": []
+  },
+  "798": {
+    "name_ar": "Marhoum",
+    "name_fr": "Marhoum",
+    "name_en": "Marhoum",
+    "communes": []
+  },
+  "799": {
+    "name_ar": "Tafissour",
+    "name_fr": "Tafissour",
+    "name_en": "Tafissour",
+    "communes": []
+  },
+  "800": {
+    "name_ar": "Amarnas",
+    "name_fr": "Amarnas",
+    "name_en": "Amarnas",
+    "communes": []
+  },
+  "801": {
+    "name_ar": "Tilmouni",
+    "name_fr": "Tilmouni",
+    "name_en": "Tilmouni",
+    "communes": []
+  },
+  "802": {
+    "name_ar": "Sidi Lahcene",
+    "name_fr": "Sidi Lahcene",
+    "name_en": "Sidi Lahcene",
+    "communes": []
+  },
+  "803": {
+    "name_ar": "Ain Thrid",
+    "name_fr": "Ain Thrid",
+    "name_en": "Ain Thrid",
+    "communes": []
+  },
+  "804": {
+    "name_ar": "Makedra",
+    "name_fr": "Makedra",
+    "name_en": "Makedra",
+    "communes": []
+  },
+  "805": {
+    "name_ar": "Tenira",
+    "name_fr": "Tenira",
+    "name_en": "Tenira",
+    "communes": []
+  },
+  "806": {
+    "name_ar": "Moulay Slissen",
+    "name_fr": "Moulay Slissen",
+    "name_en": "Moulay Slissen",
+    "communes": []
+  },
+  "807": {
+    "name_ar": "El Hacaiba",
+    "name_fr": "El Hacaiba",
+    "name_en": "El Hacaiba",
+    "communes": []
+  },
+  "808": {
+    "name_ar": "Hassi Zehana",
+    "name_fr": "Hassi Zehana",
+    "name_en": "Hassi Zehana",
+    "communes": []
+  },
+  "809": {
+    "name_ar": "Tabia",
+    "name_fr": "Tabia",
+    "name_en": "Tabia",
+    "communes": []
+  },
+  "810": {
+    "name_ar": "Merine",
+    "name_fr": "Merine",
+    "name_en": "Merine",
+    "communes": []
+  },
+  "811": {
+    "name_ar": "Ras El Ma",
+    "name_fr": "Ras El Ma",
+    "name_en": "Ras El Ma",
+    "communes": []
+  },
+  "812": {
+    "name_ar": "Ain Tindamine",
+    "name_fr": "Ain Tindamine",
+    "name_en": "Ain Tindamine",
+    "communes": []
+  },
+  "813": {
+    "name_ar": "Ain Kada",
+    "name_fr": "Ain Kada",
+    "name_en": "Ain Kada",
+    "communes": []
+  },
+  "814": {
+    "name_ar": "Mcid",
+    "name_fr": "Mcid",
+    "name_en": "Mcid",
+    "communes": []
+  },
+  "815": {
+    "name_ar": "Sidi Khaled",
+    "name_fr": "Sidi Khaled",
+    "name_en": "Sidi Khaled",
+    "communes": []
+  },
+  "816": {
+    "name_ar": "Ain El Berd",
+    "name_fr": "Ain El Berd",
+    "name_en": "Ain El Berd",
+    "communes": []
+  },
+  "817": {
+    "name_ar": "Sfissef",
+    "name_fr": "Sfissef",
+    "name_en": "Sfissef",
+    "communes": []
+  },
+  "818": {
+    "name_ar": "Ain Adden",
+    "name_fr": "Ain Adden",
+    "name_en": "Ain Adden",
+    "communes": []
+  },
+  "819": {
+    "name_ar": "Oued Taourira",
+    "name_fr": "Oued Taourira",
+    "name_en": "Oued Taourira",
+    "communes": []
+  },
+  "820": {
+    "name_ar": "Dhaya",
+    "name_fr": "Dhaya",
+    "name_en": "Dhaya",
+    "communes": []
+  },
+  "821": {
+    "name_ar": "Zerouala",
+    "name_fr": "Zerouala",
+    "name_en": "Zerouala",
+    "communes": []
+  },
+  "822": {
+    "name_ar": "Lamtar",
+    "name_fr": "Lamtar",
+    "name_en": "Lamtar",
+    "communes": []
+  },
+  "823": {
+    "name_ar": "Sidi Chaib",
+    "name_fr": "Sidi Chaib",
+    "name_en": "Sidi Chaib",
+    "communes": []
+  },
+  "824": {
+    "name_ar": "Sidi Dahou",
+    "name_fr": "Sidi Dahou",
+    "name_en": "Sidi Dahou",
+    "communes": []
+  },
+  "825": {
+    "name_ar": "Oued Sbaa",
+    "name_fr": "Oued Sbaa",
+    "name_en": "Oued Sbaa",
+    "communes": []
+  },
+  "826": {
+    "name_ar": "Boudjebaa El Bordj",
+    "name_fr": "Boudjebaa El Bordj",
+    "name_en": "Boudjebaa El Bordj",
+    "communes": []
+  },
+  "827": {
+    "name_ar": "Sehala Thaoura",
+    "name_fr": "Sehala Thaoura",
+    "name_en": "Sehala Thaoura",
+    "communes": []
+  },
+  "828": {
+    "name_ar": "Sidi Yacoub",
+    "name_fr": "Sidi Yacoub",
+    "name_en": "Sidi Yacoub",
+    "communes": []
+  },
+  "829": {
+    "name_ar": "Sidi Hamadouche",
+    "name_fr": "Sidi Hamadouche",
+    "name_en": "Sidi Hamadouche",
+    "communes": []
+  },
+  "830": {
+    "name_ar": "Belarbi",
+    "name_fr": "Belarbi",
+    "name_en": "Belarbi",
+    "communes": []
+  },
+  "831": {
+    "name_ar": "Oued Sefioun",
+    "name_fr": "Oued Sefioun",
+    "name_en": "Oued Sefioun",
+    "communes": []
+  },
+  "832": {
+    "name_ar": "Teghalimet",
+    "name_fr": "Teghalimet",
+    "name_en": "Teghalimet",
+    "communes": []
+  },
+  "833": {
+    "name_ar": "Ben Badis",
+    "name_fr": "Ben Badis",
+    "name_en": "Ben Badis",
+    "communes": []
+  },
+  "834": {
+    "name_ar": "Sidi Ali Benyoub",
+    "name_fr": "Sidi Ali Benyoub",
+    "name_en": "Sidi Ali Benyoub",
+    "communes": []
+  },
+  "835": {
+    "name_ar": "Chetouane Belaila",
+    "name_fr": "Chetouane Belaila",
+    "name_en": "Chetouane Belaila",
+    "communes": []
+  },
+  "836": {
+    "name_ar": "Bir El Hammam",
+    "name_fr": "Bir El Hammam",
+    "name_en": "Bir El Hammam",
+    "communes": []
+  },
+  "837": {
+    "name_ar": "Taoudmout",
+    "name_fr": "Taoudmout",
+    "name_en": "Taoudmout",
+    "communes": []
+  },
+  "838": {
+    "name_ar": "Redjem Demouche",
+    "name_fr": "Redjem Demouche",
+    "name_en": "Redjem Demouche",
+    "communes": []
+  },
+  "839": {
+    "name_ar": "Benachiba Chelia",
+    "name_fr": "Benachiba Chelia",
+    "name_en": "Benachiba Chelia",
+    "communes": []
+  },
+  "840": {
+    "name_ar": "Hassi Dahou",
+    "name_fr": "Hassi Dahou",
+    "name_en": "Hassi Dahou",
+    "communes": []
+  },
+  "841": {
+    "name_ar": "Annaba",
+    "name_fr": "Annaba",
+    "name_en": "Annaba",
+    "communes": []
+  },
+  "842": {
+    "name_ar": "Berrahel",
+    "name_fr": "Berrahel",
+    "name_en": "Berrahel",
+    "communes": []
+  },
+  "843": {
+    "name_ar": "El Hadjar",
+    "name_fr": "El Hadjar",
+    "name_en": "El Hadjar",
+    "communes": []
+  },
+  "844": {
+    "name_ar": "Eulma",
+    "name_fr": "Eulma",
+    "name_en": "Eulma",
+    "communes": []
+  },
+  "845": {
+    "name_ar": "El Bouni",
+    "name_fr": "El Bouni",
+    "name_en": "El Bouni",
+    "communes": []
+  },
+  "846": {
+    "name_ar": "Oued El Aneb",
+    "name_fr": "Oued El Aneb",
+    "name_en": "Oued El Aneb",
+    "communes": []
+  },
+  "847": {
+    "name_ar": "Cheurfa",
+    "name_fr": "Cheurfa",
+    "name_en": "Cheurfa",
+    "communes": []
+  },
+  "848": {
+    "name_ar": "Seraidi",
+    "name_fr": "Seraidi",
+    "name_en": "Seraidi",
+    "communes": []
+  },
+  "849": {
+    "name_ar": "Ain Berda",
+    "name_fr": "Ain Berda",
+    "name_en": "Ain Berda",
+    "communes": []
+  },
+  "850": {
+    "name_ar": "Chetaibi",
+    "name_fr": "Chetaibi",
+    "name_en": "Chetaibi",
+    "communes": []
+  },
+  "851": {
+    "name_ar": "Sidi Amer",
+    "name_fr": "Sidi Amer",
+    "name_en": "Sidi Amer",
+    "communes": []
+  },
+  "852": {
+    "name_ar": "Treat",
+    "name_fr": "Treat",
+    "name_en": "Treat",
+    "communes": []
+  },
+  "853": {
+    "name_ar": "Guelma",
+    "name_fr": "Guelma",
+    "name_en": "Guelma",
+    "communes": []
+  },
+  "854": {
+    "name_ar": "Nechmaya",
+    "name_fr": "Nechmaya",
+    "name_en": "Nechmaya",
+    "communes": []
+  },
+  "855": {
+    "name_ar": "Bouati Mahmoud",
+    "name_fr": "Bouati Mahmoud",
+    "name_en": "Bouati Mahmoud",
+    "communes": []
+  },
+  "856": {
+    "name_ar": "Oued Zenati",
+    "name_fr": "Oued Zenati",
+    "name_en": "Oued Zenati",
+    "communes": []
+  },
+  "857": {
+    "name_ar": "Tamlouka",
+    "name_fr": "Tamlouka",
+    "name_en": "Tamlouka",
+    "communes": []
+  },
+  "858": {
+    "name_ar": "Oued Fragha",
+    "name_fr": "Oued Fragha",
+    "name_en": "Oued Fragha",
+    "communes": []
+  },
+  "859": {
+    "name_ar": "Ain Sandel",
+    "name_fr": "Ain Sandel",
+    "name_en": "Ain Sandel",
+    "communes": []
+  },
+  "860": {
+    "name_ar": "Ras El Agba",
+    "name_fr": "Ras El Agba",
+    "name_en": "Ras El Agba",
+    "communes": []
+  },
+  "861": {
+    "name_ar": "Dahouara",
+    "name_fr": "Dahouara",
+    "name_en": "Dahouara",
+    "communes": []
+  },
+  "862": {
+    "name_ar": "Belkhir",
+    "name_fr": "Belkhir",
+    "name_en": "Belkhir",
+    "communes": []
+  },
+  "863": {
+    "name_ar": "Ben Djarah",
+    "name_fr": "Ben Djarah",
+    "name_en": "Ben Djarah",
+    "communes": []
+  },
+  "864": {
+    "name_ar": "Bou Hamdane",
+    "name_fr": "Bou Hamdane",
+    "name_en": "Bou Hamdane",
+    "communes": []
+  },
+  "865": {
+    "name_ar": "Ain Makhlouf",
+    "name_fr": "Ain Makhlouf",
+    "name_en": "Ain Makhlouf",
+    "communes": []
+  },
+  "866": {
+    "name_ar": "Ain Ben Beida",
+    "name_fr": "Ain Ben Beida",
+    "name_en": "Ain Ben Beida",
+    "communes": []
+  },
+  "867": {
+    "name_ar": "Khezara",
+    "name_fr": "Khezara",
+    "name_en": "Khezara",
+    "communes": []
+  },
+  "868": {
+    "name_ar": "Beni Mezline",
+    "name_fr": "Beni Mezline",
+    "name_en": "Beni Mezline",
+    "communes": []
+  },
+  "869": {
+    "name_ar": "Bou Hachana",
+    "name_fr": "Bou Hachana",
+    "name_en": "Bou Hachana",
+    "communes": []
+  },
+  "870": {
+    "name_ar": "Guelaat Bou Sbaa",
+    "name_fr": "Guelaat Bou Sbaa",
+    "name_en": "Guelaat Bou Sbaa",
+    "communes": []
+  },
+  "871": {
+    "name_ar": "Hammam Maskhoutine",
+    "name_fr": "Hammam Maskhoutine",
+    "name_en": "Hammam Maskhoutine",
+    "communes": []
+  },
+  "872": {
+    "name_ar": "El Fedjoudj",
+    "name_fr": "El Fedjoudj",
+    "name_en": "El Fedjoudj",
+    "communes": []
+  },
+  "873": {
+    "name_ar": "Bordj Sabat",
+    "name_fr": "Bordj Sabat",
+    "name_en": "Bordj Sabat",
+    "communes": []
+  },
+  "874": {
+    "name_ar": "Hamman Nbail",
+    "name_fr": "Hamman Nbail",
+    "name_en": "Hamman Nbail",
+    "communes": []
+  },
+  "875": {
+    "name_ar": "Ain Larbi",
+    "name_fr": "Ain Larbi",
+    "name_en": "Ain Larbi",
+    "communes": []
+  },
+  "876": {
+    "name_ar": "Medjez Amar",
+    "name_fr": "Medjez Amar",
+    "name_en": "Medjez Amar",
+    "communes": []
+  },
+  "877": {
+    "name_ar": "Bouchegouf",
+    "name_fr": "Bouchegouf",
+    "name_en": "Bouchegouf",
+    "communes": []
+  },
+  "878": {
+    "name_ar": "Heliopolis",
+    "name_fr": "Heliopolis",
+    "name_en": "Heliopolis",
+    "communes": []
+  },
+  "879": {
+    "name_ar": "Houari Boumediene",
+    "name_fr": "Houari Boumediene",
+    "name_en": "Houari Boumediene",
+    "communes": []
+  },
+  "880": {
+    "name_ar": "Roknia",
+    "name_fr": "Roknia",
+    "name_en": "Roknia",
+    "communes": []
+  },
+  "881": {
+    "name_ar": "Salaoua Announa",
+    "name_fr": "Salaoua Announa",
+    "name_en": "Salaoua Announa",
+    "communes": []
+  },
+  "882": {
+    "name_ar": "Medjez Sfa",
+    "name_fr": "Medjez Sfa",
+    "name_en": "Medjez Sfa",
+    "communes": []
+  },
+  "883": {
+    "name_ar": "Boumahra Ahmed",
+    "name_fr": "Boumahra Ahmed",
+    "name_en": "Boumahra Ahmed",
+    "communes": []
+  },
+  "884": {
+    "name_ar": "Ain Reggada",
+    "name_fr": "Ain Reggada",
+    "name_en": "Ain Reggada",
+    "communes": []
+  },
+  "885": {
+    "name_ar": "Oued Cheham",
+    "name_fr": "Oued Cheham",
+    "name_en": "Oued Cheham",
+    "communes": []
+  },
+  "886": {
+    "name_ar": "Djeballah Khemissi",
+    "name_fr": "Djeballah Khemissi",
+    "name_en": "Djeballah Khemissi",
+    "communes": []
+  },
+  "887": {
+    "name_ar": "Constantine",
+    "name_fr": "Constantine",
+    "name_en": "Constantine",
+    "communes": []
+  },
+  "888": {
+    "name_ar": "Hamma Bouziane",
+    "name_fr": "Hamma Bouziane",
+    "name_en": "Hamma Bouziane",
+    "communes": []
+  },
+  "889": {
+    "name_ar": "Ibn Badis",
+    "name_fr": "Ibn Badis",
+    "name_en": "Ibn Badis",
+    "communes": []
+  },
+  "890": {
+    "name_ar": "Zighoud Youcef",
+    "name_fr": "Zighoud Youcef",
+    "name_en": "Zighoud Youcef",
+    "communes": []
+  },
+  "891": {
+    "name_ar": "Didouche Mourad",
+    "name_fr": "Didouche Mourad",
+    "name_en": "Didouche Mourad",
+    "communes": []
+  },
+  "892": {
+    "name_ar": "El Khroub",
+    "name_fr": "El Khroub",
+    "name_en": "El Khroub",
+    "communes": []
+  },
+  "893": {
+    "name_ar": "Ain Abid",
+    "name_fr": "Ain Abid",
+    "name_en": "Ain Abid",
+    "communes": []
+  },
+  "894": {
+    "name_ar": "Beni Hamiden",
+    "name_fr": "Beni Hamiden",
+    "name_en": "Beni Hamiden",
+    "communes": []
+  },
+  "895": {
+    "name_ar": "Ouled Rahmoune",
+    "name_fr": "Ouled Rahmoune",
+    "name_en": "Ouled Rahmoune",
+    "communes": []
+  },
+  "896": {
+    "name_ar": "Ain Smara",
+    "name_fr": "Ain Smara",
+    "name_en": "Ain Smara",
+    "communes": []
+  },
+  "897": {
+    "name_ar": "Mesaoud Boudjeriou",
+    "name_fr": "Mesaoud Boudjeriou",
+    "name_en": "Mesaoud Boudjeriou",
+    "communes": []
+  },
+  "898": {
+    "name_ar": "Ibn Ziad",
+    "name_fr": "Ibn Ziad",
+    "name_en": "Ibn Ziad",
+    "communes": []
+  },
+  "899": {
+    "name_ar": "Medea",
+    "name_fr": "Medea",
+    "name_en": "Medea",
+    "communes": []
+  },
+  "900": {
+    "name_ar": "Ouzera",
+    "name_fr": "Ouzera",
+    "name_en": "Ouzera",
+    "communes": []
+  },
+  "901": {
+    "name_ar": "Ouled Maaref",
+    "name_fr": "Ouled Maaref",
+    "name_en": "Ouled Maaref",
+    "communes": []
+  },
+  "902": {
+    "name_ar": "Ain Boucif",
+    "name_fr": "Ain Boucif",
+    "name_en": "Ain Boucif",
+    "communes": []
+  },
+  "903": {
+    "name_ar": "Aissaouia",
+    "name_fr": "Aissaouia",
+    "name_en": "Aissaouia",
+    "communes": []
+  },
+  "904": {
+    "name_ar": "Ouled Deide",
+    "name_fr": "Ouled Deide",
+    "name_en": "Ouled Deide",
+    "communes": []
+  },
+  "905": {
+    "name_ar": "El Omaria",
+    "name_fr": "El Omaria",
+    "name_en": "El Omaria",
+    "communes": []
+  },
+  "906": {
+    "name_ar": "Derrag",
+    "name_fr": "Derrag",
+    "name_en": "Derrag",
+    "communes": []
+  },
+  "907": {
+    "name_ar": "El Guelbelkebir",
+    "name_fr": "El Guelbelkebir",
+    "name_en": "El Guelbelkebir",
+    "communes": []
+  },
+  "908": {
+    "name_ar": "Bouaiche",
+    "name_fr": "Bouaiche",
+    "name_en": "Bouaiche",
+    "communes": []
+  },
+  "909": {
+    "name_ar": "Mezerena",
+    "name_fr": "Mezerena",
+    "name_en": "Mezerena",
+    "communes": []
+  },
+  "910": {
+    "name_ar": "Ouled Brahim",
+    "name_fr": "Ouled Brahim",
+    "name_en": "Ouled Brahim",
+    "communes": []
+  },
+  "911": {
+    "name_ar": "Tizi Mahdi",
+    "name_fr": "Tizi Mahdi",
+    "name_en": "Tizi Mahdi",
+    "communes": []
+  },
+  "912": {
+    "name_ar": "Sidi Ziane",
+    "name_fr": "Sidi Ziane",
+    "name_en": "Sidi Ziane",
+    "communes": []
+  },
+  "913": {
+    "name_ar": "Tamesguida",
+    "name_fr": "Tamesguida",
+    "name_en": "Tamesguida",
+    "communes": []
+  },
+  "914": {
+    "name_ar": "El Hamdania",
+    "name_fr": "El Hamdania",
+    "name_en": "El Hamdania",
+    "communes": []
+  },
+  "915": {
+    "name_ar": "Kef Lakhdar",
+    "name_fr": "Kef Lakhdar",
+    "name_en": "Kef Lakhdar",
+    "communes": []
+  },
+  "916": {
+    "name_ar": "Chelalet El Adhaoura",
+    "name_fr": "Chelalet El Adhaoura",
+    "name_en": "Chelalet El Adhaoura",
+    "communes": []
+  },
+  "917": {
+    "name_ar": "Bouskene",
+    "name_fr": "Bouskene",
+    "name_en": "Bouskene",
+    "communes": []
+  },
+  "918": {
+    "name_ar": "Rebaia",
+    "name_fr": "Rebaia",
+    "name_en": "Rebaia",
+    "communes": []
+  },
+  "919": {
+    "name_ar": "Bouchrahil",
+    "name_fr": "Bouchrahil",
+    "name_en": "Bouchrahil",
+    "communes": []
+  },
+  "920": {
+    "name_ar": "Ouled Hellal",
+    "name_fr": "Ouled Hellal",
+    "name_en": "Ouled Hellal",
+    "communes": []
+  },
+  "921": {
+    "name_ar": "Tafraout",
+    "name_fr": "Tafraout",
+    "name_en": "Tafraout",
+    "communes": []
+  },
+  "922": {
+    "name_ar": "Baata",
+    "name_fr": "Baata",
+    "name_en": "Baata",
+    "communes": []
+  },
+  "923": {
+    "name_ar": "Boghar",
+    "name_fr": "Boghar",
+    "name_en": "Boghar",
+    "communes": []
+  },
+  "924": {
+    "name_ar": "Sidi Naamane",
+    "name_fr": "Sidi Naamane",
+    "name_en": "Sidi Naamane",
+    "communes": []
+  },
+  "925": {
+    "name_ar": "Ouled Bouachra",
+    "name_fr": "Ouled Bouachra",
+    "name_en": "Ouled Bouachra",
+    "communes": []
+  },
+  "926": {
+    "name_ar": "Sidi Zahar",
+    "name_fr": "Sidi Zahar",
+    "name_en": "Sidi Zahar",
+    "communes": []
+  },
+  "927": {
+    "name_ar": "Oued Harbil",
+    "name_fr": "Oued Harbil",
+    "name_en": "Oued Harbil",
+    "communes": []
+  },
+  "928": {
+    "name_ar": "Benchicao",
+    "name_fr": "Benchicao",
+    "name_en": "Benchicao",
+    "communes": []
+  },
+  "929": {
+    "name_ar": "Sidi Damed",
+    "name_fr": "Sidi Damed",
+    "name_en": "Sidi Damed",
+    "communes": []
+  },
+  "930": {
+    "name_ar": "Aziz",
+    "name_fr": "Aziz",
+    "name_en": "Aziz",
+    "communes": []
+  },
+  "931": {
+    "name_ar": "Souagui",
+    "name_fr": "Souagui",
+    "name_en": "Souagui",
+    "communes": []
+  },
+  "932": {
+    "name_ar": "Zoubiria",
+    "name_fr": "Zoubiria",
+    "name_en": "Zoubiria",
+    "communes": []
+  },
+  "933": {
+    "name_ar": "Ksar El Boukhari",
+    "name_fr": "Ksar El Boukhari",
+    "name_en": "Ksar El Boukhari",
+    "communes": []
+  },
+  "934": {
+    "name_ar": "El Azizia",
+    "name_fr": "El Azizia",
+    "name_en": "El Azizia",
+    "communes": []
+  },
+  "935": {
+    "name_ar": "Djouab",
+    "name_fr": "Djouab",
+    "name_en": "Djouab",
+    "communes": []
+  },
+  "936": {
+    "name_ar": "Chahbounia",
+    "name_fr": "Chahbounia",
+    "name_en": "Chahbounia",
+    "communes": []
+  },
+  "937": {
+    "name_ar": "Meghraoua",
+    "name_fr": "Meghraoua",
+    "name_en": "Meghraoua",
+    "communes": []
+  },
+  "938": {
+    "name_ar": "Cheniguel",
+    "name_fr": "Cheniguel",
+    "name_en": "Cheniguel",
+    "communes": []
+  },
+  "939": {
+    "name_ar": "Ain Ouksir",
+    "name_fr": "Ain Ouksir",
+    "name_en": "Ain Ouksir",
+    "communes": []
+  },
+  "940": {
+    "name_ar": "Oum El Djalil",
+    "name_fr": "Oum El Djalil",
+    "name_en": "Oum El Djalil",
+    "communes": []
+  },
+  "941": {
+    "name_ar": "Ouamri",
+    "name_fr": "Ouamri",
+    "name_en": "Ouamri",
+    "communes": []
+  },
+  "942": {
+    "name_ar": "Si Mahdjoub",
+    "name_fr": "Si Mahdjoub",
+    "name_en": "Si Mahdjoub",
+    "communes": []
+  },
+  "943": {
+    "name_ar": "Tlatet Eddouair",
+    "name_fr": "Tlatet Eddouair",
+    "name_en": "Tlatet Eddouair",
+    "communes": []
+  },
+  "944": {
+    "name_ar": "Beni Slimane",
+    "name_fr": "Beni Slimane",
+    "name_en": "Beni Slimane",
+    "communes": []
+  },
+  "945": {
+    "name_ar": "Berrouaghia",
+    "name_fr": "Berrouaghia",
+    "name_en": "Berrouaghia",
+    "communes": []
+  },
+  "946": {
+    "name_ar": "Seghouane",
+    "name_fr": "Seghouane",
+    "name_en": "Seghouane",
+    "communes": []
+  },
+  "947": {
+    "name_ar": "Meftaha",
+    "name_fr": "Meftaha",
+    "name_en": "Meftaha",
+    "communes": []
+  },
+  "948": {
+    "name_ar": "Mihoub",
+    "name_fr": "Mihoub",
+    "name_en": "Mihoub",
+    "communes": []
+  },
+  "949": {
+    "name_ar": "Boughezoul",
+    "name_fr": "Boughezoul",
+    "name_en": "Boughezoul",
+    "communes": []
+  },
+  "950": {
+    "name_ar": "Tablat",
+    "name_fr": "Tablat",
+    "name_en": "Tablat",
+    "communes": []
+  },
+  "951": {
+    "name_ar": "Deux Bassins",
+    "name_fr": "Deux Bassins",
+    "name_en": "Deux Bassins",
+    "communes": []
+  },
+  "952": {
+    "name_ar": "Draa Essamar",
+    "name_fr": "Draa Essamar",
+    "name_en": "Draa Essamar",
+    "communes": []
+  },
+  "953": {
+    "name_ar": "Sidi Errabia",
+    "name_fr": "Sidi Errabia",
+    "name_en": "Sidi Errabia",
+    "communes": []
+  },
+  "954": {
+    "name_ar": "Bir Ben Laabed",
+    "name_fr": "Bir Ben Laabed",
+    "name_en": "Bir Ben Laabed",
+    "communes": []
+  },
+  "955": {
+    "name_ar": "El Ouinet",
+    "name_fr": "El Ouinet",
+    "name_en": "El Ouinet",
+    "communes": []
+  },
+  "956": {
+    "name_ar": "Ouled Antar",
+    "name_fr": "Ouled Antar",
+    "name_en": "Ouled Antar",
+    "communes": []
+  },
+  "957": {
+    "name_ar": "Bouaichoune",
+    "name_fr": "Bouaichoune",
+    "name_en": "Bouaichoune",
+    "communes": []
+  },
+  "958": {
+    "name_ar": "Hannacha",
+    "name_fr": "Hannacha",
+    "name_en": "Hannacha",
+    "communes": []
+  },
+  "959": {
+    "name_ar": "Sedraia",
+    "name_fr": "Sedraia",
+    "name_en": "Sedraia",
+    "communes": []
+  },
+  "960": {
+    "name_ar": "Medjebar",
+    "name_fr": "Medjebar",
+    "name_en": "Medjebar",
+    "communes": []
+  },
+  "961": {
+    "name_ar": "Khams Djouamaa",
+    "name_fr": "Khams Djouamaa",
+    "name_en": "Khams Djouamaa",
+    "communes": []
+  },
+  "962": {
+    "name_ar": "Saneg",
+    "name_fr": "Saneg",
+    "name_en": "Saneg",
+    "communes": []
+  },
+  "963": {
+    "name_ar": "Mostaganem",
+    "name_fr": "Mostaganem",
+    "name_en": "Mostaganem",
+    "communes": []
+  },
+  "964": {
+    "name_ar": "Sayada",
+    "name_fr": "Sayada",
+    "name_en": "Sayada",
+    "communes": []
+  },
+  "965": {
+    "name_ar": "Fornaka",
+    "name_fr": "Fornaka",
+    "name_en": "Fornaka",
+    "communes": []
+  },
+  "966": {
+    "name_ar": "Stidia",
+    "name_fr": "Stidia",
+    "name_en": "Stidia",
+    "communes": []
+  },
+  "967": {
+    "name_ar": "Ain Nouissy",
+    "name_fr": "Ain Nouissy",
+    "name_en": "Ain Nouissy",
+    "communes": []
+  },
+  "968": {
+    "name_ar": "Hassi Maameche",
+    "name_fr": "Hassi Maameche",
+    "name_en": "Hassi Maameche",
+    "communes": []
+  },
+  "969": {
+    "name_ar": "Ain Tadles",
+    "name_fr": "Ain Tadles",
+    "name_en": "Ain Tadles",
+    "communes": []
+  },
+  "970": {
+    "name_ar": "Sour",
+    "name_fr": "Sour",
+    "name_en": "Sour",
+    "communes": []
+  },
+  "971": {
+    "name_ar": "Oued El Kheir",
+    "name_fr": "Oued El Kheir",
+    "name_en": "Oued El Kheir",
+    "communes": []
+  },
+  "972": {
+    "name_ar": "Sidi Bellater",
+    "name_fr": "Sidi Bellater",
+    "name_en": "Sidi Bellater",
+    "communes": []
+  },
+  "973": {
+    "name_ar": "Kheiredine",
+    "name_fr": "Kheiredine",
+    "name_en": "Kheiredine",
+    "communes": []
+  },
+  "974": {
+    "name_ar": "Sidi Ali",
+    "name_fr": "Sidi Ali",
+    "name_en": "Sidi Ali",
+    "communes": []
+  },
+  "975": {
+    "name_ar": "Abdelmalek Ramdane",
+    "name_fr": "Abdelmalek Ramdane",
+    "name_en": "Abdelmalek Ramdane",
+    "communes": []
+  },
+  "976": {
+    "name_ar": "Hadjadj",
+    "name_fr": "Hadjadj",
+    "name_en": "Hadjadj",
+    "communes": []
+  },
+  "977": {
+    "name_ar": "Nekmaria",
+    "name_fr": "Nekmaria",
+    "name_en": "Nekmaria",
+    "communes": []
+  },
+  "978": {
+    "name_ar": "Sidi Lakhdar",
+    "name_fr": "Sidi Lakhdar",
+    "name_en": "Sidi Lakhdar",
+    "communes": []
+  },
+  "979": {
+    "name_ar": "Achaacha",
+    "name_fr": "Achaacha",
+    "name_en": "Achaacha",
+    "communes": []
+  },
+  "980": {
+    "name_ar": "Khadra",
+    "name_fr": "Khadra",
+    "name_en": "Khadra",
+    "communes": []
+  },
+  "981": {
+    "name_ar": "Bouguirat",
+    "name_fr": "Bouguirat",
+    "name_en": "Bouguirat",
+    "communes": []
+  },
+  "982": {
+    "name_ar": "Sirat",
+    "name_fr": "Sirat",
+    "name_en": "Sirat",
+    "communes": []
+  },
+  "983": {
+    "name_ar": "Ain Sidi Cherif",
+    "name_fr": "Ain Sidi Cherif",
+    "name_en": "Ain Sidi Cherif",
+    "communes": []
+  },
+  "984": {
+    "name_ar": "Mesra",
+    "name_fr": "Mesra",
+    "name_en": "Mesra",
+    "communes": []
+  },
+  "985": {
+    "name_ar": "Mansourah",
+    "name_fr": "Mansourah",
+    "name_en": "Mansourah",
+    "communes": []
+  },
+  "986": {
+    "name_ar": "Souaflia",
+    "name_fr": "Souaflia",
+    "name_en": "Souaflia",
+    "communes": []
+  },
+  "987": {
+    "name_ar": "Ouled Boughalem",
+    "name_fr": "Ouled Boughalem",
+    "name_en": "Ouled Boughalem",
+    "communes": []
+  },
+  "988": {
+    "name_ar": "Ouled Maallah",
+    "name_fr": "Ouled Maallah",
+    "name_en": "Ouled Maallah",
+    "communes": []
+  },
+  "989": {
+    "name_ar": "Mezghrane",
+    "name_fr": "Mezghrane",
+    "name_en": "Mezghrane",
+    "communes": []
+  },
+  "990": {
+    "name_ar": "Ain Boudinar",
+    "name_fr": "Ain Boudinar",
+    "name_en": "Ain Boudinar",
+    "communes": []
+  },
+  "991": {
+    "name_ar": "Tazgait",
+    "name_fr": "Tazgait",
+    "name_en": "Tazgait",
+    "communes": []
+  },
+  "992": {
+    "name_ar": "Safsaf",
+    "name_fr": "Safsaf",
+    "name_en": "Safsaf",
+    "communes": []
+  },
+  "993": {
+    "name_ar": "Touahria",
+    "name_fr": "Touahria",
+    "name_en": "Touahria",
+    "communes": []
+  },
+  "994": {
+    "name_ar": "El Hassiane",
+    "name_fr": "El Hassiane",
+    "name_en": "El Hassiane",
+    "communes": []
+  },
+  "995": {
+    "name_ar": "Msila",
+    "name_fr": "Msila",
+    "name_en": "Msila",
+    "communes": []
+  },
+  "996": {
+    "name_ar": "Maadid",
+    "name_fr": "Maadid",
+    "name_en": "Maadid",
+    "communes": []
+  },
+  "997": {
+    "name_ar": "Hammam Dhalaa",
+    "name_fr": "Hammam Dhalaa",
+    "name_en": "Hammam Dhalaa",
+    "communes": []
+  },
+  "998": {
+    "name_ar": "Ouled Derradj",
+    "name_fr": "Ouled Derradj",
+    "name_en": "Ouled Derradj",
+    "communes": []
+  },
+  "999": {
+    "name_ar": "Tarmount",
+    "name_fr": "Tarmount",
+    "name_en": "Tarmount",
+    "communes": []
+  },
+  "1000": {
+    "name_ar": "Mtarfa",
+    "name_fr": "Mtarfa",
+    "name_en": "Mtarfa",
+    "communes": []
+  },
+  "1001": {
+    "name_ar": "Khoubana",
+    "name_fr": "Khoubana",
+    "name_en": "Khoubana",
+    "communes": []
+  },
+  "1002": {
+    "name_ar": "M'cif",
+    "name_fr": "M'cif",
+    "name_en": "M'cif",
+    "communes": []
+  },
+  "1003": {
+    "name_ar": "Chellal",
+    "name_fr": "Chellal",
+    "name_en": "Chellal",
+    "communes": []
+  },
+  "1004": {
+    "name_ar": "Ouled Madhi",
+    "name_fr": "Ouled Madhi",
+    "name_en": "Ouled Madhi",
+    "communes": []
+  },
+  "1005": {
+    "name_ar": "Magra",
+    "name_fr": "Magra",
+    "name_en": "Magra",
+    "communes": []
+  },
+  "1006": {
+    "name_ar": "Berhoum",
+    "name_fr": "Berhoum",
+    "name_en": "Berhoum",
+    "communes": []
+  },
+  "1007": {
+    "name_ar": "Ain Khadra",
+    "name_fr": "Ain Khadra",
+    "name_en": "Ain Khadra",
+    "communes": []
+  },
+  "1008": {
+    "name_ar": "Ouled Addi Guebala",
+    "name_fr": "Ouled Addi Guebala",
+    "name_en": "Ouled Addi Guebala",
+    "communes": []
+  },
+  "1009": {
+    "name_ar": "Belaiba",
+    "name_fr": "Belaiba",
+    "name_en": "Belaiba",
+    "communes": []
+  },
+  "1010": {
+    "name_ar": "Sidi Aissa",
+    "name_fr": "Sidi Aissa",
+    "name_en": "Sidi Aissa",
+    "communes": []
+  },
+  "1011": {
+    "name_ar": "Ain El Hadjel",
+    "name_fr": "Ain El Hadjel",
+    "name_en": "Ain El Hadjel",
+    "communes": []
+  },
+  "1012": {
+    "name_ar": "Sidi Hadjeres",
+    "name_fr": "Sidi Hadjeres",
+    "name_en": "Sidi Hadjeres",
+    "communes": []
+  },
+  "1013": {
+    "name_ar": "Ouanougha",
+    "name_fr": "Ouanougha",
+    "name_en": "Ouanougha",
+    "communes": []
+  },
+  "1014": {
+    "name_ar": "Bou Saada",
+    "name_fr": "Bou Saada",
+    "name_en": "Bou Saada",
+    "communes": []
+  },
+  "1015": {
+    "name_ar": "Ouled Sidi Brahim",
+    "name_fr": "Ouled Sidi Brahim",
+    "name_en": "Ouled Sidi Brahim",
+    "communes": []
+  },
+  "1016": {
+    "name_ar": "Sidi Ameur",
+    "name_fr": "Sidi Ameur",
+    "name_en": "Sidi Ameur",
+    "communes": []
+  },
+  "1017": {
+    "name_ar": "Tamsa",
+    "name_fr": "Tamsa",
+    "name_en": "Tamsa",
+    "communes": []
+  },
+  "1018": {
+    "name_ar": "Ben Srour",
+    "name_fr": "Ben Srour",
+    "name_en": "Ben Srour",
+    "communes": []
+  },
+  "1019": {
+    "name_ar": "Ouled Slimane",
+    "name_fr": "Ouled Slimane",
+    "name_en": "Ouled Slimane",
+    "communes": []
+  },
+  "1020": {
+    "name_ar": "El Houamed",
+    "name_fr": "El Houamed",
+    "name_en": "El Houamed",
+    "communes": []
+  },
+  "1021": {
+    "name_ar": "El Hamel",
+    "name_fr": "El Hamel",
+    "name_en": "El Hamel",
+    "communes": []
+  },
+  "1022": {
+    "name_ar": "Ouled Mansour",
+    "name_fr": "Ouled Mansour",
+    "name_en": "Ouled Mansour",
+    "communes": []
+  },
+  "1023": {
+    "name_ar": "Maarif",
+    "name_fr": "Maarif",
+    "name_en": "Maarif",
+    "communes": []
+  },
+  "1024": {
+    "name_ar": "Dehahna",
+    "name_fr": "Dehahna",
+    "name_en": "Dehahna",
+    "communes": []
+  },
+  "1025": {
+    "name_ar": "Bouti Sayah",
+    "name_fr": "Bouti Sayah",
+    "name_en": "Bouti Sayah",
+    "communes": []
+  },
+  "1026": {
+    "name_ar": "Khettouti Sed Djir",
+    "name_fr": "Khettouti Sed Djir",
+    "name_en": "Khettouti Sed Djir",
+    "communes": []
+  },
+  "1027": {
+    "name_ar": "Zarzour",
+    "name_fr": "Zarzour",
+    "name_en": "Zarzour",
+    "communes": []
+  },
+  "1028": {
+    "name_ar": "Oued Chair",
+    "name_fr": "Oued Chair",
+    "name_en": "Oued Chair",
+    "communes": []
+  },
+  "1029": {
+    "name_ar": "Benzouh",
+    "name_fr": "Benzouh",
+    "name_en": "Benzouh",
+    "communes": []
+  },
+  "1030": {
+    "name_ar": "Bir Foda",
+    "name_fr": "Bir Foda",
+    "name_en": "Bir Foda",
+    "communes": []
+  },
+  "1031": {
+    "name_ar": "Ain Fares",
+    "name_fr": "Ain Fares",
+    "name_en": "Ain Fares",
+    "communes": []
+  },
+  "1032": {
+    "name_ar": "Sidi Mhamed",
+    "name_fr": "Sidi Mhamed",
+    "name_en": "Sidi Mhamed",
+    "communes": []
+  },
+  "1033": {
+    "name_ar": "Ouled Atia",
+    "name_fr": "Ouled Atia",
+    "name_en": "Ouled Atia",
+    "communes": []
+  },
+  "1034": {
+    "name_ar": "Souamaa",
+    "name_fr": "Souamaa",
+    "name_en": "Souamaa",
+    "communes": []
+  },
+  "1035": {
+    "name_ar": "Ain El Melh",
+    "name_fr": "Ain El Melh",
+    "name_en": "Ain El Melh",
+    "communes": []
+  },
+  "1036": {
+    "name_ar": "Medjedel",
+    "name_fr": "Medjedel",
+    "name_en": "Medjedel",
+    "communes": []
+  },
+  "1037": {
+    "name_ar": "Slim",
+    "name_fr": "Slim",
+    "name_en": "Slim",
+    "communes": []
+  },
+  "1038": {
+    "name_ar": "Ain Errich",
+    "name_fr": "Ain Errich",
+    "name_en": "Ain Errich",
+    "communes": []
+  },
+  "1039": {
+    "name_ar": "Beni Ilmane",
+    "name_fr": "Beni Ilmane",
+    "name_en": "Beni Ilmane",
+    "communes": []
+  },
+  "1040": {
+    "name_ar": "Oultene",
+    "name_fr": "Oultene",
+    "name_en": "Oultene",
+    "communes": []
+  },
+  "1041": {
+    "name_ar": "Djebel Messaad",
+    "name_fr": "Djebel Messaad",
+    "name_en": "Djebel Messaad",
+    "communes": []
+  },
+  "1042": {
+    "name_ar": "Mascara",
+    "name_fr": "Mascara",
+    "name_en": "Mascara",
+    "communes": []
+  },
+  "1043": {
+    "name_ar": "Bou Hanifia",
+    "name_fr": "Bou Hanifia",
+    "name_en": "Bou Hanifia",
+    "communes": []
+  },
+  "1044": {
+    "name_ar": "Tizi",
+    "name_fr": "Tizi",
+    "name_en": "Tizi",
+    "communes": []
+  },
+  "1045": {
+    "name_ar": "Hacine",
+    "name_fr": "Hacine",
+    "name_en": "Hacine",
+    "communes": []
+  },
+  "1046": {
+    "name_ar": "Maoussa",
+    "name_fr": "Maoussa",
+    "name_en": "Maoussa",
+    "communes": []
+  },
+  "1047": {
+    "name_ar": "Teghennif",
+    "name_fr": "Teghennif",
+    "name_en": "Teghennif",
+    "communes": []
+  },
+  "1048": {
+    "name_ar": "El Hachem",
+    "name_fr": "El Hachem",
+    "name_en": "El Hachem",
+    "communes": []
+  },
+  "1049": {
+    "name_ar": "Sidi Kada",
+    "name_fr": "Sidi Kada",
+    "name_en": "Sidi Kada",
+    "communes": []
+  },
+  "1050": {
+    "name_ar": "Zelmata",
+    "name_fr": "Zelmata",
+    "name_en": "Zelmata",
+    "communes": []
+  },
+  "1051": {
+    "name_ar": "Oued El Abtal",
+    "name_fr": "Oued El Abtal",
+    "name_en": "Oued El Abtal",
+    "communes": []
+  },
+  "1052": {
+    "name_ar": "Ain Ferah",
+    "name_fr": "Ain Ferah",
+    "name_en": "Ain Ferah",
+    "communes": []
+  },
+  "1053": {
+    "name_ar": "Ghriss",
+    "name_fr": "Ghriss",
+    "name_en": "Ghriss",
+    "communes": []
+  },
+  "1054": {
+    "name_ar": "Froha",
+    "name_fr": "Froha",
+    "name_en": "Froha",
+    "communes": []
+  },
+  "1055": {
+    "name_ar": "Matemore",
+    "name_fr": "Matemore",
+    "name_en": "Matemore",
+    "communes": []
+  },
+  "1056": {
+    "name_ar": "Makdha",
+    "name_fr": "Makdha",
+    "name_en": "Makdha",
+    "communes": []
+  },
+  "1057": {
+    "name_ar": "Sidi Boussaid",
+    "name_fr": "Sidi Boussaid",
+    "name_en": "Sidi Boussaid",
+    "communes": []
+  },
+  "1058": {
+    "name_ar": "El Bordj",
+    "name_fr": "El Bordj",
+    "name_en": "El Bordj",
+    "communes": []
+  },
+  "1059": {
+    "name_ar": "Ain Fekan",
+    "name_fr": "Ain Fekan",
+    "name_en": "Ain Fekan",
+    "communes": []
+  },
+  "1060": {
+    "name_ar": "Benian",
+    "name_fr": "Benian",
+    "name_en": "Benian",
+    "communes": []
+  },
+  "1061": {
+    "name_ar": "Khalouia",
+    "name_fr": "Khalouia",
+    "name_en": "Khalouia",
+    "communes": []
+  },
+  "1062": {
+    "name_ar": "El Menaouer",
+    "name_fr": "El Menaouer",
+    "name_en": "El Menaouer",
+    "communes": []
+  },
+  "1063": {
+    "name_ar": "Oued Taria",
+    "name_fr": "Oued Taria",
+    "name_en": "Oued Taria",
+    "communes": []
+  },
+  "1064": {
+    "name_ar": "Aouf",
+    "name_fr": "Aouf",
+    "name_en": "Aouf",
+    "communes": []
+  },
+  "1065": {
+    "name_ar": "Ain Fares",
+    "name_fr": "Ain Fares",
+    "name_en": "Ain Fares",
+    "communes": []
+  },
+  "1066": {
+    "name_ar": "Ain Frass",
+    "name_fr": "Ain Frass",
+    "name_en": "Ain Frass",
+    "communes": []
+  },
+  "1067": {
+    "name_ar": "Sig",
+    "name_fr": "Sig",
+    "name_en": "Sig",
+    "communes": []
+  },
+  "1068": {
+    "name_ar": "Oggaz",
+    "name_fr": "Oggaz",
+    "name_en": "Oggaz",
+    "communes": []
+  },
+  "1069": {
+    "name_ar": "Alaimia",
+    "name_fr": "Alaimia",
+    "name_en": "Alaimia",
+    "communes": []
+  },
+  "1070": {
+    "name_ar": "El Gaada",
+    "name_fr": "El Gaada",
+    "name_en": "El Gaada",
+    "communes": []
+  },
+  "1071": {
+    "name_ar": "Zahana",
+    "name_fr": "Zahana",
+    "name_en": "Zahana",
+    "communes": []
+  },
+  "1072": {
+    "name_ar": "Mohammadia",
+    "name_fr": "Mohammadia",
+    "name_en": "Mohammadia",
+    "communes": []
+  },
+  "1073": {
+    "name_ar": "Sidi Abdelmoumene",
+    "name_fr": "Sidi Abdelmoumene",
+    "name_en": "Sidi Abdelmoumene",
+    "communes": []
+  },
+  "1074": {
+    "name_ar": "Ferraguig",
+    "name_fr": "Ferraguig",
+    "name_en": "Ferraguig",
+    "communes": []
+  },
+  "1075": {
+    "name_ar": "El Ghomri",
+    "name_fr": "El Ghomri",
+    "name_en": "El Ghomri",
+    "communes": []
+  },
+  "1076": {
+    "name_ar": "Sedjerara",
+    "name_fr": "Sedjerara",
+    "name_en": "Sedjerara",
+    "communes": []
+  },
+  "1077": {
+    "name_ar": "Moctadouz",
+    "name_fr": "Moctadouz",
+    "name_en": "Moctadouz",
+    "communes": []
+  },
+  "1078": {
+    "name_ar": "Bou Henni",
+    "name_fr": "Bou Henni",
+    "name_en": "Bou Henni",
+    "communes": []
+  },
+  "1079": {
+    "name_ar": "Guettena",
+    "name_fr": "Guettena",
+    "name_en": "Guettena",
+    "communes": []
+  },
+  "1080": {
+    "name_ar": "El Mamounia",
+    "name_fr": "El Mamounia",
+    "name_en": "El Mamounia",
+    "communes": []
+  },
+  "1081": {
+    "name_ar": "El Keurt",
+    "name_fr": "El Keurt",
+    "name_en": "El Keurt",
+    "communes": []
+  },
+  "1082": {
+    "name_ar": "Gharrous",
+    "name_fr": "Gharrous",
+    "name_en": "Gharrous",
+    "communes": []
+  },
+  "1083": {
+    "name_ar": "Gherdjoum",
+    "name_fr": "Gherdjoum",
+    "name_en": "Gherdjoum",
+    "communes": []
+  },
+  "1084": {
+    "name_ar": "Chorfa",
+    "name_fr": "Chorfa",
+    "name_en": "Chorfa",
+    "communes": []
+  },
+  "1085": {
+    "name_ar": "Ras Ain Amirouche",
+    "name_fr": "Ras Ain Amirouche",
+    "name_en": "Ras Ain Amirouche",
+    "communes": []
+  },
+  "1086": {
+    "name_ar": "Nesmot",
+    "name_fr": "Nesmot",
+    "name_en": "Nesmot",
+    "communes": []
+  },
+  "1087": {
+    "name_ar": "Sidi Abdeldjebar",
+    "name_fr": "Sidi Abdeldjebar",
+    "name_en": "Sidi Abdeldjebar",
+    "communes": []
+  },
+  "1088": {
+    "name_ar": "Sehailia",
+    "name_fr": "Sehailia",
+    "name_en": "Sehailia",
+    "communes": []
+  },
+  "1089": {
+    "name_ar": "Ouargla",
+    "name_fr": "Ouargla",
+    "name_en": "Ouargla",
+    "communes": []
+  },
+  "1090": {
+    "name_ar": "Ain Beida",
+    "name_fr": "Ain Beida",
+    "name_en": "Ain Beida",
+    "communes": []
+  },
+  "1091": {
+    "name_ar": "Ngoussa",
+    "name_fr": "Ngoussa",
+    "name_en": "Ngoussa",
+    "communes": []
+  },
+  "1092": {
+    "name_ar": "Hassi Messaoud",
+    "name_fr": "Hassi Messaoud",
+    "name_en": "Hassi Messaoud",
+    "communes": []
+  },
+  "1093": {
+    "name_ar": "Rouissat",
+    "name_fr": "Rouissat",
+    "name_en": "Rouissat",
+    "communes": []
+  },
+  "1094": {
+    "name_ar": "Balidat Ameur",
+    "name_fr": "Balidat Ameur",
+    "name_en": "Balidat Ameur",
+    "communes": []
+  },
+  "1095": {
+    "name_ar": "Tebesbest",
+    "name_fr": "Tebesbest",
+    "name_en": "Tebesbest",
+    "communes": []
+  },
+  "1096": {
+    "name_ar": "Nezla",
+    "name_fr": "Nezla",
+    "name_en": "Nezla",
+    "communes": []
+  },
+  "1097": {
+    "name_ar": "Zaouia El Abidia",
+    "name_fr": "Zaouia El Abidia",
+    "name_en": "Zaouia El Abidia",
+    "communes": []
+  },
+  "1098": {
+    "name_ar": "Sidi Slimane",
+    "name_fr": "Sidi Slimane",
+    "name_en": "Sidi Slimane",
+    "communes": []
+  },
+  "1099": {
+    "name_ar": "Sidi Khouiled",
+    "name_fr": "Sidi Khouiled",
+    "name_en": "Sidi Khouiled",
+    "communes": []
+  },
+  "1100": {
+    "name_ar": "Hassi Ben Abdellah",
+    "name_fr": "Hassi Ben Abdellah",
+    "name_en": "Hassi Ben Abdellah",
+    "communes": []
+  },
+  "1101": {
+    "name_ar": "Touggourt",
+    "name_fr": "Touggourt",
+    "name_en": "Touggourt",
+    "communes": []
+  },
+  "1102": {
+    "name_ar": "El Hadjira",
+    "name_fr": "El Hadjira",
+    "name_en": "El Hadjira",
+    "communes": []
+  },
+  "1103": {
+    "name_ar": "Taibet",
+    "name_fr": "Taibet",
+    "name_en": "Taibet",
+    "communes": []
+  },
+  "1104": {
+    "name_ar": "Tamacine",
+    "name_fr": "Tamacine",
+    "name_en": "Tamacine",
+    "communes": []
+  },
+  "1105": {
+    "name_ar": "Benaceur",
+    "name_fr": "Benaceur",
+    "name_en": "Benaceur",
+    "communes": []
+  },
+  "1106": {
+    "name_ar": "Mnaguer",
+    "name_fr": "Mnaguer",
+    "name_en": "Mnaguer",
+    "communes": []
+  },
+  "1107": {
+    "name_ar": "Megarine",
+    "name_fr": "Megarine",
+    "name_en": "Megarine",
+    "communes": []
+  },
+  "1108": {
+    "name_ar": "El Allia",
+    "name_fr": "El Allia",
+    "name_en": "El Allia",
+    "communes": []
+  },
+  "1109": {
+    "name_ar": "El Borma",
+    "name_fr": "El Borma",
+    "name_en": "El Borma",
+    "communes": []
+  },
+  "1110": {
+    "name_ar": "Oran",
+    "name_fr": "Oran",
+    "name_en": "Oran",
+    "communes": []
+  },
+  "1111": {
+    "name_ar": "Gdyel",
+    "name_fr": "Gdyel",
+    "name_en": "Gdyel",
+    "communes": []
+  },
+  "1112": {
+    "name_ar": "Bir El Djir",
+    "name_fr": "Bir El Djir",
+    "name_en": "Bir El Djir",
+    "communes": []
+  },
+  "1113": {
+    "name_ar": "Hassi Bounif",
+    "name_fr": "Hassi Bounif",
+    "name_en": "Hassi Bounif",
+    "communes": []
+  },
+  "1114": {
+    "name_ar": "Es Senia",
+    "name_fr": "Es Senia",
+    "name_en": "Es Senia",
+    "communes": []
+  },
+  "1115": {
+    "name_ar": "Arzew",
+    "name_fr": "Arzew",
+    "name_en": "Arzew",
+    "communes": []
+  },
+  "1116": {
+    "name_ar": "Bethioua",
+    "name_fr": "Bethioua",
+    "name_en": "Bethioua",
+    "communes": []
+  },
+  "1117": {
+    "name_ar": "Marsat El Hadjadj",
+    "name_fr": "Marsat El Hadjadj",
+    "name_en": "Marsat El Hadjadj",
+    "communes": []
+  },
+  "1118": {
+    "name_ar": "Ain Turk",
+    "name_fr": "Ain Turk",
+    "name_en": "Ain Turk",
+    "communes": []
+  },
+  "1119": {
+    "name_ar": "El Ancar",
+    "name_fr": "El Ancar",
+    "name_en": "El Ancar",
+    "communes": []
+  },
+  "1120": {
+    "name_ar": "Oued Tlelat",
+    "name_fr": "Oued Tlelat",
+    "name_en": "Oued Tlelat",
+    "communes": []
+  },
+  "1121": {
+    "name_ar": "Tafraoui",
+    "name_fr": "Tafraoui",
+    "name_en": "Tafraoui",
+    "communes": []
+  },
+  "1122": {
+    "name_ar": "Sidi Chami",
+    "name_fr": "Sidi Chami",
+    "name_en": "Sidi Chami",
+    "communes": []
+  },
+  "1123": {
+    "name_ar": "Boufatis",
+    "name_fr": "Boufatis",
+    "name_en": "Boufatis",
+    "communes": []
+  },
+  "1124": {
+    "name_ar": "Mers El Kebir",
+    "name_fr": "Mers El Kebir",
+    "name_en": "Mers El Kebir",
+    "communes": []
+  },
+  "1125": {
+    "name_ar": "Bousfer",
+    "name_fr": "Bousfer",
+    "name_en": "Bousfer",
+    "communes": []
+  },
+  "1126": {
+    "name_ar": "El Karma",
+    "name_fr": "El Karma",
+    "name_en": "El Karma",
+    "communes": []
+  },
+  "1127": {
+    "name_ar": "El Braya",
+    "name_fr": "El Braya",
+    "name_en": "El Braya",
+    "communes": []
+  },
+  "1128": {
+    "name_ar": "Hassi Ben Okba",
+    "name_fr": "Hassi Ben Okba",
+    "name_en": "Hassi Ben Okba",
+    "communes": []
+  },
+  "1129": {
+    "name_ar": "Ben Freha",
+    "name_fr": "Ben Freha",
+    "name_en": "Ben Freha",
+    "communes": []
+  },
+  "1130": {
+    "name_ar": "Hassi Mefsoukh",
+    "name_fr": "Hassi Mefsoukh",
+    "name_en": "Hassi Mefsoukh",
+    "communes": []
+  },
+  "1131": {
+    "name_ar": "Sidi Ben Yabka",
+    "name_fr": "Sidi Ben Yabka",
+    "name_en": "Sidi Ben Yabka",
+    "communes": []
+  },
+  "1132": {
+    "name_ar": "Messerghin",
+    "name_fr": "Messerghin",
+    "name_en": "Messerghin",
+    "communes": []
+  },
+  "1133": {
+    "name_ar": "Boutlelis",
+    "name_fr": "Boutlelis",
+    "name_en": "Boutlelis",
+    "communes": []
+  },
+  "1134": {
+    "name_ar": "Ain Kerma",
+    "name_fr": "Ain Kerma",
+    "name_en": "Ain Kerma",
+    "communes": []
+  },
+  "1135": {
+    "name_ar": "Ain Biya",
+    "name_fr": "Ain Biya",
+    "name_en": "Ain Biya",
+    "communes": []
+  },
+  "1136": {
+    "name_ar": "El Bayadh",
+    "name_fr": "El Bayadh",
+    "name_en": "El Bayadh",
+    "communes": []
+  },
+  "1137": {
+    "name_ar": "Rogassa",
+    "name_fr": "Rogassa",
+    "name_en": "Rogassa",
+    "communes": []
+  },
+  "1138": {
+    "name_ar": "Stitten",
+    "name_fr": "Stitten",
+    "name_en": "Stitten",
+    "communes": []
+  },
+  "1139": {
+    "name_ar": "Brezina",
+    "name_fr": "Brezina",
+    "name_en": "Brezina",
+    "communes": []
+  },
+  "1140": {
+    "name_ar": "Ghassoul",
+    "name_fr": "Ghassoul",
+    "name_en": "Ghassoul",
+    "communes": []
+  },
+  "1141": {
+    "name_ar": "Boualem",
+    "name_fr": "Boualem",
+    "name_en": "Boualem",
+    "communes": []
+  },
+  "1142": {
+    "name_ar": "El Abiodh Sidi Cheikh",
+    "name_fr": "El Abiodh Sidi Cheikh",
+    "name_en": "El Abiodh Sidi Cheikh",
+    "communes": []
+  },
+  "1143": {
+    "name_ar": "Ain El Orak",
+    "name_fr": "Ain El Orak",
+    "name_en": "Ain El Orak",
+    "communes": []
+  },
+  "1144": {
+    "name_ar": "Arbaouat",
+    "name_fr": "Arbaouat",
+    "name_en": "Arbaouat",
+    "communes": []
+  },
+  "1145": {
+    "name_ar": "Bougtoub",
+    "name_fr": "Bougtoub",
+    "name_en": "Bougtoub",
+    "communes": []
+  },
+  "1146": {
+    "name_ar": "El Kheither",
+    "name_fr": "El Kheither",
+    "name_en": "El Kheither",
+    "communes": []
+  },
+  "1147": {
+    "name_ar": "Kef El Ahmar",
+    "name_fr": "Kef El Ahmar",
+    "name_en": "Kef El Ahmar",
+    "communes": []
+  },
+  "1148": {
+    "name_ar": "Boussemghoun",
+    "name_fr": "Boussemghoun",
+    "name_en": "Boussemghoun",
+    "communes": []
+  },
+  "1149": {
+    "name_ar": "Chellala",
+    "name_fr": "Chellala",
+    "name_en": "Chellala",
+    "communes": []
+  },
+  "1150": {
+    "name_ar": "Krakda",
+    "name_fr": "Krakda",
+    "name_en": "Krakda",
+    "communes": []
+  },
+  "1151": {
+    "name_ar": "El Bnoud",
+    "name_fr": "El Bnoud",
+    "name_en": "El Bnoud",
+    "communes": []
+  },
+  "1152": {
+    "name_ar": "Cheguig",
+    "name_fr": "Cheguig",
+    "name_en": "Cheguig",
+    "communes": []
+  },
+  "1153": {
+    "name_ar": "Sidi Ameur",
+    "name_fr": "Sidi Ameur",
+    "name_en": "Sidi Ameur",
+    "communes": []
+  },
+  "1154": {
+    "name_ar": "El Mehara",
+    "name_fr": "El Mehara",
+    "name_en": "El Mehara",
+    "communes": []
+  },
+  "1155": {
+    "name_ar": "Tousmouline",
+    "name_fr": "Tousmouline",
+    "name_en": "Tousmouline",
+    "communes": []
+  },
+  "1156": {
+    "name_ar": "Sidi Slimane",
+    "name_fr": "Sidi Slimane",
+    "name_en": "Sidi Slimane",
+    "communes": []
+  },
+  "1157": {
+    "name_ar": "Sidi Tifour",
+    "name_fr": "Sidi Tifour",
+    "name_en": "Sidi Tifour",
+    "communes": []
+  },
+  "1158": {
+    "name_ar": "Illizi",
+    "name_fr": "Illizi",
+    "name_en": "Illizi",
+    "communes": []
+  },
+  "1159": {
+    "name_ar": "Djanet",
+    "name_fr": "Djanet",
+    "name_en": "Djanet",
+    "communes": []
+  },
+  "1160": {
+    "name_ar": "Debdeb",
+    "name_fr": "Debdeb",
+    "name_en": "Debdeb",
+    "communes": []
+  },
+  "1161": {
+    "name_ar": "Bordj Omar Driss",
+    "name_fr": "Bordj Omar Driss",
+    "name_en": "Bordj Omar Driss",
+    "communes": []
+  },
+  "1162": {
+    "name_ar": "Bordj El Haouasse",
+    "name_fr": "Bordj El Haouasse",
+    "name_en": "Bordj El Haouasse",
+    "communes": []
+  },
+  "1163": {
+    "name_ar": "In Amenas",
+    "name_fr": "In Amenas",
+    "name_en": "In Amenas",
+    "communes": []
+  },
+  "1164": {
+    "name_ar": "Bordj Bou Arreridj",
+    "name_fr": "Bordj Bou Arreridj",
+    "name_en": "Bordj Bou Arreridj",
+    "communes": []
+  },
+  "1165": {
+    "name_ar": "Ras El Oued",
+    "name_fr": "Ras El Oued",
+    "name_en": "Ras El Oued",
+    "communes": []
+  },
+  "1166": {
+    "name_ar": "Bordj Zemoura",
+    "name_fr": "Bordj Zemoura",
+    "name_en": "Bordj Zemoura",
+    "communes": []
+  },
+  "1167": {
+    "name_ar": "Mansoura",
+    "name_fr": "Mansoura",
+    "name_en": "Mansoura",
+    "communes": []
+  },
+  "1168": {
+    "name_ar": "El Mhir",
+    "name_fr": "El Mhir",
+    "name_en": "El Mhir",
+    "communes": []
+  },
+  "1169": {
+    "name_ar": "Ben Daoud",
+    "name_fr": "Ben Daoud",
+    "name_en": "Ben Daoud",
+    "communes": []
+  },
+  "1170": {
+    "name_ar": "El Achir",
+    "name_fr": "El Achir",
+    "name_en": "El Achir",
+    "communes": []
+  },
+  "1171": {
+    "name_ar": "Ain Taghrout",
+    "name_fr": "Ain Taghrout",
+    "name_en": "Ain Taghrout",
+    "communes": []
+  },
+  "1172": {
+    "name_ar": "Bordj Ghdir",
+    "name_fr": "Bordj Ghdir",
+    "name_en": "Bordj Ghdir",
+    "communes": []
+  },
+  "1173": {
+    "name_ar": "Sidi Embarek",
+    "name_fr": "Sidi Embarek",
+    "name_en": "Sidi Embarek",
+    "communes": []
+  },
+  "1174": {
+    "name_ar": "El Hamadia",
+    "name_fr": "El Hamadia",
+    "name_en": "El Hamadia",
+    "communes": []
+  },
+  "1175": {
+    "name_ar": "Belimour",
+    "name_fr": "Belimour",
+    "name_en": "Belimour",
+    "communes": []
+  },
+  "1176": {
+    "name_ar": "Medjana",
+    "name_fr": "Medjana",
+    "name_en": "Medjana",
+    "communes": []
+  },
+  "1177": {
+    "name_ar": "Teniet En Nasr",
+    "name_fr": "Teniet En Nasr",
+    "name_en": "Teniet En Nasr",
+    "communes": []
+  },
+  "1178": {
+    "name_ar": "Djaafra",
+    "name_fr": "Djaafra",
+    "name_en": "Djaafra",
+    "communes": []
+  },
+  "1179": {
+    "name_ar": "El Main",
+    "name_fr": "El Main",
+    "name_en": "El Main",
+    "communes": []
+  },
+  "1180": {
+    "name_ar": "Ouled Brahem",
+    "name_fr": "Ouled Brahem",
+    "name_en": "Ouled Brahem",
+    "communes": []
+  },
+  "1181": {
+    "name_ar": "Ouled Dahmane",
+    "name_fr": "Ouled Dahmane",
+    "name_en": "Ouled Dahmane",
+    "communes": []
+  },
+  "1182": {
+    "name_ar": "Hasnaoua",
+    "name_fr": "Hasnaoua",
+    "name_en": "Hasnaoua",
+    "communes": []
+  },
+  "1183": {
+    "name_ar": "Khelil",
+    "name_fr": "Khelil",
+    "name_en": "Khelil",
+    "communes": []
+  },
+  "1184": {
+    "name_ar": "Taglait",
+    "name_fr": "Taglait",
+    "name_en": "Taglait",
+    "communes": []
+  },
+  "1185": {
+    "name_ar": "Ksour",
+    "name_fr": "Ksour",
+    "name_en": "Ksour",
+    "communes": []
+  },
+  "1186": {
+    "name_ar": "Ouled Sidi Brahim",
+    "name_fr": "Ouled Sidi Brahim",
+    "name_en": "Ouled Sidi Brahim",
+    "communes": []
+  },
+  "1187": {
+    "name_ar": "Tafreg",
+    "name_fr": "Tafreg",
+    "name_en": "Tafreg",
+    "communes": []
+  },
+  "1188": {
+    "name_ar": "Colla",
+    "name_fr": "Colla",
+    "name_en": "Colla",
+    "communes": []
+  },
+  "1189": {
+    "name_ar": "Tixter",
+    "name_fr": "Tixter",
+    "name_en": "Tixter",
+    "communes": []
+  },
+  "1190": {
+    "name_ar": "El Ach",
+    "name_fr": "El Ach",
+    "name_en": "El Ach",
+    "communes": []
+  },
+  "1191": {
+    "name_ar": "El Anseur",
+    "name_fr": "El Anseur",
+    "name_en": "El Anseur",
+    "communes": []
+  },
+  "1192": {
+    "name_ar": "Tesmart",
+    "name_fr": "Tesmart",
+    "name_en": "Tesmart",
+    "communes": []
+  },
+  "1193": {
+    "name_ar": "Ain Tesra",
+    "name_fr": "Ain Tesra",
+    "name_en": "Ain Tesra",
+    "communes": []
+  },
+  "1194": {
+    "name_ar": "Bir Kasdali",
+    "name_fr": "Bir Kasdali",
+    "name_en": "Bir Kasdali",
+    "communes": []
+  },
+  "1195": {
+    "name_ar": "Ghilassa",
+    "name_fr": "Ghilassa",
+    "name_en": "Ghilassa",
+    "communes": []
+  },
+  "1196": {
+    "name_ar": "Rabta",
+    "name_fr": "Rabta",
+    "name_en": "Rabta",
+    "communes": []
+  },
+  "1197": {
+    "name_ar": "Haraza",
+    "name_fr": "Haraza",
+    "name_en": "Haraza",
+    "communes": []
+  },
+  "1198": {
+    "name_ar": "Boumerdes",
+    "name_fr": "Boumerdes",
+    "name_en": "Boumerdes",
+    "communes": []
+  },
+  "1199": {
+    "name_ar": "Boudouaou",
+    "name_fr": "Boudouaou",
+    "name_en": "Boudouaou",
+    "communes": []
+  },
+  "1200": {
+    "name_ar": "Afir",
+    "name_fr": "Afir",
+    "name_en": "Afir",
+    "communes": []
+  },
+  "1201": {
+    "name_ar": "Bordj Menaiel",
+    "name_fr": "Bordj Menaiel",
+    "name_en": "Bordj Menaiel",
+    "communes": []
+  },
+  "1202": {
+    "name_ar": "Baghlia",
+    "name_fr": "Baghlia",
+    "name_en": "Baghlia",
+    "communes": []
+  },
+  "1203": {
+    "name_ar": "Sidi Daoud",
+    "name_fr": "Sidi Daoud",
+    "name_en": "Sidi Daoud",
+    "communes": []
+  },
+  "1204": {
+    "name_ar": "Naciria",
+    "name_fr": "Naciria",
+    "name_en": "Naciria",
+    "communes": []
+  },
+  "1205": {
+    "name_ar": "Djinet",
+    "name_fr": "Djinet",
+    "name_en": "Djinet",
+    "communes": []
+  },
+  "1206": {
+    "name_ar": "Isser",
+    "name_fr": "Isser",
+    "name_en": "Isser",
+    "communes": []
+  },
+  "1207": {
+    "name_ar": "Zemmouri",
+    "name_fr": "Zemmouri",
+    "name_en": "Zemmouri",
+    "communes": []
+  },
+  "1208": {
+    "name_ar": "Si Mustapha",
+    "name_fr": "Si Mustapha",
+    "name_en": "Si Mustapha",
+    "communes": []
+  },
+  "1209": {
+    "name_ar": "Tidjelabine",
+    "name_fr": "Tidjelabine",
+    "name_en": "Tidjelabine",
+    "communes": []
+  },
+  "1210": {
+    "name_ar": "Chabet El Ameur",
+    "name_fr": "Chabet El Ameur",
+    "name_en": "Chabet El Ameur",
+    "communes": []
+  },
+  "1211": {
+    "name_ar": "Thenia",
+    "name_fr": "Thenia",
+    "name_en": "Thenia",
+    "communes": []
+  },
+  "1212": {
+    "name_ar": "Timezrit",
+    "name_fr": "Timezrit",
+    "name_en": "Timezrit",
+    "communes": []
+  },
+  "1213": {
+    "name_ar": "Corso",
+    "name_fr": "Corso",
+    "name_en": "Corso",
+    "communes": []
+  },
+  "1214": {
+    "name_ar": "Ouled Moussa",
+    "name_fr": "Ouled Moussa",
+    "name_en": "Ouled Moussa",
+    "communes": []
+  },
+  "1215": {
+    "name_ar": "Larbatache",
+    "name_fr": "Larbatache",
+    "name_en": "Larbatache",
+    "communes": []
+  },
+  "1216": {
+    "name_ar": "Bouzegza Keddara",
+    "name_fr": "Bouzegza Keddara",
+    "name_en": "Bouzegza Keddara",
+    "communes": []
+  },
+  "1217": {
+    "name_ar": "Taourga",
+    "name_fr": "Taourga",
+    "name_en": "Taourga",
+    "communes": []
+  },
+  "1218": {
+    "name_ar": "Ouled Aissa",
+    "name_fr": "Ouled Aissa",
+    "name_en": "Ouled Aissa",
+    "communes": []
+  },
+  "1219": {
+    "name_ar": "Ben Choud",
+    "name_fr": "Ben Choud",
+    "name_en": "Ben Choud",
+    "communes": []
+  },
+  "1220": {
+    "name_ar": "Dellys",
+    "name_fr": "Dellys",
+    "name_en": "Dellys",
+    "communes": []
+  },
+  "1221": {
+    "name_ar": "Ammal",
+    "name_fr": "Ammal",
+    "name_en": "Ammal",
+    "communes": []
+  },
+  "1222": {
+    "name_ar": "Beni Amrane",
+    "name_fr": "Beni Amrane",
+    "name_en": "Beni Amrane",
+    "communes": []
+  },
+  "1223": {
+    "name_ar": "Souk El Had",
+    "name_fr": "Souk El Had",
+    "name_en": "Souk El Had",
+    "communes": []
+  },
+  "1224": {
+    "name_ar": "Boudouaou El Bahri",
+    "name_fr": "Boudouaou El Bahri",
+    "name_en": "Boudouaou El Bahri",
+    "communes": []
+  },
+  "1225": {
+    "name_ar": "Ouled Hedadj",
+    "name_fr": "Ouled Hedadj",
+    "name_en": "Ouled Hedadj",
+    "communes": []
+  },
+  "1226": {
+    "name_ar": "Laghata",
+    "name_fr": "Laghata",
+    "name_en": "Laghata",
+    "communes": []
+  },
+  "1227": {
+    "name_ar": "Hammedi",
+    "name_fr": "Hammedi",
+    "name_en": "Hammedi",
+    "communes": []
+  },
+  "1228": {
+    "name_ar": "Khemis El Khechna",
+    "name_fr": "Khemis El Khechna",
+    "name_en": "Khemis El Khechna",
+    "communes": []
+  },
+  "1229": {
+    "name_ar": "El Kharrouba",
+    "name_fr": "El Kharrouba",
+    "name_en": "El Kharrouba",
+    "communes": []
+  },
+  "1230": {
+    "name_ar": "El Tarf",
+    "name_fr": "El Tarf",
+    "name_en": "El Tarf",
+    "communes": []
+  },
+  "1231": {
+    "name_ar": "Bouhadjar",
+    "name_fr": "Bouhadjar",
+    "name_en": "Bouhadjar",
+    "communes": []
+  },
+  "1232": {
+    "name_ar": "Ben Mhidi",
+    "name_fr": "Ben Mhidi",
+    "name_en": "Ben Mhidi",
+    "communes": []
+  },
+  "1233": {
+    "name_ar": "Bougous",
+    "name_fr": "Bougous",
+    "name_en": "Bougous",
+    "communes": []
+  },
+  "1234": {
+    "name_ar": "El Kala",
+    "name_fr": "El Kala",
+    "name_en": "El Kala",
+    "communes": []
+  },
+  "1235": {
+    "name_ar": "Ain El Assel",
+    "name_fr": "Ain El Assel",
+    "name_en": "Ain El Assel",
+    "communes": []
+  },
+  "1236": {
+    "name_ar": "El Aioun",
+    "name_fr": "El Aioun",
+    "name_en": "El Aioun",
+    "communes": []
+  },
+  "1237": {
+    "name_ar": "Bouteldja",
+    "name_fr": "Bouteldja",
+    "name_en": "Bouteldja",
+    "communes": []
+  },
+  "1238": {
+    "name_ar": "Souarekh",
+    "name_fr": "Souarekh",
+    "name_en": "Souarekh",
+    "communes": []
+  },
+  "1239": {
+    "name_ar": "Berrihane",
+    "name_fr": "Berrihane",
+    "name_en": "Berrihane",
+    "communes": []
+  },
+  "1240": {
+    "name_ar": "Lac Des Oiseaux",
+    "name_fr": "Lac Des Oiseaux",
+    "name_en": "Lac Des Oiseaux",
+    "communes": []
+  },
+  "1241": {
+    "name_ar": "Chefia",
+    "name_fr": "Chefia",
+    "name_en": "Chefia",
+    "communes": []
+  },
+  "1242": {
+    "name_ar": "Drean",
+    "name_fr": "Drean",
+    "name_en": "Drean",
+    "communes": []
+  },
+  "1243": {
+    "name_ar": "Chihani",
+    "name_fr": "Chihani",
+    "name_en": "Chihani",
+    "communes": []
+  },
+  "1244": {
+    "name_ar": "Chebaita Mokhtar",
+    "name_fr": "Chebaita Mokhtar",
+    "name_en": "Chebaita Mokhtar",
+    "communes": []
+  },
+  "1245": {
+    "name_ar": "Besbes",
+    "name_fr": "Besbes",
+    "name_en": "Besbes",
+    "communes": []
+  },
+  "1246": {
+    "name_ar": "Asfour",
+    "name_fr": "Asfour",
+    "name_en": "Asfour",
+    "communes": []
+  },
+  "1247": {
+    "name_ar": "Echatt",
+    "name_fr": "Echatt",
+    "name_en": "Echatt",
+    "communes": []
+  },
+  "1248": {
+    "name_ar": "Zerizer",
+    "name_fr": "Zerizer",
+    "name_en": "Zerizer",
+    "communes": []
+  },
+  "1249": {
+    "name_ar": "Zitouna",
+    "name_fr": "Zitouna",
+    "name_en": "Zitouna",
+    "communes": []
+  },
+  "1250": {
+    "name_ar": "Ain Kerma",
+    "name_fr": "Ain Kerma",
+    "name_en": "Ain Kerma",
+    "communes": []
+  },
+  "1251": {
+    "name_ar": "Oued Zitoun",
+    "name_fr": "Oued Zitoun",
+    "name_en": "Oued Zitoun",
+    "communes": []
+  },
+  "1252": {
+    "name_ar": "Hammam Beni Salah",
+    "name_fr": "Hammam Beni Salah",
+    "name_en": "Hammam Beni Salah",
+    "communes": []
+  },
+  "1253": {
+    "name_ar": "Raml Souk",
+    "name_fr": "Raml Souk",
+    "name_en": "Raml Souk",
+    "communes": []
+  },
+  "1254": {
+    "name_ar": "Tindouf",
+    "name_fr": "Tindouf",
+    "name_en": "Tindouf",
+    "communes": []
+  },
+  "1255": {
+    "name_ar": "Oum El Assel",
+    "name_fr": "Oum El Assel",
+    "name_en": "Oum El Assel",
+    "communes": []
+  },
+  "1256": {
+    "name_ar": "Tissemsilt",
+    "name_fr": "Tissemsilt",
+    "name_en": "Tissemsilt",
+    "communes": []
+  },
+  "1257": {
+    "name_ar": "Bordj Bou Naama",
+    "name_fr": "Bordj Bou Naama",
+    "name_en": "Bordj Bou Naama",
+    "communes": []
+  },
+  "1258": {
+    "name_ar": "Theniet El Had",
+    "name_fr": "Theniet El Had",
+    "name_en": "Theniet El Had",
+    "communes": []
+  },
+  "1259": {
+    "name_ar": "Lazharia",
+    "name_fr": "Lazharia",
+    "name_en": "Lazharia",
+    "communes": []
+  },
+  "1260": {
+    "name_ar": "Beni Chaib",
+    "name_fr": "Beni Chaib",
+    "name_en": "Beni Chaib",
+    "communes": []
+  },
+  "1261": {
+    "name_ar": "Lardjem",
+    "name_fr": "Lardjem",
+    "name_en": "Lardjem",
+    "communes": []
+  },
+  "1262": {
+    "name_ar": "Melaab",
+    "name_fr": "Melaab",
+    "name_en": "Melaab",
+    "communes": []
+  },
+  "1263": {
+    "name_ar": "Sidi Lantri",
+    "name_fr": "Sidi Lantri",
+    "name_en": "Sidi Lantri",
+    "communes": []
+  },
+  "1264": {
+    "name_ar": "Bordj El Emir Abdelkader",
+    "name_fr": "Bordj El Emir Abdelkader",
+    "name_en": "Bordj El Emir Abdelkader",
+    "communes": []
+  },
+  "1265": {
+    "name_ar": "Layoune",
+    "name_fr": "Layoune",
+    "name_en": "Layoune",
+    "communes": []
+  },
+  "1266": {
+    "name_ar": "Khemisti",
+    "name_fr": "Khemisti",
+    "name_en": "Khemisti",
+    "communes": []
+  },
+  "1267": {
+    "name_ar": "Ouled Bessem",
+    "name_fr": "Ouled Bessem",
+    "name_en": "Ouled Bessem",
+    "communes": []
+  },
+  "1268": {
+    "name_ar": "Ammari",
+    "name_fr": "Ammari",
+    "name_en": "Ammari",
+    "communes": []
+  },
+  "1269": {
+    "name_ar": "Youssoufia",
+    "name_fr": "Youssoufia",
+    "name_en": "Youssoufia",
+    "communes": []
+  },
+  "1270": {
+    "name_ar": "Sidi Boutouchent",
+    "name_fr": "Sidi Boutouchent",
+    "name_en": "Sidi Boutouchent",
+    "communes": []
+  },
+  "1271": {
+    "name_ar": "Larbaa",
+    "name_fr": "Larbaa",
+    "name_en": "Larbaa",
+    "communes": []
+  },
+  "1272": {
+    "name_ar": "Maasem",
+    "name_fr": "Maasem",
+    "name_en": "Maasem",
+    "communes": []
+  },
+  "1273": {
+    "name_ar": "Sidi Abed",
+    "name_fr": "Sidi Abed",
+    "name_en": "Sidi Abed",
+    "communes": []
+  },
+  "1274": {
+    "name_ar": "Tamalaht",
+    "name_fr": "Tamalaht",
+    "name_en": "Tamalaht",
+    "communes": []
+  },
+  "1275": {
+    "name_ar": "Sidi Slimane",
+    "name_fr": "Sidi Slimane",
+    "name_en": "Sidi Slimane",
+    "communes": []
+  },
+  "1276": {
+    "name_ar": "Boucaid",
+    "name_fr": "Boucaid",
+    "name_en": "Boucaid",
+    "communes": []
+  },
+  "1277": {
+    "name_ar": "Beni Lahcene",
+    "name_fr": "Beni Lahcene",
+    "name_en": "Beni Lahcene",
+    "communes": []
+  },
+  "1278": {
+    "name_ar": "El Oued",
+    "name_fr": "El Oued",
+    "name_en": "El Oued",
+    "communes": []
+  },
+  "1279": {
+    "name_ar": "Robbah",
+    "name_fr": "Robbah",
+    "name_en": "Robbah",
+    "communes": []
+  },
+  "1280": {
+    "name_ar": "Oued El Alenda",
+    "name_fr": "Oued El Alenda",
+    "name_en": "Oued El Alenda",
+    "communes": []
+  },
+  "1281": {
+    "name_ar": "Bayadha",
+    "name_fr": "Bayadha",
+    "name_en": "Bayadha",
+    "communes": []
+  },
+  "1282": {
+    "name_ar": "Nakhla",
+    "name_fr": "Nakhla",
+    "name_en": "Nakhla",
+    "communes": []
+  },
+  "1283": {
+    "name_ar": "Guemar",
+    "name_fr": "Guemar",
+    "name_en": "Guemar",
+    "communes": []
+  },
+  "1284": {
+    "name_ar": "Kouinine",
+    "name_fr": "Kouinine",
+    "name_en": "Kouinine",
+    "communes": []
+  },
+  "1285": {
+    "name_ar": "Reguiba",
+    "name_fr": "Reguiba",
+    "name_en": "Reguiba",
+    "communes": []
+  },
+  "1286": {
+    "name_ar": "Hamraia",
+    "name_fr": "Hamraia",
+    "name_en": "Hamraia",
+    "communes": []
+  },
+  "1287": {
+    "name_ar": "Taghzout",
+    "name_fr": "Taghzout",
+    "name_en": "Taghzout",
+    "communes": []
+  },
+  "1288": {
+    "name_ar": "Debila",
+    "name_fr": "Debila",
+    "name_en": "Debila",
+    "communes": []
+  },
+  "1289": {
+    "name_ar": "Hassani Abdelkrim",
+    "name_fr": "Hassani Abdelkrim",
+    "name_en": "Hassani Abdelkrim",
+    "communes": []
+  },
+  "1290": {
+    "name_ar": "Hassi Khelifa",
+    "name_fr": "Hassi Khelifa",
+    "name_en": "Hassi Khelifa",
+    "communes": []
+  },
+  "1291": {
+    "name_ar": "Taleb Larbi",
+    "name_fr": "Taleb Larbi",
+    "name_en": "Taleb Larbi",
+    "communes": []
+  },
+  "1292": {
+    "name_ar": "Douar El Ma",
+    "name_fr": "Douar El Ma",
+    "name_en": "Douar El Ma",
+    "communes": []
+  },
+  "1293": {
+    "name_ar": "Sidi Aoun",
+    "name_fr": "Sidi Aoun",
+    "name_en": "Sidi Aoun",
+    "communes": []
+  },
+  "1294": {
+    "name_ar": "Trifaoui",
+    "name_fr": "Trifaoui",
+    "name_en": "Trifaoui",
+    "communes": []
+  },
+  "1295": {
+    "name_ar": "Magrane",
+    "name_fr": "Magrane",
+    "name_en": "Magrane",
+    "communes": []
+  },
+  "1296": {
+    "name_ar": "Beni Guecha",
+    "name_fr": "Beni Guecha",
+    "name_en": "Beni Guecha",
+    "communes": []
+  },
+  "1297": {
+    "name_ar": "Ourmas",
+    "name_fr": "Ourmas",
+    "name_en": "Ourmas",
+    "communes": []
+  },
+  "1298": {
+    "name_ar": "Still",
+    "name_fr": "Still",
+    "name_en": "Still",
+    "communes": []
+  },
+  "1299": {
+    "name_ar": "Mrara",
+    "name_fr": "Mrara",
+    "name_en": "Mrara",
+    "communes": []
+  },
+  "1300": {
+    "name_ar": "Sidi Khellil",
+    "name_fr": "Sidi Khellil",
+    "name_en": "Sidi Khellil",
+    "communes": []
+  },
+  "1301": {
+    "name_ar": "Tendla",
+    "name_fr": "Tendla",
+    "name_en": "Tendla",
+    "communes": []
+  },
+  "1302": {
+    "name_ar": "El Ogla",
+    "name_fr": "El Ogla",
+    "name_en": "El Ogla",
+    "communes": []
+  },
+  "1303": {
+    "name_ar": "Mih Ouansa",
+    "name_fr": "Mih Ouansa",
+    "name_en": "Mih Ouansa",
+    "communes": []
+  },
+  "1304": {
+    "name_ar": "El Mghair",
+    "name_fr": "El Mghair",
+    "name_en": "El Mghair",
+    "communes": []
+  },
+  "1305": {
+    "name_ar": "Djamaa",
+    "name_fr": "Djamaa",
+    "name_en": "Djamaa",
+    "communes": []
+  },
+  "1306": {
+    "name_ar": "Oum Touyour",
+    "name_fr": "Oum Touyour",
+    "name_en": "Oum Touyour",
+    "communes": []
+  },
+  "1307": {
+    "name_ar": "Sidi Amrane",
+    "name_fr": "Sidi Amrane",
+    "name_en": "Sidi Amrane",
+    "communes": []
+  },
+  "1308": {
+    "name_ar": "Khenchela",
+    "name_fr": "Khenchela",
+    "name_en": "Khenchela",
+    "communes": []
+  },
+  "1309": {
+    "name_ar": "Mtoussa",
+    "name_fr": "Mtoussa",
+    "name_en": "Mtoussa",
+    "communes": []
+  },
+  "1310": {
+    "name_ar": "Kais",
+    "name_fr": "Kais",
+    "name_en": "Kais",
+    "communes": []
+  },
+  "1311": {
+    "name_ar": "Baghai",
+    "name_fr": "Baghai",
+    "name_en": "Baghai",
+    "communes": []
+  },
+  "1312": {
+    "name_ar": "El Hamma",
+    "name_fr": "El Hamma",
+    "name_en": "El Hamma",
+    "communes": []
+  },
+  "1313": {
+    "name_ar": "Ain Touila",
+    "name_fr": "Ain Touila",
+    "name_en": "Ain Touila",
+    "communes": []
+  },
+  "1314": {
+    "name_ar": "Taouzianat",
+    "name_fr": "Taouzianat",
+    "name_en": "Taouzianat",
+    "communes": []
+  },
+  "1315": {
+    "name_ar": "Bouhmama",
+    "name_fr": "Bouhmama",
+    "name_en": "Bouhmama",
+    "communes": []
+  },
+  "1316": {
+    "name_ar": "El Oueldja",
+    "name_fr": "El Oueldja",
+    "name_en": "El Oueldja",
+    "communes": []
+  },
+  "1317": {
+    "name_ar": "Remila",
+    "name_fr": "Remila",
+    "name_en": "Remila",
+    "communes": []
+  },
+  "1318": {
+    "name_ar": "Cherchar",
+    "name_fr": "Cherchar",
+    "name_en": "Cherchar",
+    "communes": []
+  },
+  "1319": {
+    "name_ar": "Djellal",
+    "name_fr": "Djellal",
+    "name_en": "Djellal",
+    "communes": []
+  },
+  "1320": {
+    "name_ar": "Babar",
+    "name_fr": "Babar",
+    "name_en": "Babar",
+    "communes": []
+  },
+  "1321": {
+    "name_ar": "Tamza",
+    "name_fr": "Tamza",
+    "name_en": "Tamza",
+    "communes": []
+  },
+  "1322": {
+    "name_ar": "Ensigha",
+    "name_fr": "Ensigha",
+    "name_en": "Ensigha",
+    "communes": []
+  },
+  "1323": {
+    "name_ar": "Ouled Rechache",
+    "name_fr": "Ouled Rechache",
+    "name_en": "Ouled Rechache",
+    "communes": []
+  },
+  "1324": {
+    "name_ar": "El Mahmal",
+    "name_fr": "El Mahmal",
+    "name_en": "El Mahmal",
+    "communes": []
+  },
+  "1325": {
+    "name_ar": "Msara",
+    "name_fr": "Msara",
+    "name_en": "Msara",
+    "communes": []
+  },
+  "1326": {
+    "name_ar": "Yabous",
+    "name_fr": "Yabous",
+    "name_en": "Yabous",
+    "communes": []
+  },
+  "1327": {
+    "name_ar": "Khirane",
+    "name_fr": "Khirane",
+    "name_en": "Khirane",
+    "communes": []
+  },
+  "1328": {
+    "name_ar": "Chelia",
+    "name_fr": "Chelia",
+    "name_en": "Chelia",
+    "communes": []
+  },
+  "1329": {
+    "name_ar": "Souk Ahras",
+    "name_fr": "Souk Ahras",
+    "name_en": "Souk Ahras",
+    "communes": []
+  },
+  "1330": {
+    "name_ar": "Sedrata",
+    "name_fr": "Sedrata",
+    "name_en": "Sedrata",
+    "communes": []
+  },
+  "1331": {
+    "name_ar": "Hanancha",
+    "name_fr": "Hanancha",
+    "name_en": "Hanancha",
+    "communes": []
+  },
+  "1332": {
+    "name_ar": "Mechroha",
+    "name_fr": "Mechroha",
+    "name_en": "Mechroha",
+    "communes": []
+  },
+  "1333": {
+    "name_ar": "Ouled Driss",
+    "name_fr": "Ouled Driss",
+    "name_en": "Ouled Driss",
+    "communes": []
+  },
+  "1334": {
+    "name_ar": "Tiffech",
+    "name_fr": "Tiffech",
+    "name_en": "Tiffech",
+    "communes": []
+  },
+  "1335": {
+    "name_ar": "Zaarouria",
+    "name_fr": "Zaarouria",
+    "name_en": "Zaarouria",
+    "communes": []
+  },
+  "1336": {
+    "name_ar": "Taoura",
+    "name_fr": "Taoura",
+    "name_en": "Taoura",
+    "communes": []
+  },
+  "1337": {
+    "name_ar": "Drea",
+    "name_fr": "Drea",
+    "name_en": "Drea",
+    "communes": []
+  },
+  "1338": {
+    "name_ar": "Haddada",
+    "name_fr": "Haddada",
+    "name_en": "Haddada",
+    "communes": []
+  },
+  "1339": {
+    "name_ar": "Khedara",
+    "name_fr": "Khedara",
+    "name_en": "Khedara",
+    "communes": []
+  },
+  "1340": {
+    "name_ar": "Merahna",
+    "name_fr": "Merahna",
+    "name_en": "Merahna",
+    "communes": []
+  },
+  "1341": {
+    "name_ar": "Ouled Moumen",
+    "name_fr": "Ouled Moumen",
+    "name_en": "Ouled Moumen",
+    "communes": []
+  },
+  "1342": {
+    "name_ar": "Bir Bouhouche",
+    "name_fr": "Bir Bouhouche",
+    "name_en": "Bir Bouhouche",
+    "communes": []
+  },
+  "1343": {
+    "name_ar": "Mdaourouche",
+    "name_fr": "Mdaourouche",
+    "name_en": "Mdaourouche",
+    "communes": []
+  },
+  "1344": {
+    "name_ar": "Oum El Adhaim",
+    "name_fr": "Oum El Adhaim",
+    "name_en": "Oum El Adhaim",
+    "communes": []
+  },
+  "1345": {
+    "name_ar": "Ain Zana",
+    "name_fr": "Ain Zana",
+    "name_en": "Ain Zana",
+    "communes": []
+  },
+  "1346": {
+    "name_ar": "Ain Soltane",
+    "name_fr": "Ain Soltane",
+    "name_en": "Ain Soltane",
+    "communes": []
+  },
+  "1347": {
+    "name_ar": "Quillen",
+    "name_fr": "Quillen",
+    "name_en": "Quillen",
+    "communes": []
+  },
+  "1348": {
+    "name_ar": "Sidi Fredj",
+    "name_fr": "Sidi Fredj",
+    "name_en": "Sidi Fredj",
+    "communes": []
+  },
+  "1349": {
+    "name_ar": "Safel El Ouiden",
+    "name_fr": "Safel El Ouiden",
+    "name_en": "Safel El Ouiden",
+    "communes": []
+  },
+  "1350": {
+    "name_ar": "Ragouba",
+    "name_fr": "Ragouba",
+    "name_en": "Ragouba",
+    "communes": []
+  },
+  "1351": {
+    "name_ar": "Khemissa",
+    "name_fr": "Khemissa",
+    "name_en": "Khemissa",
+    "communes": []
+  },
+  "1352": {
+    "name_ar": "Oued Keberit",
+    "name_fr": "Oued Keberit",
+    "name_en": "Oued Keberit",
+    "communes": []
+  },
+  "1353": {
+    "name_ar": "Terraguelt",
+    "name_fr": "Terraguelt",
+    "name_en": "Terraguelt",
+    "communes": []
+  },
+  "1354": {
+    "name_ar": "Zouabi",
+    "name_fr": "Zouabi",
+    "name_en": "Zouabi",
+    "communes": []
+  },
+  "1355": {
+    "name_ar": "Tipaza",
+    "name_fr": "Tipaza",
+    "name_en": "Tipaza",
+    "communes": []
+  },
+  "1356": {
+    "name_ar": "Menaceur",
+    "name_fr": "Menaceur",
+    "name_en": "Menaceur",
+    "communes": []
+  },
+  "1357": {
+    "name_ar": "Larhat",
+    "name_fr": "Larhat",
+    "name_en": "Larhat",
+    "communes": []
+  },
+  "1358": {
+    "name_ar": "Douaouda",
+    "name_fr": "Douaouda",
+    "name_en": "Douaouda",
+    "communes": []
+  },
+  "1359": {
+    "name_ar": "Bourkika",
+    "name_fr": "Bourkika",
+    "name_en": "Bourkika",
+    "communes": []
+  },
+  "1360": {
+    "name_ar": "Khemisti",
+    "name_fr": "Khemisti",
+    "name_en": "Khemisti",
+    "communes": []
+  },
+  "1361": {
+    "name_ar": "Aghabal",
+    "name_fr": "Aghabal",
+    "name_en": "Aghabal",
+    "communes": []
+  },
+  "1362": {
+    "name_ar": "Hadjout",
+    "name_fr": "Hadjout",
+    "name_en": "Hadjout",
+    "communes": []
+  },
+  "1363": {
+    "name_ar": "Sidi Amar",
+    "name_fr": "Sidi Amar",
+    "name_en": "Sidi Amar",
+    "communes": []
+  },
+  "1364": {
+    "name_ar": "Gouraya",
+    "name_fr": "Gouraya",
+    "name_en": "Gouraya",
+    "communes": []
+  },
+  "1365": {
+    "name_ar": "Nodor",
+    "name_fr": "Nodor",
+    "name_en": "Nodor",
+    "communes": []
+  },
+  "1366": {
+    "name_ar": "Chaiba",
+    "name_fr": "Chaiba",
+    "name_en": "Chaiba",
+    "communes": []
+  },
+  "1367": {
+    "name_ar": "Ain Tagourait",
+    "name_fr": "Ain Tagourait",
+    "name_en": "Ain Tagourait",
+    "communes": []
+  },
+  "1368": {
+    "name_ar": "Cherchel",
+    "name_fr": "Cherchel",
+    "name_en": "Cherchel",
+    "communes": []
+  },
+  "1369": {
+    "name_ar": "Damous",
+    "name_fr": "Damous",
+    "name_en": "Damous",
+    "communes": []
+  },
+  "1370": {
+    "name_ar": "Meurad",
+    "name_fr": "Meurad",
+    "name_en": "Meurad",
+    "communes": []
+  },
+  "1371": {
+    "name_ar": "Fouka",
+    "name_fr": "Fouka",
+    "name_en": "Fouka",
+    "communes": []
+  },
+  "1372": {
+    "name_ar": "Bou Ismail",
+    "name_fr": "Bou Ismail",
+    "name_en": "Bou Ismail",
+    "communes": []
+  },
+  "1373": {
+    "name_ar": "Ahmer El Ain",
+    "name_fr": "Ahmer El Ain",
+    "name_en": "Ahmer El Ain",
+    "communes": []
+  },
+  "1374": {
+    "name_ar": "Bou Haroun",
+    "name_fr": "Bou Haroun",
+    "name_en": "Bou Haroun",
+    "communes": []
+  },
+  "1375": {
+    "name_ar": "Sidi Ghiles",
+    "name_fr": "Sidi Ghiles",
+    "name_en": "Sidi Ghiles",
+    "communes": []
+  },
+  "1376": {
+    "name_ar": "Messelmoun",
+    "name_fr": "Messelmoun",
+    "name_en": "Messelmoun",
+    "communes": []
+  },
+  "1377": {
+    "name_ar": "Sidi Rached",
+    "name_fr": "Sidi Rached",
+    "name_en": "Sidi Rached",
+    "communes": []
+  },
+  "1378": {
+    "name_ar": "Kolea",
+    "name_fr": "Kolea",
+    "name_en": "Kolea",
+    "communes": []
+  },
+  "1379": {
+    "name_ar": "Attatba",
+    "name_fr": "Attatba",
+    "name_en": "Attatba",
+    "communes": []
+  },
+  "1380": {
+    "name_ar": "Sidi Semiane",
+    "name_fr": "Sidi Semiane",
+    "name_en": "Sidi Semiane",
+    "communes": []
+  },
+  "1381": {
+    "name_ar": "Beni Milleuk",
+    "name_fr": "Beni Milleuk",
+    "name_en": "Beni Milleuk",
+    "communes": []
+  },
+  "1382": {
+    "name_ar": "Hadjerat Ennous",
+    "name_fr": "Hadjerat Ennous",
+    "name_en": "Hadjerat Ennous",
+    "communes": []
+  },
+  "1383": {
+    "name_ar": "Mila",
+    "name_fr": "Mila",
+    "name_en": "Mila",
+    "communes": []
+  },
+  "1384": {
+    "name_ar": "Ferdjioua",
+    "name_fr": "Ferdjioua",
+    "name_en": "Ferdjioua",
+    "communes": []
+  },
+  "1385": {
+    "name_ar": "Chelghoum Laid",
+    "name_fr": "Chelghoum Laid",
+    "name_en": "Chelghoum Laid",
+    "communes": []
+  },
+  "1386": {
+    "name_ar": "Oued Athmenia",
+    "name_fr": "Oued Athmenia",
+    "name_en": "Oued Athmenia",
+    "communes": []
+  },
+  "1387": {
+    "name_ar": "Ain Mellouk",
+    "name_fr": "Ain Mellouk",
+    "name_en": "Ain Mellouk",
+    "communes": []
+  },
+  "1388": {
+    "name_ar": "Telerghma",
+    "name_fr": "Telerghma",
+    "name_en": "Telerghma",
+    "communes": []
+  },
+  "1389": {
+    "name_ar": "Oued Seguen",
+    "name_fr": "Oued Seguen",
+    "name_en": "Oued Seguen",
+    "communes": []
+  },
+  "1390": {
+    "name_ar": "Tadjenanet",
+    "name_fr": "Tadjenanet",
+    "name_en": "Tadjenanet",
+    "communes": []
+  },
+  "1391": {
+    "name_ar": "Benyahia Abderrahmane",
+    "name_fr": "Benyahia Abderrahmane",
+    "name_en": "Benyahia Abderrahmane",
+    "communes": []
+  },
+  "1392": {
+    "name_ar": "Oued Endja",
+    "name_fr": "Oued Endja",
+    "name_en": "Oued Endja",
+    "communes": []
+  },
+  "1393": {
+    "name_ar": "Ahmed Rachedi",
+    "name_fr": "Ahmed Rachedi",
+    "name_en": "Ahmed Rachedi",
+    "communes": []
+  },
+  "1394": {
+    "name_ar": "Ouled Khalouf",
+    "name_fr": "Ouled Khalouf",
+    "name_en": "Ouled Khalouf",
+    "communes": []
+  },
+  "1395": {
+    "name_ar": "Tiberguent",
+    "name_fr": "Tiberguent",
+    "name_en": "Tiberguent",
+    "communes": []
+  },
+  "1396": {
+    "name_ar": "Bouhatem",
+    "name_fr": "Bouhatem",
+    "name_en": "Bouhatem",
+    "communes": []
+  },
+  "1397": {
+    "name_ar": "Rouached",
+    "name_fr": "Rouached",
+    "name_en": "Rouached",
+    "communes": []
+  },
+  "1398": {
+    "name_ar": "Tessala Lamatai",
+    "name_fr": "Tessala Lamatai",
+    "name_en": "Tessala Lamatai",
+    "communes": []
+  },
+  "1399": {
+    "name_ar": "Grarem Gouga",
+    "name_fr": "Grarem Gouga",
+    "name_en": "Grarem Gouga",
+    "communes": []
+  },
+  "1400": {
+    "name_ar": "Sidi Merouane",
+    "name_fr": "Sidi Merouane",
+    "name_en": "Sidi Merouane",
+    "communes": []
+  },
+  "1401": {
+    "name_ar": "Tassadane Haddada",
+    "name_fr": "Tassadane Haddada",
+    "name_en": "Tassadane Haddada",
+    "communes": []
+  },
+  "1402": {
+    "name_ar": "Derradji Bousselah",
+    "name_fr": "Derradji Bousselah",
+    "name_en": "Derradji Bousselah",
+    "communes": []
+  },
+  "1403": {
+    "name_ar": "Minar Zarza",
+    "name_fr": "Minar Zarza",
+    "name_en": "Minar Zarza",
+    "communes": []
+  },
+  "1404": {
+    "name_ar": "Amira Arras",
+    "name_fr": "Amira Arras",
+    "name_en": "Amira Arras",
+    "communes": []
+  },
+  "1405": {
+    "name_ar": "Terrai Bainen",
+    "name_fr": "Terrai Bainen",
+    "name_en": "Terrai Bainen",
+    "communes": []
+  },
+  "1406": {
+    "name_ar": "Hamala",
+    "name_fr": "Hamala",
+    "name_en": "Hamala",
+    "communes": []
+  },
+  "1407": {
+    "name_ar": "Ain Tine",
+    "name_fr": "Ain Tine",
+    "name_en": "Ain Tine",
+    "communes": []
+  },
+  "1408": {
+    "name_ar": "El Mechira",
+    "name_fr": "El Mechira",
+    "name_en": "El Mechira",
+    "communes": []
+  },
+  "1409": {
+    "name_ar": "Sidi Khelifa",
+    "name_fr": "Sidi Khelifa",
+    "name_en": "Sidi Khelifa",
+    "communes": []
+  },
+  "1410": {
+    "name_ar": "Zeghaia",
+    "name_fr": "Zeghaia",
+    "name_en": "Zeghaia",
+    "communes": []
+  },
+  "1411": {
+    "name_ar": "Elayadi Barbes",
+    "name_fr": "Elayadi Barbes",
+    "name_en": "Elayadi Barbes",
+    "communes": []
+  },
+  "1412": {
+    "name_ar": "Ain Beida Harriche",
+    "name_fr": "Ain Beida Harriche",
+    "name_en": "Ain Beida Harriche",
+    "communes": []
+  },
+  "1413": {
+    "name_ar": "Yahia Beniguecha",
+    "name_fr": "Yahia Beniguecha",
+    "name_en": "Yahia Beniguecha",
+    "communes": []
+  },
+  "1414": {
+    "name_ar": "Chigara",
+    "name_fr": "Chigara",
+    "name_en": "Chigara",
+    "communes": []
+  },
+  "1415": {
+    "name_ar": "Ain Defla",
+    "name_fr": "Ain Defla",
+    "name_en": "Ain Defla",
+    "communes": []
+  },
+  "1416": {
+    "name_ar": "Miliana",
+    "name_fr": "Miliana",
+    "name_en": "Miliana",
+    "communes": []
+  },
+  "1417": {
+    "name_ar": "Boumedfaa",
+    "name_fr": "Boumedfaa",
+    "name_en": "Boumedfaa",
+    "communes": []
+  },
+  "1418": {
+    "name_ar": "Khemis Miliana",
+    "name_fr": "Khemis Miliana",
+    "name_en": "Khemis Miliana",
+    "communes": []
+  },
+  "1419": {
+    "name_ar": "Hammam Righa",
+    "name_fr": "Hammam Righa",
+    "name_en": "Hammam Righa",
+    "communes": []
+  },
+  "1420": {
+    "name_ar": "Arib",
+    "name_fr": "Arib",
+    "name_en": "Arib",
+    "communes": []
+  },
+  "1421": {
+    "name_ar": "Djelida",
+    "name_fr": "Djelida",
+    "name_en": "Djelida",
+    "communes": []
+  },
+  "1422": {
+    "name_ar": "El Amra",
+    "name_fr": "El Amra",
+    "name_en": "El Amra",
+    "communes": []
+  },
+  "1423": {
+    "name_ar": "Bourached",
+    "name_fr": "Bourached",
+    "name_en": "Bourached",
+    "communes": []
+  },
+  "1424": {
+    "name_ar": "El Attaf",
+    "name_fr": "El Attaf",
+    "name_en": "El Attaf",
+    "communes": []
+  },
+  "1425": {
+    "name_ar": "El Abadia",
+    "name_fr": "El Abadia",
+    "name_en": "El Abadia",
+    "communes": []
+  },
+  "1426": {
+    "name_ar": "Djendel",
+    "name_fr": "Djendel",
+    "name_en": "Djendel",
+    "communes": []
+  },
+  "1427": {
+    "name_ar": "Oued Chorfa",
+    "name_fr": "Oued Chorfa",
+    "name_en": "Oued Chorfa",
+    "communes": []
+  },
+  "1428": {
+    "name_ar": "Ain Lechiakh",
+    "name_fr": "Ain Lechiakh",
+    "name_en": "Ain Lechiakh",
+    "communes": []
+  },
+  "1429": {
+    "name_ar": "Oued Djemaa",
+    "name_fr": "Oued Djemaa",
+    "name_en": "Oued Djemaa",
+    "communes": []
+  },
+  "1430": {
+    "name_ar": "Rouina",
+    "name_fr": "Rouina",
+    "name_en": "Rouina",
+    "communes": []
+  },
+  "1431": {
+    "name_ar": "Zeddine",
+    "name_fr": "Zeddine",
+    "name_en": "Zeddine",
+    "communes": []
+  },
+  "1432": {
+    "name_ar": "El Hassania",
+    "name_fr": "El Hassania",
+    "name_en": "El Hassania",
+    "communes": []
+  },
+  "1433": {
+    "name_ar": "Bir Ouled Khelifa",
+    "name_fr": "Bir Ouled Khelifa",
+    "name_en": "Bir Ouled Khelifa",
+    "communes": []
+  },
+  "1434": {
+    "name_ar": "Ain Soltane",
+    "name_fr": "Ain Soltane",
+    "name_en": "Ain Soltane",
+    "communes": []
+  },
+  "1435": {
+    "name_ar": "Tarik Ibn Ziad",
+    "name_fr": "Tarik Ibn Ziad",
+    "name_en": "Tarik Ibn Ziad",
+    "communes": []
+  },
+  "1436": {
+    "name_ar": "Bordj Emir Khaled",
+    "name_fr": "Bordj Emir Khaled",
+    "name_en": "Bordj Emir Khaled",
+    "communes": []
+  },
+  "1437": {
+    "name_ar": "Ain Torki",
+    "name_fr": "Ain Torki",
+    "name_en": "Ain Torki",
+    "communes": []
+  },
+  "1438": {
+    "name_ar": "Sidi Lakhdar",
+    "name_fr": "Sidi Lakhdar",
+    "name_en": "Sidi Lakhdar",
+    "communes": []
+  },
+  "1439": {
+    "name_ar": "Ben Allal",
+    "name_fr": "Ben Allal",
+    "name_en": "Ben Allal",
+    "communes": []
+  },
+  "1440": {
+    "name_ar": "Ain Benian",
+    "name_fr": "Ain Benian",
+    "name_en": "Ain Benian",
+    "communes": []
+  },
+  "1441": {
+    "name_ar": "Hoceinia",
+    "name_fr": "Hoceinia",
+    "name_en": "Hoceinia",
+    "communes": []
+  },
+  "1442": {
+    "name_ar": "Barbouche",
+    "name_fr": "Barbouche",
+    "name_en": "Barbouche",
+    "communes": []
+  },
+  "1443": {
+    "name_ar": "Djemaa Ouled Chikh",
+    "name_fr": "Djemaa Ouled Chikh",
+    "name_en": "Djemaa Ouled Chikh",
+    "communes": []
+  },
+  "1444": {
+    "name_ar": "Mekhatria",
+    "name_fr": "Mekhatria",
+    "name_en": "Mekhatria",
+    "communes": []
+  },
+  "1445": {
+    "name_ar": "Bathia",
+    "name_fr": "Bathia",
+    "name_en": "Bathia",
+    "communes": []
+  },
+  "1446": {
+    "name_ar": "Tachta Zegagha",
+    "name_fr": "Tachta Zegagha",
+    "name_en": "Tachta Zegagha",
+    "communes": []
+  },
+  "1447": {
+    "name_ar": "Ain Bouyahia",
+    "name_fr": "Ain Bouyahia",
+    "name_en": "Ain Bouyahia",
+    "communes": []
+  },
+  "1448": {
+    "name_ar": "El Maine",
+    "name_fr": "El Maine",
+    "name_en": "El Maine",
+    "communes": []
+  },
+  "1449": {
+    "name_ar": "Tiberkanine",
+    "name_fr": "Tiberkanine",
+    "name_en": "Tiberkanine",
+    "communes": []
+  },
+  "1450": {
+    "name_ar": "Belaas",
+    "name_fr": "Belaas",
+    "name_en": "Belaas",
+    "communes": []
+  },
+  "1451": {
+    "name_ar": "Naama",
+    "name_fr": "Naama",
+    "name_en": "Naama",
+    "communes": []
+  },
+  "1452": {
+    "name_ar": "Mechria",
+    "name_fr": "Mechria",
+    "name_en": "Mechria",
+    "communes": []
+  },
+  "1453": {
+    "name_ar": "Ain Sefra",
+    "name_fr": "Ain Sefra",
+    "name_en": "Ain Sefra",
+    "communes": []
+  },
+  "1454": {
+    "name_ar": "Tiout",
+    "name_fr": "Tiout",
+    "name_en": "Tiout",
+    "communes": []
+  },
+  "1455": {
+    "name_ar": "Sfissifa",
+    "name_fr": "Sfissifa",
+    "name_en": "Sfissifa",
+    "communes": []
+  },
+  "1456": {
+    "name_ar": "Moghrar",
+    "name_fr": "Moghrar",
+    "name_en": "Moghrar",
+    "communes": []
+  },
+  "1457": {
+    "name_ar": "Assela",
+    "name_fr": "Assela",
+    "name_en": "Assela",
+    "communes": []
+  },
+  "1458": {
+    "name_ar": "Djeniane Bourzeg",
+    "name_fr": "Djeniane Bourzeg",
+    "name_en": "Djeniane Bourzeg",
+    "communes": []
+  },
+  "1459": {
+    "name_ar": "Ain Ben Khelil",
+    "name_fr": "Ain Ben Khelil",
+    "name_en": "Ain Ben Khelil",
+    "communes": []
+  },
+  "1460": {
+    "name_ar": "Makman Ben Amer",
+    "name_fr": "Makman Ben Amer",
+    "name_en": "Makman Ben Amer",
+    "communes": []
+  },
+  "1461": {
+    "name_ar": "Kasdir",
+    "name_fr": "Kasdir",
+    "name_en": "Kasdir",
+    "communes": []
+  },
+  "1462": {
+    "name_ar": "El Biod",
+    "name_fr": "El Biod",
+    "name_en": "El Biod",
+    "communes": []
+  },
+  "1463": {
+    "name_ar": "Ain Temouchent",
+    "name_fr": "Ain Temouchent",
+    "name_en": "Ain Temouchent",
+    "communes": []
+  },
+  "1464": {
+    "name_ar": "Chaabet El Ham",
+    "name_fr": "Chaabet El Ham",
+    "name_en": "Chaabet El Ham",
+    "communes": []
+  },
+  "1465": {
+    "name_ar": "Ain Kihal",
+    "name_fr": "Ain Kihal",
+    "name_en": "Ain Kihal",
+    "communes": []
+  },
+  "1466": {
+    "name_ar": "Hammam Bouhadjar",
+    "name_fr": "Hammam Bouhadjar",
+    "name_en": "Hammam Bouhadjar",
+    "communes": []
+  },
+  "1467": {
+    "name_ar": "Bou Zedjar",
+    "name_fr": "Bou Zedjar",
+    "name_en": "Bou Zedjar",
+    "communes": []
+  },
+  "1468": {
+    "name_ar": "Oued Berkeche",
+    "name_fr": "Oued Berkeche",
+    "name_en": "Oued Berkeche",
+    "communes": []
+  },
+  "1469": {
+    "name_ar": "Aghlal",
+    "name_fr": "Aghlal",
+    "name_en": "Aghlal",
+    "communes": []
+  },
+  "1470": {
+    "name_ar": "Terga",
+    "name_fr": "Terga",
+    "name_en": "Terga",
+    "communes": []
+  },
+  "1471": {
+    "name_ar": "Ain El Arbaa",
+    "name_fr": "Ain El Arbaa",
+    "name_en": "Ain El Arbaa",
+    "communes": []
+  },
+  "1472": {
+    "name_ar": "Tamzoura",
+    "name_fr": "Tamzoura",
+    "name_en": "Tamzoura",
+    "communes": []
+  },
+  "1473": {
+    "name_ar": "Chentouf",
+    "name_fr": "Chentouf",
+    "name_en": "Chentouf",
+    "communes": []
+  },
+  "1474": {
+    "name_ar": "Sidi Ben Adda",
+    "name_fr": "Sidi Ben Adda",
+    "name_en": "Sidi Ben Adda",
+    "communes": []
+  },
+  "1475": {
+    "name_ar": "Aoubellil",
+    "name_fr": "Aoubellil",
+    "name_en": "Aoubellil",
+    "communes": []
+  },
+  "1476": {
+    "name_ar": "El Malah",
+    "name_fr": "El Malah",
+    "name_en": "El Malah",
+    "communes": []
+  },
+  "1477": {
+    "name_ar": "Sidi Boumediene",
+    "name_fr": "Sidi Boumediene",
+    "name_en": "Sidi Boumediene",
+    "communes": []
+  },
+  "1478": {
+    "name_ar": "Oued Sabah",
+    "name_fr": "Oued Sabah",
+    "name_en": "Oued Sabah",
+    "communes": []
+  },
+  "1479": {
+    "name_ar": "Ouled Boudjemaa",
+    "name_fr": "Ouled Boudjemaa",
+    "name_en": "Ouled Boudjemaa",
+    "communes": []
+  },
+  "1480": {
+    "name_ar": "Ain Tolba",
+    "name_fr": "Ain Tolba",
+    "name_en": "Ain Tolba",
+    "communes": []
+  },
+  "1481": {
+    "name_ar": "El Amria",
+    "name_fr": "El Amria",
+    "name_en": "El Amria",
+    "communes": []
+  },
+  "1482": {
+    "name_ar": "Hassi El Ghella",
+    "name_fr": "Hassi El Ghella",
+    "name_en": "Hassi El Ghella",
+    "communes": []
+  },
+  "1483": {
+    "name_ar": "Hassasna",
+    "name_fr": "Hassasna",
+    "name_en": "Hassasna",
+    "communes": []
+  },
+  "1484": {
+    "name_ar": "Ouled Kihal",
+    "name_fr": "Ouled Kihal",
+    "name_en": "Ouled Kihal",
+    "communes": []
+  },
+  "1485": {
+    "name_ar": "Beni Saf",
+    "name_fr": "Beni Saf",
+    "name_en": "Beni Saf",
+    "communes": []
+  },
+  "1486": {
+    "name_ar": "Sidi Safi",
+    "name_fr": "Sidi Safi",
+    "name_en": "Sidi Safi",
+    "communes": []
+  },
+  "1487": {
+    "name_ar": "Oulhaca El Gheraba",
+    "name_fr": "Oulhaca El Gheraba",
+    "name_en": "Oulhaca El Gheraba",
+    "communes": []
+  },
+  "1488": {
+    "name_ar": "Sidi Ouriache",
+    "name_fr": "Sidi Ouriache",
+    "name_en": "Sidi Ouriache",
+    "communes": []
+  },
+  "1489": {
+    "name_ar": "El Emir Abdelkader",
+    "name_fr": "El Emir Abdelkader",
+    "name_en": "El Emir Abdelkader",
+    "communes": []
+  },
+  "1490": {
+    "name_ar": "El Messaid",
+    "name_fr": "El Messaid",
+    "name_en": "El Messaid",
+    "communes": []
+  },
+  "1491": {
+    "name_ar": "Ghardaia",
+    "name_fr": "Ghardaia",
+    "name_en": "Ghardaia",
+    "communes": []
+  },
+  "1492": {
+    "name_ar": "El Meniaa",
+    "name_fr": "El Meniaa",
+    "name_en": "El Meniaa",
+    "communes": []
+  },
+  "1493": {
+    "name_ar": "Dhayet Bendhahoua",
+    "name_fr": "Dhayet Bendhahoua",
+    "name_en": "Dhayet Bendhahoua",
+    "communes": []
+  },
+  "1494": {
+    "name_ar": "Berriane",
+    "name_fr": "Berriane",
+    "name_en": "Berriane",
+    "communes": []
+  },
+  "1495": {
+    "name_ar": "Metlili",
+    "name_fr": "Metlili",
+    "name_en": "Metlili",
+    "communes": []
+  },
+  "1496": {
+    "name_ar": "El Guerrara",
+    "name_fr": "El Guerrara",
+    "name_en": "El Guerrara",
+    "communes": []
+  },
+  "1497": {
+    "name_ar": "El Atteuf",
+    "name_fr": "El Atteuf",
+    "name_en": "El Atteuf",
+    "communes": []
+  },
+  "1498": {
+    "name_ar": "Zelfana",
+    "name_fr": "Zelfana",
+    "name_en": "Zelfana",
+    "communes": []
+  },
+  "1499": {
+    "name_ar": "Sebseb",
+    "name_fr": "Sebseb",
+    "name_en": "Sebseb",
+    "communes": []
+  },
+  "1500": {
+    "name_ar": "Bounoura",
+    "name_fr": "Bounoura",
+    "name_en": "Bounoura",
+    "communes": []
+  },
+  "1501": {
+    "name_ar": "Hassi Fehal",
+    "name_fr": "Hassi Fehal",
+    "name_en": "Hassi Fehal",
+    "communes": []
+  },
+  "1502": {
+    "name_ar": "Hassi Gara",
+    "name_fr": "Hassi Gara",
+    "name_en": "Hassi Gara",
+    "communes": []
+  },
+  "1503": {
+    "name_ar": "Mansoura",
+    "name_fr": "Mansoura",
+    "name_en": "Mansoura",
+    "communes": []
+  },
+  "1504": {
+    "name_ar": "Relizane",
+    "name_fr": "Relizane",
+    "name_en": "Relizane",
+    "communes": []
+  },
+  "1505": {
+    "name_ar": "Oued Rhiou",
+    "name_fr": "Oued Rhiou",
+    "name_en": "Oued Rhiou",
+    "communes": []
+  },
+  "1506": {
+    "name_ar": "Belaassel Bouzegza",
+    "name_fr": "Belaassel Bouzegza",
+    "name_en": "Belaassel Bouzegza",
+    "communes": []
+  },
+  "1507": {
+    "name_ar": "Sidi Saada",
+    "name_fr": "Sidi Saada",
+    "name_en": "Sidi Saada",
+    "communes": []
+  },
+  "1508": {
+    "name_ar": "Ouled Aiche",
+    "name_fr": "Ouled Aiche",
+    "name_en": "Ouled Aiche",
+    "communes": []
+  },
+  "1509": {
+    "name_ar": "Sidi Lazreg",
+    "name_fr": "Sidi Lazreg",
+    "name_en": "Sidi Lazreg",
+    "communes": []
+  },
+  "1510": {
+    "name_ar": "El Hamadna",
+    "name_fr": "El Hamadna",
+    "name_en": "El Hamadna",
+    "communes": []
+  },
+  "1511": {
+    "name_ar": "Sidi Mhamed Ben Ali",
+    "name_fr": "Sidi Mhamed Ben Ali",
+    "name_en": "Sidi Mhamed Ben Ali",
+    "communes": []
+  },
+  "1512": {
+    "name_ar": "Mediouna",
+    "name_fr": "Mediouna",
+    "name_en": "Mediouna",
+    "communes": []
+  },
+  "1513": {
+    "name_ar": "Sidi Khettab",
+    "name_fr": "Sidi Khettab",
+    "name_en": "Sidi Khettab",
+    "communes": []
+  },
+  "1514": {
+    "name_ar": "Ammi Moussa",
+    "name_fr": "Ammi Moussa",
+    "name_en": "Ammi Moussa",
+    "communes": []
+  },
+  "1515": {
+    "name_ar": "Zemmoura",
+    "name_fr": "Zemmoura",
+    "name_en": "Zemmoura",
+    "communes": []
+  },
+  "1516": {
+    "name_ar": "Beni Dergoun",
+    "name_fr": "Beni Dergoun",
+    "name_en": "Beni Dergoun",
+    "communes": []
+  },
+  "1517": {
+    "name_ar": "Djidiouia",
+    "name_fr": "Djidiouia",
+    "name_en": "Djidiouia",
+    "communes": []
+  },
+  "1518": {
+    "name_ar": "El Guettar",
+    "name_fr": "El Guettar",
+    "name_en": "El Guettar",
+    "communes": []
+  },
+  "1519": {
+    "name_ar": "Hamri",
+    "name_fr": "Hamri",
+    "name_en": "Hamri",
+    "communes": []
+  },
+  "1520": {
+    "name_ar": "El Matmar",
+    "name_fr": "El Matmar",
+    "name_en": "El Matmar",
+    "communes": []
+  },
+  "1521": {
+    "name_ar": "Sidi Mhamed Ben Aouda",
+    "name_fr": "Sidi Mhamed Ben Aouda",
+    "name_en": "Sidi Mhamed Ben Aouda",
+    "communes": []
+  },
+  "1522": {
+    "name_ar": "Ain Tarek",
+    "name_fr": "Ain Tarek",
+    "name_en": "Ain Tarek",
+    "communes": []
+  },
+  "1523": {
+    "name_ar": "Oued Essalem",
+    "name_fr": "Oued Essalem",
+    "name_en": "Oued Essalem",
+    "communes": []
+  },
+  "1524": {
+    "name_ar": "Ouarizane",
+    "name_fr": "Ouarizane",
+    "name_en": "Ouarizane",
+    "communes": []
+  },
+  "1525": {
+    "name_ar": "Mazouna",
+    "name_fr": "Mazouna",
+    "name_en": "Mazouna",
+    "communes": []
+  },
+  "1526": {
+    "name_ar": "Kalaa",
+    "name_fr": "Kalaa",
+    "name_en": "Kalaa",
+    "communes": []
+  },
+  "1527": {
+    "name_ar": "Ain Rahma",
+    "name_fr": "Ain Rahma",
+    "name_en": "Ain Rahma",
+    "communes": []
+  },
+  "1528": {
+    "name_ar": "Yellel",
+    "name_fr": "Yellel",
+    "name_en": "Yellel",
+    "communes": []
+  },
+  "1529": {
+    "name_ar": "Oued El Djemaa",
+    "name_fr": "Oued El Djemaa",
+    "name_en": "Oued El Djemaa",
+    "communes": []
+  },
+  "1530": {
+    "name_ar": "Ramka",
+    "name_fr": "Ramka",
+    "name_en": "Ramka",
+    "communes": []
+  },
+  "1531": {
+    "name_ar": "Mendes",
+    "name_fr": "Mendes",
+    "name_en": "Mendes",
+    "communes": []
+  },
+  "1532": {
+    "name_ar": "Lahlef",
+    "name_fr": "Lahlef",
+    "name_en": "Lahlef",
+    "communes": []
+  },
+  "1533": {
+    "name_ar": "Beni Zentis",
+    "name_fr": "Beni Zentis",
+    "name_en": "Beni Zentis",
+    "communes": []
+  },
+  "1534": {
+    "name_ar": "Souk El Haad",
+    "name_fr": "Souk El Haad",
+    "name_en": "Souk El Haad",
+    "communes": []
+  },
+  "1535": {
+    "name_ar": "Dar Ben Abdellah",
+    "name_fr": "Dar Ben Abdellah",
+    "name_en": "Dar Ben Abdellah",
+    "communes": []
+  },
+  "1536": {
+    "name_ar": "El Hassi",
+    "name_fr": "El Hassi",
+    "name_en": "El Hassi",
+    "communes": []
+  },
+  "1537": {
+    "name_ar": "Had Echkalla",
+    "name_fr": "Had Echkalla",
+    "name_en": "Had Echkalla",
+    "communes": []
+  },
+  "1538": {
+    "name_ar": "Bendaoud",
+    "name_fr": "Bendaoud",
+    "name_en": "Bendaoud",
+    "communes": []
+  },
+  "1539": {
+    "name_ar": "El Ouldja",
+    "name_fr": "El Ouldja",
+    "name_en": "El Ouldja",
+    "communes": []
+  },
+  "1540": {
+    "name_ar": "Merdja Sidi Abed",
+    "name_fr": "Merdja Sidi Abed",
+    "name_en": "Merdja Sidi Abed",
+    "communes": []
+  },
+  "1541": {
+    "name_ar": "Ouled Sidi Mihoub",
+    "name_fr": "Ouled Sidi Mihoub",
+    "name_en": "Ouled Sidi Mihoub",
+    "communes": []
+  }
+}
