@@ -1,0 +1,68 @@
+{
+  "01": {
+    "name_ar": "أدرار",
+    "name_fr": "Adrar",
+    "name_en": "Adrar",
+    "communes": [
+      {
+        "name_ar": "أدرار",
+        "name_fr": "Adrar",
+        "name_en": "Adrar"
+      },
+      {
+        "name_ar": "تسابيت",
+        "name_fr": "Tsabit",
+        "name_en": "Tsabit"
+      },
+      {
+        "name_ar": "أولف",
+        "name_fr": "Aoulef",
+        "name_en": "Aoulef"
+      }
+    ]
+  },
+  "02": {
+    "name_ar": "الشلف",
+    "name_fr": "Chlef",
+    "name_en": "Chlef",
+    "communes": [
+      {
+        "name_ar": "الشلف",
+        "name_fr": "Chlef",
+        "name_en": "Chlef"
+      },
+      {
+        "name_ar": "أولاد فارس",
+        "name_fr": "Ouled Fares",
+        "name_en": "Ouled Fares"
+      },
+      {
+        "name_ar": "بني راشد",
+        "name_fr": "Beni Rached",
+        "name_en": "Beni Rached"
+      }
+    ]
+  },
+  "16": {
+    "name_ar": "الجزائر",
+    "name_fr": "Alger",
+    "name_en": "Algiers",
+    "communes": [
+      {
+        "name_ar": "الجزائر الوسطى",
+        "name_fr": "Alger-Centre",
+        "name_en": "Algiers-Centre"
+      },
+      {
+        "name_ar": "باب الواد",
+        "name_fr": "Bab El Oued",
+        "name_en": "Bab El Oued"
+      },
+      {
+        "name_ar": "حسين داي",
+        "name_fr": "Hussein Dey",
+        "name_en": "Hussein Dey"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>تأكيد الطلب - الدفع عند الاستلام</title>
+  <style>
+    body{background:#000;color:#fff;font-family:'Segoe UI',Tahoma,Verdana,sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh;margin:0;padding:20px}
+    .container{background:#111;border:2px solid gold;border-radius:15px;padding:25px;width:100%;max-width:650px;box-shadow:0 0 20px rgba(255,215,0,0.4)}
+    h2{text-align:center;color:gold;margin-bottom:20px}
+    label{display:block;margin-bottom:6px;font-weight:bold}
+    .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .form-group{margin-bottom:18px}
+    input,select{width:100%;padding:12px;border-radius:10px;border:1px solid #444;background:#000;color:#fff;font-size:15px}
+    input:focus,select:focus{border-color:gold;outline:none;box-shadow:0 0 5px rgba(255,215,0,0.5)}
+    button{width:100%;padding:14px;background:gold;color:#000;border:none;border-radius:10px;font-size:18px;font-weight:bold;cursor:pointer}
+    button:hover{background:#e6c200}
+    .hint{font-size:12px;color:#bbb;margin-top:-8px;margin-bottom:12px}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>📦 تأكيد الطلب - الدفع عند الاستلام</h2>
+    <form id="dynForm">
+      <div class="form-group">
+        <label for="lang">Language</label>
+        <select id="lang" name="language">
+          <option value="ar" selected>AR</option>
+          <option value="fr">FR</option>
+          <option value="en">EN</option>
+        </select>
+        <div class="hint">اختر لغة عرض الأسماء في القوائم (AR/FR/EN)</div>
+      </div>
+
+      <div class="row">
+        <div class="form-group">
+          <label>الاسم الكامل</label>
+          <input type="text" name="full_name" required>
+        </div>
+        <div class="form-group">
+          <label>رقم الهاتف</label>
+          <input type="tel" name="phone" required>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="form-group">
+          <label>الولاية</label>
+          <select id="wilaya" name="wilaya" required>
+            <option value="">اختر الولاية</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>البلدية</label>
+          <select id="commune" name="commune" required>
+            <option value="">اختر البلدية</option>
+          </select>
+        </div>
+      </div>
+
+      <button type="submit">إرسال</button>
+    </form>
+  </div>
+
+  <script>
+    const DZ_URL = "./dz.json"; // استبدله برابطك بعد الرفع
+
+    const langSel = document.getElementById("lang");
+    const wilayaSel = document.getElementById("wilaya");
+    const communeSel = document.getElementById("commune");
+    let DZ = {};
+    let lang = "ar";
+
+    async function loadData(){
+      try{
+        const data = await (await fetch(DZ_URL)).json();
+        DZ = data;
+        fillWilayas();
+      }catch(err){
+        console.error("❌ خطأ في جلب dz.json:", err);
+        alert("تعذّر تحميل dz.json. تأكد من الرابط DZ_URL أو من وجود الملف.");
+      }
+    }
+
+    function wilayaDisplayName(w){
+      return w["name_"+lang] || w.name_ar || w.name_fr || w.name_en || "";
+    }
+
+    function communeDisplayName(c){
+      return c["name_"+lang] || c.name_ar || c.name_fr || c.name_en || "";
+    }
+
+    function fillWilayas(){
+      wilayaSel.innerHTML = "<option value=''>اختر الولاية</option>";
+      Object.entries(DZ).sort(([a],[b])=>a.localeCompare(b)).forEach(([code,w])=>{
+        const opt = document.createElement("option");
+        opt.value = code;
+        opt.textContent = code + " - " + wilayaDisplayName(w);
+        wilayaSel.appendChild(opt);
+      });
+      communeSel.innerHTML = "<option value=''>اختر البلدية</option>";
+    }
+
+    wilayaSel.addEventListener("change", ()=>{
+      communeSel.innerHTML = "<option value=''>اختر البلدية</option>";
+      const code = wilayaSel.value;
+      if(!code) return;
+      const list = (DZ[code]?.communes) || [];
+      list.forEach(c=>{
+        const opt = document.createElement("option");
+        opt.value = communeDisplayName(c);
+        opt.textContent = communeDisplayName(c);
+        communeSel.appendChild(opt);
+      });
+    });
+
+    langSel.addEventListener("change", ()=>{
+      lang = langSel.value;
+      fillWilayas();
+    });
+
+    document.getElementById("dynForm").addEventListener("submit", e=>{
+      e.preventDefault();
+      const summary = [
+        "اللغة: " + lang.toUpperCase(),
+        "الاسم: " + e.target.full_name.value,
+        "الهاتف: " + e.target.phone.value,
+        "الولاية: " + (wilayaSel.options[wilayaSel.selectedIndex]?.text || ""),
+        "البلدية: " + (communeSel.value || "")
+      ].join("\n");
+      alert("✅ تم إرسال البيانات:\n" + summary);
+    });
+
+    loadData();
+  </script>
+</body>
+</html>
