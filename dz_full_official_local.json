@@ -1,0 +1,7571 @@
+{
+  "01": {
+    "name_ar": "Adrar",
+    "name_fr": "Adrar",
+    "name_en": "Adrar",
+    "communes": [
+      {
+        "name_ar": "Tamest",
+        "name_fr": "Tamest",
+        "name_en": "Tamest"
+      },
+      {
+        "name_ar": "Reggane",
+        "name_fr": "Reggane",
+        "name_en": "Reggane"
+      },
+      {
+        "name_ar": "In Zghmir",
+        "name_fr": "In Zghmir",
+        "name_en": "In Zghmir"
+      },
+      {
+        "name_ar": "Tit",
+        "name_fr": "Tit",
+        "name_en": "Tit"
+      },
+      {
+        "name_ar": "Tsabit",
+        "name_fr": "Tsabit",
+        "name_en": "Tsabit"
+      }
+    ]
+  },
+  "09": {
+    "name_ar": "تيميمون",
+    "name_fr": "Timimoun",
+    "name_en": "Timimoun",
+    "communes": [
+      {
+        "name_fr": "Timimoun",
+        "name_en": "Timimoun",
+        "name_ar": "تيميمون"
+      },
+      {
+        "name_fr": "Tinerkouk",
+        "name_en": "Tinerkouk",
+        "name_ar": "تينركوك"
+      },
+      {
+        "name_fr": "Talmine",
+        "name_en": "Talmine",
+        "name_ar": "طلمين"
+      },
+      {
+        "name_fr": "Ouled Saïd",
+        "name_en": "Ouled Saïd",
+        "name_ar": "أولاد سعيد"
+      },
+      {
+        "name_fr": "Ouled Aïssa",
+        "name_en": "Ouled Aïssa",
+        "name_ar": "أولاد عيسى"
+      },
+      {
+        "name_fr": "Metarfa",
+        "name_en": "Metarfa",
+        "name_ar": "المطرفة"
+      },
+      {
+        "name_fr": "Ksar Kaddour",
+        "name_en": "Ksar Kaddour",
+        "name_ar": "قصر قدور"
+      },
+      {
+        "name_fr": "Deldoul",
+        "name_en": "Deldoul",
+        "name_ar": "دلدول"
+      },
+      {
+        "name_fr": "Charouine",
+        "name_en": "Charouine",
+        "name_ar": "شروين"
+      },
+      {
+        "name_fr": "Aougrout",
+        "name_en": "Aougrout",
+        "name_ar": "أوقروت"
+      }
+    ]
+  },
+  "16": {
+    "name_ar": "Alger",
+    "name_fr": "Alger",
+    "name_en": "Alger",
+    "communes": [
+      {
+        "name_ar": "Alger Centre",
+        "name_fr": "Alger Centre",
+        "name_en": "Alger Centre"
+      },
+      {
+        "name_ar": "Sidi Mhamed",
+        "name_fr": "Sidi Mhamed",
+        "name_en": "Sidi Mhamed"
+      },
+      {
+        "name_ar": "El Madania",
+        "name_fr": "El Madania",
+        "name_en": "El Madania"
+      },
+      {
+        "name_ar": "Belouizdad",
+        "name_fr": "Belouizdad",
+        "name_en": "Belouizdad"
+      },
+      {
+        "name_ar": "Bab El Oued",
+        "name_fr": "Bab El Oued",
+        "name_en": "Bab El Oued"
+      },
+      {
+        "name_ar": "Bologhine",
+        "name_fr": "Bologhine",
+        "name_en": "Bologhine"
+      },
+      {
+        "name_ar": "Casbah",
+        "name_fr": "Casbah",
+        "name_en": "Casbah"
+      },
+      {
+        "name_ar": "Oued Koriche",
+        "name_fr": "Oued Koriche",
+        "name_en": "Oued Koriche"
+      },
+      {
+        "name_ar": "Bir Mourad Rais",
+        "name_fr": "Bir Mourad Rais",
+        "name_en": "Bir Mourad Rais"
+      },
+      {
+        "name_ar": "El Biar",
+        "name_fr": "El Biar",
+        "name_en": "El Biar"
+      },
+      {
+        "name_ar": "Bouzareah",
+        "name_fr": "Bouzareah",
+        "name_en": "Bouzareah"
+      },
+      {
+        "name_ar": "Birkhadem",
+        "name_fr": "Birkhadem",
+        "name_en": "Birkhadem"
+      },
+      {
+        "name_ar": "El Harrach",
+        "name_fr": "El Harrach",
+        "name_en": "El Harrach"
+      },
+      {
+        "name_ar": "Baraki",
+        "name_fr": "Baraki",
+        "name_en": "Baraki"
+      },
+      {
+        "name_ar": "Oued Smar",
+        "name_fr": "Oued Smar",
+        "name_en": "Oued Smar"
+      },
+      {
+        "name_ar": "Bourouba",
+        "name_fr": "Bourouba",
+        "name_en": "Bourouba"
+      },
+      {
+        "name_ar": "Hussein Dey",
+        "name_fr": "Hussein Dey",
+        "name_en": "Hussein Dey"
+      },
+      {
+        "name_ar": "Kouba",
+        "name_fr": "Kouba",
+        "name_en": "Kouba"
+      },
+      {
+        "name_ar": "Bachedjerah",
+        "name_fr": "Bachedjerah",
+        "name_en": "Bachedjerah"
+      },
+      {
+        "name_ar": "Dar El Beida",
+        "name_fr": "Dar El Beida",
+        "name_en": "Dar El Beida"
+      },
+      {
+        "name_ar": "Bab Azzouar",
+        "name_fr": "Bab Azzouar",
+        "name_en": "Bab Azzouar"
+      },
+      {
+        "name_ar": "Ben Aknoun",
+        "name_fr": "Ben Aknoun",
+        "name_en": "Ben Aknoun"
+      },
+      {
+        "name_ar": "Dely Ibrahim",
+        "name_fr": "Dely Ibrahim",
+        "name_en": "Dely Ibrahim"
+      },
+      {
+        "name_ar": "El Hammamet",
+        "name_fr": "El Hammamet",
+        "name_en": "El Hammamet"
+      },
+      {
+        "name_ar": "Rais Hamidou",
+        "name_fr": "Rais Hamidou",
+        "name_en": "Rais Hamidou"
+      },
+      {
+        "name_ar": "Djasr Kasentina",
+        "name_fr": "Djasr Kasentina",
+        "name_en": "Djasr Kasentina"
+      },
+      {
+        "name_ar": "El Mouradia",
+        "name_fr": "El Mouradia",
+        "name_en": "El Mouradia"
+      },
+      {
+        "name_ar": "Hydra",
+        "name_fr": "Hydra",
+        "name_en": "Hydra"
+      },
+      {
+        "name_ar": "Mohammadia",
+        "name_fr": "Mohammadia",
+        "name_en": "Mohammadia"
+      },
+      {
+        "name_ar": "Bordj El Kiffan",
+        "name_fr": "Bordj El Kiffan",
+        "name_en": "Bordj El Kiffan"
+      },
+      {
+        "name_ar": "El Magharia",
+        "name_fr": "El Magharia",
+        "name_en": "El Magharia"
+      },
+      {
+        "name_ar": "Beni Messous",
+        "name_fr": "Beni Messous",
+        "name_en": "Beni Messous"
+      },
+      {
+        "name_ar": "Les Eucalyptus",
+        "name_fr": "Les Eucalyptus",
+        "name_en": "Les Eucalyptus"
+      },
+      {
+        "name_ar": "Birtouta",
+        "name_fr": "Birtouta",
+        "name_en": "Birtouta"
+      },
+      {
+        "name_ar": "Tassala El Merdja",
+        "name_fr": "Tassala El Merdja",
+        "name_en": "Tassala El Merdja"
+      },
+      {
+        "name_ar": "Ouled Chebel",
+        "name_fr": "Ouled Chebel",
+        "name_en": "Ouled Chebel"
+      },
+      {
+        "name_ar": "Sidi Moussa",
+        "name_fr": "Sidi Moussa",
+        "name_en": "Sidi Moussa"
+      },
+      {
+        "name_ar": "Ain Taya",
+        "name_fr": "Ain Taya",
+        "name_en": "Ain Taya"
+      },
+      {
+        "name_ar": "Bordj El Bahri",
+        "name_fr": "Bordj El Bahri",
+        "name_en": "Bordj El Bahri"
+      },
+      {
+        "name_ar": "Marsa",
+        "name_fr": "Marsa",
+        "name_en": "Marsa"
+      },
+      {
+        "name_ar": "Haraoua",
+        "name_fr": "Haraoua",
+        "name_en": "Haraoua"
+      },
+      {
+        "name_ar": "Rouiba",
+        "name_fr": "Rouiba",
+        "name_en": "Rouiba"
+      },
+      {
+        "name_ar": "Reghaia",
+        "name_fr": "Reghaia",
+        "name_en": "Reghaia"
+      },
+      {
+        "name_ar": "Ain Benian",
+        "name_fr": "Ain Benian",
+        "name_en": "Ain Benian"
+      },
+      {
+        "name_ar": "Staoueli",
+        "name_fr": "Staoueli",
+        "name_en": "Staoueli"
+      },
+      {
+        "name_ar": "Zeralda",
+        "name_fr": "Zeralda",
+        "name_en": "Zeralda"
+      },
+      {
+        "name_ar": "Mahelma",
+        "name_fr": "Mahelma",
+        "name_en": "Mahelma"
+      },
+      {
+        "name_ar": "Rahmania",
+        "name_fr": "Rahmania",
+        "name_en": "Rahmania"
+      },
+      {
+        "name_ar": "Souidania",
+        "name_fr": "Souidania",
+        "name_en": "Souidania"
+      },
+      {
+        "name_ar": "Cheraga",
+        "name_fr": "Cheraga",
+        "name_en": "Cheraga"
+      },
+      {
+        "name_ar": "Ouled Fayet",
+        "name_fr": "Ouled Fayet",
+        "name_en": "Ouled Fayet"
+      },
+      {
+        "name_ar": "El Achour",
+        "name_fr": "El Achour",
+        "name_en": "El Achour"
+      },
+      {
+        "name_ar": "Draria",
+        "name_fr": "Draria",
+        "name_en": "Draria"
+      },
+      {
+        "name_ar": "Douera",
+        "name_fr": "Douera",
+        "name_en": "Douera"
+      },
+      {
+        "name_ar": "Baba Hassen",
+        "name_fr": "Baba Hassen",
+        "name_en": "Baba Hassen"
+      },
+      {
+        "name_ar": "Khracia",
+        "name_fr": "Khracia",
+        "name_en": "Khracia"
+      },
+      {
+        "name_ar": "Saoula",
+        "name_fr": "Saoula",
+        "name_en": "Saoula"
+      }
+    ]
+  },
+  "25": {
+    "name_ar": "برج باجي مختار",
+    "name_fr": "Bordj Badji Mokhtar",
+    "name_en": "Bordj Badji Mokhtar",
+    "communes": [
+      {
+        "name_fr": "Bordj Badji Mokhtar",
+        "name_en": "Bordj Badji Mokhtar",
+        "name_ar": "برج باجي مختار"
+      },
+      {
+        "name_fr": "Timiaouine",
+        "name_en": "Timiaouine",
+        "name_ar": "تيمياوين"
+      }
+    ]
+  },
+  "29": {
+    "name_ar": "Chlef",
+    "name_fr": "Chlef",
+    "name_en": "Chlef",
+    "communes": [
+      {
+        "name_ar": "Tenes",
+        "name_fr": "Tenes",
+        "name_en": "Tenes"
+      },
+      {
+        "name_ar": "Benairia",
+        "name_fr": "Benairia",
+        "name_en": "Benairia"
+      },
+      {
+        "name_ar": "El Karimia",
+        "name_fr": "El Karimia",
+        "name_en": "El Karimia"
+      },
+      {
+        "name_ar": "Tadjna",
+        "name_fr": "Tadjna",
+        "name_en": "Tadjna"
+      },
+      {
+        "name_ar": "Taougrite",
+        "name_fr": "Taougrite",
+        "name_en": "Taougrite"
+      },
+      {
+        "name_ar": "Beni Haoua",
+        "name_fr": "Beni Haoua",
+        "name_en": "Beni Haoua"
+      },
+      {
+        "name_ar": "Sobha",
+        "name_fr": "Sobha",
+        "name_en": "Sobha"
+      },
+      {
+        "name_ar": "Harchoun",
+        "name_fr": "Harchoun",
+        "name_en": "Harchoun"
+      },
+      {
+        "name_ar": "Ouled Fares",
+        "name_fr": "Ouled Fares",
+        "name_en": "Ouled Fares"
+      },
+      {
+        "name_ar": "Sidi Akacha",
+        "name_fr": "Sidi Akacha",
+        "name_en": "Sidi Akacha"
+      },
+      {
+        "name_ar": "Boukadir",
+        "name_fr": "Boukadir",
+        "name_en": "Boukadir"
+      },
+      {
+        "name_ar": "Beni Rached",
+        "name_fr": "Beni Rached",
+        "name_en": "Beni Rached"
+      },
+      {
+        "name_ar": "Talassa",
+        "name_fr": "Talassa",
+        "name_en": "Talassa"
+      },
+      {
+        "name_ar": "Herenfa",
+        "name_fr": "Herenfa",
+        "name_en": "Herenfa"
+      },
+      {
+        "name_ar": "Oued Goussine",
+        "name_fr": "Oued Goussine",
+        "name_en": "Oued Goussine"
+      },
+      {
+        "name_ar": "Dahra",
+        "name_fr": "Dahra",
+        "name_en": "Dahra"
+      },
+      {
+        "name_ar": "Ouled Abbes",
+        "name_fr": "Ouled Abbes",
+        "name_en": "Ouled Abbes"
+      },
+      {
+        "name_ar": "Sendjas",
+        "name_fr": "Sendjas",
+        "name_en": "Sendjas"
+      },
+      {
+        "name_ar": "Zeboudja",
+        "name_fr": "Zeboudja",
+        "name_en": "Zeboudja"
+      },
+      {
+        "name_ar": "Oued Sly",
+        "name_fr": "Oued Sly",
+        "name_en": "Oued Sly"
+      },
+      {
+        "name_ar": "Abou El Hassen",
+        "name_fr": "Abou El Hassen",
+        "name_en": "Abou El Hassen"
+      },
+      {
+        "name_ar": "El Marsa",
+        "name_fr": "El Marsa",
+        "name_en": "El Marsa"
+      },
+      {
+        "name_ar": "Chettia",
+        "name_fr": "Chettia",
+        "name_en": "Chettia"
+      },
+      {
+        "name_ar": "Sidi Abderrahmane",
+        "name_fr": "Sidi Abderrahmane",
+        "name_en": "Sidi Abderrahmane"
+      },
+      {
+        "name_ar": "Moussadek",
+        "name_fr": "Moussadek",
+        "name_en": "Moussadek"
+      },
+      {
+        "name_ar": "El Hadjadj",
+        "name_fr": "El Hadjadj",
+        "name_en": "El Hadjadj"
+      },
+      {
+        "name_ar": "Labiod Medjadja",
+        "name_fr": "Labiod Medjadja",
+        "name_en": "Labiod Medjadja"
+      },
+      {
+        "name_ar": "Oued Fodda",
+        "name_fr": "Oued Fodda",
+        "name_en": "Oued Fodda"
+      },
+      {
+        "name_ar": "Ouled Ben Abdelkader",
+        "name_fr": "Ouled Ben Abdelkader",
+        "name_en": "Ouled Ben Abdelkader"
+      },
+      {
+        "name_ar": "Bouzghaia",
+        "name_fr": "Bouzghaia",
+        "name_en": "Bouzghaia"
+      },
+      {
+        "name_ar": "Ain Merane",
+        "name_fr": "Ain Merane",
+        "name_en": "Ain Merane"
+      },
+      {
+        "name_ar": "Oum Drou",
+        "name_fr": "Oum Drou",
+        "name_en": "Oum Drou"
+      },
+      {
+        "name_ar": "Breira",
+        "name_fr": "Breira",
+        "name_en": "Breira"
+      },
+      {
+        "name_ar": "Beni Bouateb",
+        "name_fr": "Beni Bouateb",
+        "name_en": "Beni Bouateb"
+      }
+    ]
+  },
+  "64": {
+    "name_ar": "Laghouat",
+    "name_fr": "Laghouat",
+    "name_en": "Laghouat",
+    "communes": [
+      {
+        "name_ar": "Ksar El Hirane",
+        "name_fr": "Ksar El Hirane",
+        "name_en": "Ksar El Hirane"
+      },
+      {
+        "name_ar": "Benacer Ben Chohra",
+        "name_fr": "Benacer Ben Chohra",
+        "name_en": "Benacer Ben Chohra"
+      },
+      {
+        "name_ar": "Sidi Makhlouf",
+        "name_fr": "Sidi Makhlouf",
+        "name_en": "Sidi Makhlouf"
+      },
+      {
+        "name_ar": "Hassi Delaa",
+        "name_fr": "Hassi Delaa",
+        "name_en": "Hassi Delaa"
+      },
+      {
+        "name_ar": "Hassi R'Mel",
+        "name_fr": "Hassi R'Mel",
+        "name_en": "Hassi R'Mel"
+      },
+      {
+        "name_ar": "Ain Mahdi",
+        "name_fr": "Ain Mahdi",
+        "name_en": "Ain Mahdi"
+      },
+      {
+        "name_ar": "Tadjmout",
+        "name_fr": "Tadjmout",
+        "name_en": "Tadjmout"
+      },
+      {
+        "name_ar": "El Kheneg",
+        "name_fr": "El Kheneg",
+        "name_en": "El Kheneg"
+      },
+      {
+        "name_ar": "Gueltat Sidi Saad",
+        "name_fr": "Gueltat Sidi Saad",
+        "name_en": "Gueltat Sidi Saad"
+      },
+      {
+        "name_ar": "Ain Sidi Ali",
+        "name_fr": "Ain Sidi Ali",
+        "name_en": "Ain Sidi Ali"
+      },
+      {
+        "name_ar": "Beidha",
+        "name_fr": "Beidha",
+        "name_en": "Beidha"
+      },
+      {
+        "name_ar": "Brida",
+        "name_fr": "Brida",
+        "name_en": "Brida"
+      },
+      {
+        "name_ar": "El Ghicha",
+        "name_fr": "El Ghicha",
+        "name_en": "El Ghicha"
+      },
+      {
+        "name_ar": "Hadj Mechri",
+        "name_fr": "Hadj Mechri",
+        "name_en": "Hadj Mechri"
+      },
+      {
+        "name_ar": "Sebgag",
+        "name_fr": "Sebgag",
+        "name_en": "Sebgag"
+      },
+      {
+        "name_ar": "Taouiala",
+        "name_fr": "Taouiala",
+        "name_en": "Taouiala"
+      },
+      {
+        "name_ar": "Tadjrouna",
+        "name_fr": "Tadjrouna",
+        "name_en": "Tadjrouna"
+      },
+      {
+        "name_ar": "Aflou",
+        "name_fr": "Aflou",
+        "name_en": "Aflou"
+      },
+      {
+        "name_ar": "El Assafia",
+        "name_fr": "El Assafia",
+        "name_en": "El Assafia"
+      },
+      {
+        "name_ar": "Oued Morra",
+        "name_fr": "Oued Morra",
+        "name_en": "Oued Morra"
+      },
+      {
+        "name_ar": "Oued M'Zi",
+        "name_fr": "Oued M'Zi",
+        "name_en": "Oued M'Zi"
+      },
+      {
+        "name_ar": "El Haouaita",
+        "name_fr": "El Haouaita",
+        "name_en": "El Haouaita"
+      },
+      {
+        "name_ar": "Sidi Bouzid",
+        "name_fr": "Sidi Bouzid",
+        "name_en": "Sidi Bouzid"
+      }
+    ]
+  },
+  "88": {
+    "name_ar": "Oum El Bouaghi",
+    "name_fr": "Oum El Bouaghi",
+    "name_en": "Oum El Bouaghi",
+    "communes": [
+      {
+        "name_ar": "Ain Beida",
+        "name_fr": "Ain Beida",
+        "name_en": "Ain Beida"
+      },
+      {
+        "name_ar": "Ain M'lila",
+        "name_fr": "Ain M'lila",
+        "name_en": "Ain M'lila"
+      },
+      {
+        "name_ar": "Behir Chergui",
+        "name_fr": "Behir Chergui",
+        "name_en": "Behir Chergui"
+      },
+      {
+        "name_ar": "El Amiria",
+        "name_fr": "El Amiria",
+        "name_en": "El Amiria"
+      },
+      {
+        "name_ar": "Sigus",
+        "name_fr": "Sigus",
+        "name_en": "Sigus"
+      },
+      {
+        "name_ar": "El Belala",
+        "name_fr": "El Belala",
+        "name_en": "El Belala"
+      },
+      {
+        "name_ar": "Ain Babouche",
+        "name_fr": "Ain Babouche",
+        "name_en": "Ain Babouche"
+      },
+      {
+        "name_ar": "Berriche",
+        "name_fr": "Berriche",
+        "name_en": "Berriche"
+      },
+      {
+        "name_ar": "Ouled Hamla",
+        "name_fr": "Ouled Hamla",
+        "name_en": "Ouled Hamla"
+      },
+      {
+        "name_ar": "Dhala",
+        "name_fr": "Dhala",
+        "name_en": "Dhala"
+      },
+      {
+        "name_ar": "Ain Kercha",
+        "name_fr": "Ain Kercha",
+        "name_en": "Ain Kercha"
+      },
+      {
+        "name_ar": "Hanchir Toumghani",
+        "name_fr": "Hanchir Toumghani",
+        "name_en": "Hanchir Toumghani"
+      },
+      {
+        "name_ar": "El Djazia",
+        "name_fr": "El Djazia",
+        "name_en": "El Djazia"
+      },
+      {
+        "name_ar": "Ain Diss",
+        "name_fr": "Ain Diss",
+        "name_en": "Ain Diss"
+      },
+      {
+        "name_ar": "Fkirina",
+        "name_fr": "Fkirina",
+        "name_en": "Fkirina"
+      },
+      {
+        "name_ar": "Souk Naamane",
+        "name_fr": "Souk Naamane",
+        "name_en": "Souk Naamane"
+      },
+      {
+        "name_ar": "Zorg",
+        "name_fr": "Zorg",
+        "name_en": "Zorg"
+      },
+      {
+        "name_ar": "El Fedjoudj Boughrara Saoudi",
+        "name_fr": "El Fedjoudj Boughrara Saoudi",
+        "name_en": "El Fedjoudj Boughrara Saoudi"
+      },
+      {
+        "name_ar": "Ouled Zouai",
+        "name_fr": "Ouled Zouai",
+        "name_en": "Ouled Zouai"
+      },
+      {
+        "name_ar": "Bir Chouhada",
+        "name_fr": "Bir Chouhada",
+        "name_en": "Bir Chouhada"
+      },
+      {
+        "name_ar": "Ksar Sbahi",
+        "name_fr": "Ksar Sbahi",
+        "name_en": "Ksar Sbahi"
+      },
+      {
+        "name_ar": "Oued Nini",
+        "name_fr": "Oued Nini",
+        "name_en": "Oued Nini"
+      },
+      {
+        "name_ar": "Meskiana",
+        "name_fr": "Meskiana",
+        "name_en": "Meskiana"
+      },
+      {
+        "name_ar": "Ain Fekroune",
+        "name_fr": "Ain Fekroune",
+        "name_en": "Ain Fekroune"
+      },
+      {
+        "name_ar": "Rahia",
+        "name_fr": "Rahia",
+        "name_en": "Rahia"
+      },
+      {
+        "name_ar": "Ain Zitoun",
+        "name_fr": "Ain Zitoun",
+        "name_en": "Ain Zitoun"
+      },
+      {
+        "name_ar": "Ouled Gacem",
+        "name_fr": "Ouled Gacem",
+        "name_en": "Ouled Gacem"
+      },
+      {
+        "name_ar": "El Harmilia",
+        "name_fr": "El Harmilia",
+        "name_en": "El Harmilia"
+      }
+    ]
+  },
+  "117": {
+    "name_ar": "Batna",
+    "name_fr": "Batna",
+    "name_en": "Batna",
+    "communes": [
+      {
+        "name_ar": "Ghassira",
+        "name_fr": "Ghassira",
+        "name_en": "Ghassira"
+      },
+      {
+        "name_ar": "Maafa",
+        "name_fr": "Maafa",
+        "name_en": "Maafa"
+      },
+      {
+        "name_ar": "Merouana",
+        "name_fr": "Merouana",
+        "name_en": "Merouana"
+      },
+      {
+        "name_ar": "Seriana",
+        "name_fr": "Seriana",
+        "name_en": "Seriana"
+      },
+      {
+        "name_ar": "Menaa",
+        "name_fr": "Menaa",
+        "name_en": "Menaa"
+      },
+      {
+        "name_ar": "El Madher",
+        "name_fr": "El Madher",
+        "name_en": "El Madher"
+      },
+      {
+        "name_ar": "Tazoult",
+        "name_fr": "Tazoult",
+        "name_en": "Tazoult"
+      },
+      {
+        "name_ar": "Ngaous",
+        "name_fr": "Ngaous",
+        "name_en": "Ngaous"
+      },
+      {
+        "name_ar": "Guigba",
+        "name_fr": "Guigba",
+        "name_en": "Guigba"
+      },
+      {
+        "name_ar": "Inoughissen",
+        "name_fr": "Inoughissen",
+        "name_en": "Inoughissen"
+      },
+      {
+        "name_ar": "Ouyoun El Assafir",
+        "name_fr": "Ouyoun El Assafir",
+        "name_en": "Ouyoun El Assafir"
+      },
+      {
+        "name_ar": "Djerma",
+        "name_fr": "Djerma",
+        "name_en": "Djerma"
+      },
+      {
+        "name_ar": "Bitam",
+        "name_fr": "Bitam",
+        "name_en": "Bitam"
+      },
+      {
+        "name_ar": "Metkaouak",
+        "name_fr": "Metkaouak",
+        "name_en": "Metkaouak"
+      },
+      {
+        "name_ar": "Arris",
+        "name_fr": "Arris",
+        "name_en": "Arris"
+      },
+      {
+        "name_ar": "Kimmel",
+        "name_fr": "Kimmel",
+        "name_en": "Kimmel"
+      },
+      {
+        "name_ar": "Tilatou",
+        "name_fr": "Tilatou",
+        "name_en": "Tilatou"
+      },
+      {
+        "name_ar": "Ain Djasser",
+        "name_fr": "Ain Djasser",
+        "name_en": "Ain Djasser"
+      },
+      {
+        "name_ar": "Ouled Selam",
+        "name_fr": "Ouled Selam",
+        "name_en": "Ouled Selam"
+      },
+      {
+        "name_ar": "Tigherghar",
+        "name_fr": "Tigherghar",
+        "name_en": "Tigherghar"
+      },
+      {
+        "name_ar": "Ain Yagout",
+        "name_fr": "Ain Yagout",
+        "name_en": "Ain Yagout"
+      },
+      {
+        "name_ar": "Fesdis",
+        "name_fr": "Fesdis",
+        "name_en": "Fesdis"
+      },
+      {
+        "name_ar": "Sefiane",
+        "name_fr": "Sefiane",
+        "name_en": "Sefiane"
+      },
+      {
+        "name_ar": "Rahbat",
+        "name_fr": "Rahbat",
+        "name_en": "Rahbat"
+      },
+      {
+        "name_ar": "Tighanimine",
+        "name_fr": "Tighanimine",
+        "name_en": "Tighanimine"
+      },
+      {
+        "name_ar": "Lemsane",
+        "name_fr": "Lemsane",
+        "name_en": "Lemsane"
+      },
+      {
+        "name_ar": "Ksar Belezma",
+        "name_fr": "Ksar Belezma",
+        "name_en": "Ksar Belezma"
+      },
+      {
+        "name_ar": "Seggana",
+        "name_fr": "Seggana",
+        "name_en": "Seggana"
+      },
+      {
+        "name_ar": "Ichmoul",
+        "name_fr": "Ichmoul",
+        "name_en": "Ichmoul"
+      },
+      {
+        "name_ar": "Foum Toub",
+        "name_fr": "Foum Toub",
+        "name_en": "Foum Toub"
+      },
+      {
+        "name_ar": "Beni Foudhala El Hakania",
+        "name_fr": "Beni Foudhala El Hakania",
+        "name_en": "Beni Foudhala El Hakania"
+      },
+      {
+        "name_ar": "Oued El Ma",
+        "name_fr": "Oued El Ma",
+        "name_en": "Oued El Ma"
+      },
+      {
+        "name_ar": "Talkhamt",
+        "name_fr": "Talkhamt",
+        "name_en": "Talkhamt"
+      },
+      {
+        "name_ar": "Bouzina",
+        "name_fr": "Bouzina",
+        "name_en": "Bouzina"
+      },
+      {
+        "name_ar": "Chemora",
+        "name_fr": "Chemora",
+        "name_en": "Chemora"
+      },
+      {
+        "name_ar": "Oued Chaaba",
+        "name_fr": "Oued Chaaba",
+        "name_en": "Oued Chaaba"
+      },
+      {
+        "name_ar": "Taxlent",
+        "name_fr": "Taxlent",
+        "name_en": "Taxlent"
+      },
+      {
+        "name_ar": "Gosbat",
+        "name_fr": "Gosbat",
+        "name_en": "Gosbat"
+      },
+      {
+        "name_ar": "Ouled Aouf",
+        "name_fr": "Ouled Aouf",
+        "name_en": "Ouled Aouf"
+      },
+      {
+        "name_ar": "Boumagueur",
+        "name_fr": "Boumagueur",
+        "name_en": "Boumagueur"
+      },
+      {
+        "name_ar": "Barika",
+        "name_fr": "Barika",
+        "name_en": "Barika"
+      },
+      {
+        "name_ar": "Djezzar",
+        "name_fr": "Djezzar",
+        "name_en": "Djezzar"
+      },
+      {
+        "name_ar": "Tkout",
+        "name_fr": "Tkout",
+        "name_en": "Tkout"
+      },
+      {
+        "name_ar": "Ain Touta",
+        "name_fr": "Ain Touta",
+        "name_en": "Ain Touta"
+      },
+      {
+        "name_ar": "Hidoussa",
+        "name_fr": "Hidoussa",
+        "name_en": "Hidoussa"
+      },
+      {
+        "name_ar": "Teniet El Abed",
+        "name_fr": "Teniet El Abed",
+        "name_en": "Teniet El Abed"
+      },
+      {
+        "name_ar": "Oued Taga",
+        "name_fr": "Oued Taga",
+        "name_en": "Oued Taga"
+      },
+      {
+        "name_ar": "Ouled Fadel",
+        "name_fr": "Ouled Fadel",
+        "name_en": "Ouled Fadel"
+      },
+      {
+        "name_ar": "Timgad",
+        "name_fr": "Timgad",
+        "name_en": "Timgad"
+      },
+      {
+        "name_ar": "Ras El Aioun",
+        "name_fr": "Ras El Aioun",
+        "name_en": "Ras El Aioun"
+      },
+      {
+        "name_ar": "Chir",
+        "name_fr": "Chir",
+        "name_en": "Chir"
+      },
+      {
+        "name_ar": "Ouled Si Slimane",
+        "name_fr": "Ouled Si Slimane",
+        "name_en": "Ouled Si Slimane"
+      },
+      {
+        "name_ar": "Zanat El Beida",
+        "name_fr": "Zanat El Beida",
+        "name_en": "Zanat El Beida"
+      },
+      {
+        "name_ar": "M'doukel",
+        "name_fr": "M'doukel",
+        "name_en": "M'doukel"
+      },
+      {
+        "name_ar": "Ouled Ammar",
+        "name_fr": "Ouled Ammar",
+        "name_en": "Ouled Ammar"
+      },
+      {
+        "name_ar": "El Hassi",
+        "name_fr": "El Hassi",
+        "name_en": "El Hassi"
+      },
+      {
+        "name_ar": "Lazrou",
+        "name_fr": "Lazrou",
+        "name_en": "Lazrou"
+      },
+      {
+        "name_ar": "Boumia",
+        "name_fr": "Boumia",
+        "name_en": "Boumia"
+      },
+      {
+        "name_ar": "Boulhilat",
+        "name_fr": "Boulhilat",
+        "name_en": "Boulhilat"
+      },
+      {
+        "name_ar": "Larbaa",
+        "name_fr": "Larbaa",
+        "name_en": "Larbaa"
+      }
+    ]
+  },
+  "178": {
+    "name_ar": "Bejaia",
+    "name_fr": "Bejaia",
+    "name_en": "Bejaia",
+    "communes": [
+      {
+        "name_ar": "Amizour",
+        "name_fr": "Amizour",
+        "name_en": "Amizour"
+      },
+      {
+        "name_ar": "Ferraoun",
+        "name_fr": "Ferraoun",
+        "name_en": "Ferraoun"
+      },
+      {
+        "name_ar": "Taourirt Ighil",
+        "name_fr": "Taourirt Ighil",
+        "name_en": "Taourirt Ighil"
+      },
+      {
+        "name_ar": "Chelata",
+        "name_fr": "Chelata",
+        "name_en": "Chelata"
+      },
+      {
+        "name_ar": "Tamokra",
+        "name_fr": "Tamokra",
+        "name_en": "Tamokra"
+      },
+      {
+        "name_ar": "Timzrit",
+        "name_fr": "Timzrit",
+        "name_en": "Timzrit"
+      },
+      {
+        "name_ar": "Souk El Thenine",
+        "name_fr": "Souk El Thenine",
+        "name_en": "Souk El Thenine"
+      },
+      {
+        "name_ar": "M'cisna",
+        "name_fr": "M'cisna",
+        "name_en": "M'cisna"
+      },
+      {
+        "name_ar": "Thinabdher",
+        "name_fr": "Thinabdher",
+        "name_en": "Thinabdher"
+      },
+      {
+        "name_ar": "Tichi",
+        "name_fr": "Tichi",
+        "name_en": "Tichi"
+      },
+      {
+        "name_ar": "Semaoun",
+        "name_fr": "Semaoun",
+        "name_en": "Semaoun"
+      },
+      {
+        "name_ar": "Kendira",
+        "name_fr": "Kendira",
+        "name_en": "Kendira"
+      },
+      {
+        "name_ar": "Tifra",
+        "name_fr": "Tifra",
+        "name_en": "Tifra"
+      },
+      {
+        "name_ar": "Ighram",
+        "name_fr": "Ighram",
+        "name_en": "Ighram"
+      },
+      {
+        "name_ar": "Amalou",
+        "name_fr": "Amalou",
+        "name_en": "Amalou"
+      },
+      {
+        "name_ar": "Ighil Ali",
+        "name_fr": "Ighil Ali",
+        "name_en": "Ighil Ali"
+      },
+      {
+        "name_ar": "Ifelain Ilmathen",
+        "name_fr": "Ifelain Ilmathen",
+        "name_en": "Ifelain Ilmathen"
+      },
+      {
+        "name_ar": "Toudja",
+        "name_fr": "Toudja",
+        "name_en": "Toudja"
+      },
+      {
+        "name_ar": "Darguina",
+        "name_fr": "Darguina",
+        "name_en": "Darguina"
+      },
+      {
+        "name_ar": "Sidi Ayad",
+        "name_fr": "Sidi Ayad",
+        "name_en": "Sidi Ayad"
+      },
+      {
+        "name_ar": "Aokas",
+        "name_fr": "Aokas",
+        "name_en": "Aokas"
+      },
+      {
+        "name_ar": "Ait Djellil",
+        "name_fr": "Ait Djellil",
+        "name_en": "Ait Djellil"
+      },
+      {
+        "name_ar": "Adekar",
+        "name_fr": "Adekar",
+        "name_en": "Adekar"
+      },
+      {
+        "name_ar": "Akbou",
+        "name_fr": "Akbou",
+        "name_en": "Akbou"
+      },
+      {
+        "name_ar": "Seddouk",
+        "name_fr": "Seddouk",
+        "name_en": "Seddouk"
+      },
+      {
+        "name_ar": "Tazmalt",
+        "name_fr": "Tazmalt",
+        "name_en": "Tazmalt"
+      },
+      {
+        "name_ar": "Ait R'zine",
+        "name_fr": "Ait R'zine",
+        "name_en": "Ait R'zine"
+      },
+      {
+        "name_ar": "Chemini",
+        "name_fr": "Chemini",
+        "name_en": "Chemini"
+      },
+      {
+        "name_ar": "Souk Oufella",
+        "name_fr": "Souk Oufella",
+        "name_en": "Souk Oufella"
+      },
+      {
+        "name_ar": "Taskriout",
+        "name_fr": "Taskriout",
+        "name_en": "Taskriout"
+      },
+      {
+        "name_ar": "Tibane",
+        "name_fr": "Tibane",
+        "name_en": "Tibane"
+      },
+      {
+        "name_ar": "Tala Hamza",
+        "name_fr": "Tala Hamza",
+        "name_en": "Tala Hamza"
+      },
+      {
+        "name_ar": "Barbacha",
+        "name_fr": "Barbacha",
+        "name_en": "Barbacha"
+      },
+      {
+        "name_ar": "Beni Ksila",
+        "name_fr": "Beni Ksila",
+        "name_en": "Beni Ksila"
+      },
+      {
+        "name_ar": "Ouzallaguen",
+        "name_fr": "Ouzallaguen",
+        "name_en": "Ouzallaguen"
+      },
+      {
+        "name_ar": "Bouhamza",
+        "name_fr": "Bouhamza",
+        "name_en": "Bouhamza"
+      },
+      {
+        "name_ar": "Beni Melikeche",
+        "name_fr": "Beni Melikeche",
+        "name_en": "Beni Melikeche"
+      },
+      {
+        "name_ar": "Sidi Aich",
+        "name_fr": "Sidi Aich",
+        "name_en": "Sidi Aich"
+      },
+      {
+        "name_ar": "El Kseur",
+        "name_fr": "El Kseur",
+        "name_en": "El Kseur"
+      },
+      {
+        "name_ar": "Melbou",
+        "name_fr": "Melbou",
+        "name_en": "Melbou"
+      },
+      {
+        "name_ar": "Akfadou",
+        "name_fr": "Akfadou",
+        "name_en": "Akfadou"
+      },
+      {
+        "name_ar": "Leflaye",
+        "name_fr": "Leflaye",
+        "name_en": "Leflaye"
+      },
+      {
+        "name_ar": "Kherrata",
+        "name_fr": "Kherrata",
+        "name_en": "Kherrata"
+      },
+      {
+        "name_ar": "Draa Kaid",
+        "name_fr": "Draa Kaid",
+        "name_en": "Draa Kaid"
+      },
+      {
+        "name_ar": "Tamridjet",
+        "name_fr": "Tamridjet",
+        "name_en": "Tamridjet"
+      },
+      {
+        "name_ar": "Ait Smail",
+        "name_fr": "Ait Smail",
+        "name_en": "Ait Smail"
+      },
+      {
+        "name_ar": "Boukhelifa",
+        "name_fr": "Boukhelifa",
+        "name_en": "Boukhelifa"
+      },
+      {
+        "name_ar": "Tizi N'berber",
+        "name_fr": "Tizi N'berber",
+        "name_en": "Tizi N'berber"
+      },
+      {
+        "name_ar": "Beni Maouch",
+        "name_fr": "Beni Maouch",
+        "name_en": "Beni Maouch"
+      },
+      {
+        "name_ar": "Oued Ghir",
+        "name_fr": "Oued Ghir",
+        "name_en": "Oued Ghir"
+      },
+      {
+        "name_ar": "Boudjellil",
+        "name_fr": "Boudjellil",
+        "name_en": "Boudjellil"
+      }
+    ]
+  },
+  "230": {
+    "name_ar": "Biskra",
+    "name_fr": "Biskra",
+    "name_en": "Biskra",
+    "communes": [
+      {
+        "name_ar": "Oumache",
+        "name_fr": "Oumache",
+        "name_en": "Oumache"
+      },
+      {
+        "name_ar": "Branis",
+        "name_fr": "Branis",
+        "name_en": "Branis"
+      },
+      {
+        "name_ar": "Chetma",
+        "name_fr": "Chetma",
+        "name_en": "Chetma"
+      }
+    ]
+  },
+  "234": {
+    "name_ar": "Ouled Djellal",
+    "name_fr": "Ouled Djellal",
+    "name_en": "Ouled Djellal",
+    "communes": [
+      {
+        "name_fr": "Ouled Djellal",
+        "name_en": "Ouled Djellal",
+        "name_ar": "Ouled Djellal"
+      },
+      {
+        "name_fr": "Chaïba",
+        "name_en": "Chaïba",
+        "name_ar": "Chaïba"
+      },
+      {
+        "name_fr": "Doucen",
+        "name_en": "Doucen",
+        "name_ar": "Doucen"
+      },
+      {
+        "name_fr": "Sidi Khaled",
+        "name_en": "Sidi Khaled",
+        "name_ar": "Sidi Khaled"
+      },
+      {
+        "name_fr": "Besbes",
+        "name_en": "Besbes",
+        "name_ar": "Besbes"
+      },
+      {
+        "name_fr": "Ras El Miad",
+        "name_en": "Ras El Miad",
+        "name_ar": "Ras El Miad"
+      }
+    ]
+  },
+  "263": {
+    "name_ar": "Bechar",
+    "name_fr": "Bechar",
+    "name_en": "Bechar",
+    "communes": [
+      {
+        "name_ar": "Erg Ferradj",
+        "name_fr": "Erg Ferradj",
+        "name_en": "Erg Ferradj"
+      },
+      {
+        "name_ar": "Meridja",
+        "name_fr": "Meridja",
+        "name_en": "Meridja"
+      },
+      {
+        "name_ar": "Lahmar",
+        "name_fr": "Lahmar",
+        "name_en": "Lahmar"
+      }
+    ]
+  },
+  "269": {
+    "name_ar": "Beni Abbes",
+    "name_fr": "Beni Abbes",
+    "name_en": "Beni Abbes",
+    "communes": [
+      {
+        "name_ar": "Mechraa Houari Boumedienne",
+        "name_fr": "Mechraa Houari Boumedienne",
+        "name_en": "Mechraa Houari Boumedienne"
+      },
+      {
+        "name_ar": "Kenedsa",
+        "name_fr": "Kenedsa",
+        "name_en": "Kenedsa"
+      },
+      {
+        "name_ar": "Tabalbala",
+        "name_fr": "Tabalbala",
+        "name_en": "Tabalbala"
+      },
+      {
+        "name_ar": "Taghit",
+        "name_fr": "Taghit",
+        "name_en": "Taghit"
+      },
+      {
+        "name_ar": "Boukais",
+        "name_fr": "Boukais",
+        "name_en": "Boukais"
+      },
+      {
+        "name_ar": "Mogheul",
+        "name_fr": "Mogheul",
+        "name_en": "Mogheul"
+      },
+      {
+        "name_ar": "Abadla",
+        "name_fr": "Abadla",
+        "name_en": "Abadla"
+      },
+      {
+        "name_ar": "Beni Ounif",
+        "name_fr": "Beni Ounif",
+        "name_en": "Beni Ounif"
+      }
+    ]
+  },
+  "284": {
+    "name_ar": "Blida",
+    "name_fr": "Blida",
+    "name_en": "Blida",
+    "communes": [
+      {
+        "name_ar": "Chebli",
+        "name_fr": "Chebli",
+        "name_en": "Chebli"
+      },
+      {
+        "name_ar": "Bouinan",
+        "name_fr": "Bouinan",
+        "name_en": "Bouinan"
+      },
+      {
+        "name_ar": "Oued El Alleug",
+        "name_fr": "Oued El Alleug",
+        "name_en": "Oued El Alleug"
+      },
+      {
+        "name_ar": "Ouled Yaich",
+        "name_fr": "Ouled Yaich",
+        "name_en": "Ouled Yaich"
+      },
+      {
+        "name_ar": "Chrea",
+        "name_fr": "Chrea",
+        "name_en": "Chrea"
+      },
+      {
+        "name_ar": "El Affroun",
+        "name_fr": "El Affroun",
+        "name_en": "El Affroun"
+      },
+      {
+        "name_ar": "Chiffa",
+        "name_fr": "Chiffa",
+        "name_en": "Chiffa"
+      },
+      {
+        "name_ar": "Hammam Melouane",
+        "name_fr": "Hammam Melouane",
+        "name_en": "Hammam Melouane"
+      },
+      {
+        "name_ar": "Ben Khlil",
+        "name_fr": "Ben Khlil",
+        "name_en": "Ben Khlil"
+      },
+      {
+        "name_ar": "Soumaa",
+        "name_fr": "Soumaa",
+        "name_en": "Soumaa"
+      },
+      {
+        "name_ar": "Mouzaia",
+        "name_fr": "Mouzaia",
+        "name_en": "Mouzaia"
+      },
+      {
+        "name_ar": "Souhane",
+        "name_fr": "Souhane",
+        "name_en": "Souhane"
+      },
+      {
+        "name_ar": "Meftah",
+        "name_fr": "Meftah",
+        "name_en": "Meftah"
+      },
+      {
+        "name_ar": "Ouled Selama",
+        "name_fr": "Ouled Selama",
+        "name_en": "Ouled Selama"
+      },
+      {
+        "name_ar": "Boufarik",
+        "name_fr": "Boufarik",
+        "name_en": "Boufarik"
+      },
+      {
+        "name_ar": "Larbaa",
+        "name_fr": "Larbaa",
+        "name_en": "Larbaa"
+      },
+      {
+        "name_ar": "Oued Djer",
+        "name_fr": "Oued Djer",
+        "name_en": "Oued Djer"
+      },
+      {
+        "name_ar": "Beni Tamou",
+        "name_fr": "Beni Tamou",
+        "name_en": "Beni Tamou"
+      },
+      {
+        "name_ar": "Bouarfa",
+        "name_fr": "Bouarfa",
+        "name_en": "Bouarfa"
+      },
+      {
+        "name_ar": "Beni Mered",
+        "name_fr": "Beni Mered",
+        "name_en": "Beni Mered"
+      },
+      {
+        "name_ar": "Bougara",
+        "name_fr": "Bougara",
+        "name_en": "Bougara"
+      },
+      {
+        "name_ar": "Guerrouaou",
+        "name_fr": "Guerrouaou",
+        "name_en": "Guerrouaou"
+      },
+      {
+        "name_ar": "Ain Romana",
+        "name_fr": "Ain Romana",
+        "name_en": "Ain Romana"
+      },
+      {
+        "name_ar": "Djebabra",
+        "name_fr": "Djebabra",
+        "name_en": "Djebabra"
+      }
+    ]
+  },
+  "309": {
+    "name_ar": "Bouira",
+    "name_fr": "Bouira",
+    "name_en": "Bouira",
+    "communes": [
+      {
+        "name_ar": "El Asnam",
+        "name_fr": "El Asnam",
+        "name_en": "El Asnam"
+      },
+      {
+        "name_ar": "Guerrouma",
+        "name_fr": "Guerrouma",
+        "name_en": "Guerrouma"
+      },
+      {
+        "name_ar": "Souk El Khemis",
+        "name_fr": "Souk El Khemis",
+        "name_en": "Souk El Khemis"
+      },
+      {
+        "name_ar": "Kadiria",
+        "name_fr": "Kadiria",
+        "name_en": "Kadiria"
+      },
+      {
+        "name_ar": "Hanif",
+        "name_fr": "Hanif",
+        "name_en": "Hanif"
+      },
+      {
+        "name_ar": "Dirah",
+        "name_fr": "Dirah",
+        "name_en": "Dirah"
+      },
+      {
+        "name_ar": "Ait Laaziz",
+        "name_fr": "Ait Laaziz",
+        "name_en": "Ait Laaziz"
+      },
+      {
+        "name_ar": "Taghzout",
+        "name_fr": "Taghzout",
+        "name_en": "Taghzout"
+      },
+      {
+        "name_ar": "Raouraoua",
+        "name_fr": "Raouraoua",
+        "name_en": "Raouraoua"
+      },
+      {
+        "name_ar": "Mezdour",
+        "name_fr": "Mezdour",
+        "name_en": "Mezdour"
+      },
+      {
+        "name_ar": "Haizer",
+        "name_fr": "Haizer",
+        "name_en": "Haizer"
+      },
+      {
+        "name_ar": "Lakhdaria",
+        "name_fr": "Lakhdaria",
+        "name_en": "Lakhdaria"
+      },
+      {
+        "name_ar": "Maala",
+        "name_fr": "Maala",
+        "name_en": "Maala"
+      },
+      {
+        "name_ar": "El Hachimia",
+        "name_fr": "El Hachimia",
+        "name_en": "El Hachimia"
+      },
+      {
+        "name_ar": "Aomar",
+        "name_fr": "Aomar",
+        "name_en": "Aomar"
+      },
+      {
+        "name_ar": "Chorfa",
+        "name_fr": "Chorfa",
+        "name_en": "Chorfa"
+      },
+      {
+        "name_ar": "Bordj Oukhriss",
+        "name_fr": "Bordj Oukhriss",
+        "name_en": "Bordj Oukhriss"
+      },
+      {
+        "name_ar": "El Adjiba",
+        "name_fr": "El Adjiba",
+        "name_en": "El Adjiba"
+      },
+      {
+        "name_ar": "El Hakimia",
+        "name_fr": "El Hakimia",
+        "name_en": "El Hakimia"
+      },
+      {
+        "name_ar": "El Khebouzia",
+        "name_fr": "El Khebouzia",
+        "name_en": "El Khebouzia"
+      },
+      {
+        "name_ar": "Ahl El Ksar",
+        "name_fr": "Ahl El Ksar",
+        "name_en": "Ahl El Ksar"
+      },
+      {
+        "name_ar": "Bouderbala",
+        "name_fr": "Bouderbala",
+        "name_en": "Bouderbala"
+      },
+      {
+        "name_ar": "Zbarbar",
+        "name_fr": "Zbarbar",
+        "name_en": "Zbarbar"
+      },
+      {
+        "name_ar": "Ain El Hadjar",
+        "name_fr": "Ain El Hadjar",
+        "name_en": "Ain El Hadjar"
+      },
+      {
+        "name_ar": "Djebahia",
+        "name_fr": "Djebahia",
+        "name_en": "Djebahia"
+      },
+      {
+        "name_ar": "Aghbalou",
+        "name_fr": "Aghbalou",
+        "name_en": "Aghbalou"
+      },
+      {
+        "name_ar": "Taguedit",
+        "name_fr": "Taguedit",
+        "name_en": "Taguedit"
+      },
+      {
+        "name_ar": "Ain Turk",
+        "name_fr": "Ain Turk",
+        "name_en": "Ain Turk"
+      },
+      {
+        "name_ar": "Saharidj",
+        "name_fr": "Saharidj",
+        "name_en": "Saharidj"
+      },
+      {
+        "name_ar": "Dechmia",
+        "name_fr": "Dechmia",
+        "name_en": "Dechmia"
+      },
+      {
+        "name_ar": "Ridane",
+        "name_fr": "Ridane",
+        "name_en": "Ridane"
+      },
+      {
+        "name_ar": "Bechloul",
+        "name_fr": "Bechloul",
+        "name_en": "Bechloul"
+      },
+      {
+        "name_ar": "Boukram",
+        "name_fr": "Boukram",
+        "name_en": "Boukram"
+      },
+      {
+        "name_ar": "Ain Bessam",
+        "name_fr": "Ain Bessam",
+        "name_en": "Ain Bessam"
+      },
+      {
+        "name_ar": "Bir Ghbalou",
+        "name_fr": "Bir Ghbalou",
+        "name_en": "Bir Ghbalou"
+      },
+      {
+        "name_ar": "Mchedallah",
+        "name_fr": "Mchedallah",
+        "name_en": "Mchedallah"
+      },
+      {
+        "name_ar": "Sour El Ghozlane",
+        "name_fr": "Sour El Ghozlane",
+        "name_en": "Sour El Ghozlane"
+      },
+      {
+        "name_ar": "Maamora",
+        "name_fr": "Maamora",
+        "name_en": "Maamora"
+      },
+      {
+        "name_ar": "Ouled Rached",
+        "name_fr": "Ouled Rached",
+        "name_en": "Ouled Rached"
+      },
+      {
+        "name_ar": "Ain Laloui",
+        "name_fr": "Ain Laloui",
+        "name_en": "Ain Laloui"
+      },
+      {
+        "name_ar": "Hadjera Zerga",
+        "name_fr": "Hadjera Zerga",
+        "name_en": "Hadjera Zerga"
+      },
+      {
+        "name_ar": "Ath Mansour",
+        "name_fr": "Ath Mansour",
+        "name_en": "Ath Mansour"
+      },
+      {
+        "name_ar": "El Mokrani",
+        "name_fr": "El Mokrani",
+        "name_en": "El Mokrani"
+      },
+      {
+        "name_ar": "Oued El Berdi",
+        "name_fr": "Oued El Berdi",
+        "name_en": "Oued El Berdi"
+      }
+    ]
+  },
+  "354": {
+    "name_ar": "Tamanrasset",
+    "name_fr": "Tamanrasset",
+    "name_en": "Tamanrasset",
+    "communes": [
+      {
+        "name_ar": "Abalessa",
+        "name_fr": "Abalessa",
+        "name_en": "Abalessa"
+      }
+    ]
+  },
+  "357": {
+    "name_ar": "عين ڨزام",
+    "name_fr": "In Guezzam",
+    "name_en": "In Guezzam",
+    "communes": [
+      {
+        "name_fr": "In Guezzam",
+        "name_en": "In Guezzam",
+        "name_ar": "عين ڨزام"
+      },
+      {
+        "name_fr": "Tin Zaouatine",
+        "name_en": "Tin Zaouatine",
+        "name_ar": "تين زواتين"
+      }
+    ]
+  },
+  "361": {
+    "name_ar": "عين صالح",
+    "name_fr": "In Salah",
+    "name_en": "In Salah",
+    "communes": [
+      {
+        "name_fr": "In Salah",
+        "name_en": "In Salah",
+        "name_ar": "عين صالح"
+      },
+      {
+        "name_fr": "Foggaret Ezzaouia",
+        "name_en": "Foggaret Ezzaouia",
+        "name_ar": "فڨارة الزاوية"
+      },
+      {
+        "name_fr": "In Ghar",
+        "name_en": "In Ghar",
+        "name_ar": "عين ڨار"
+      }
+    ]
+  },
+  "364": {
+    "name_ar": "Tebessa",
+    "name_fr": "Tebessa",
+    "name_en": "Tebessa",
+    "communes": [
+      {
+        "name_ar": "Bir El Ater",
+        "name_fr": "Bir El Ater",
+        "name_en": "Bir El Ater"
+      },
+      {
+        "name_ar": "Cheria",
+        "name_fr": "Cheria",
+        "name_en": "Cheria"
+      },
+      {
+        "name_ar": "Stah Guentis",
+        "name_fr": "Stah Guentis",
+        "name_en": "Stah Guentis"
+      },
+      {
+        "name_ar": "El Aouinet",
+        "name_fr": "El Aouinet",
+        "name_en": "El Aouinet"
+      },
+      {
+        "name_ar": "Lahouidjbet",
+        "name_fr": "Lahouidjbet",
+        "name_en": "Lahouidjbet"
+      },
+      {
+        "name_ar": "Safsaf El Ouesra",
+        "name_fr": "Safsaf El Ouesra",
+        "name_en": "Safsaf El Ouesra"
+      },
+      {
+        "name_ar": "Hammamet",
+        "name_fr": "Hammamet",
+        "name_en": "Hammamet"
+      },
+      {
+        "name_ar": "Negrine",
+        "name_fr": "Negrine",
+        "name_en": "Negrine"
+      },
+      {
+        "name_ar": "Bir El Mokadem",
+        "name_fr": "Bir El Mokadem",
+        "name_en": "Bir El Mokadem"
+      },
+      {
+        "name_ar": "El Kouif",
+        "name_fr": "El Kouif",
+        "name_en": "El Kouif"
+      },
+      {
+        "name_ar": "Morsott",
+        "name_fr": "Morsott",
+        "name_en": "Morsott"
+      },
+      {
+        "name_ar": "El Ogla",
+        "name_fr": "El Ogla",
+        "name_en": "El Ogla"
+      },
+      {
+        "name_ar": "Bir Dheb",
+        "name_fr": "Bir Dheb",
+        "name_en": "Bir Dheb"
+      },
+      {
+        "name_ar": "El Ogla",
+        "name_fr": "El Ogla",
+        "name_en": "El Ogla"
+      },
+      {
+        "name_ar": "Gorriguer",
+        "name_fr": "Gorriguer",
+        "name_en": "Gorriguer"
+      },
+      {
+        "name_ar": "Bekkaria",
+        "name_fr": "Bekkaria",
+        "name_en": "Bekkaria"
+      },
+      {
+        "name_ar": "Boukhadra",
+        "name_fr": "Boukhadra",
+        "name_en": "Boukhadra"
+      },
+      {
+        "name_ar": "Ouenza",
+        "name_fr": "Ouenza",
+        "name_en": "Ouenza"
+      },
+      {
+        "name_ar": "El Ma El Biodh",
+        "name_fr": "El Ma El Biodh",
+        "name_en": "El Ma El Biodh"
+      },
+      {
+        "name_ar": "Oum Ali",
+        "name_fr": "Oum Ali",
+        "name_en": "Oum Ali"
+      },
+      {
+        "name_ar": "Tlidjene",
+        "name_fr": "Tlidjene",
+        "name_en": "Tlidjene"
+      },
+      {
+        "name_ar": "Ain Zerga",
+        "name_fr": "Ain Zerga",
+        "name_en": "Ain Zerga"
+      },
+      {
+        "name_ar": "El Meridj",
+        "name_fr": "El Meridj",
+        "name_en": "El Meridj"
+      },
+      {
+        "name_ar": "Boulhaf Dyr",
+        "name_fr": "Boulhaf Dyr",
+        "name_en": "Boulhaf Dyr"
+      },
+      {
+        "name_ar": "Bedjene",
+        "name_fr": "Bedjene",
+        "name_en": "Bedjene"
+      },
+      {
+        "name_ar": "El Mazeraa",
+        "name_fr": "El Mazeraa",
+        "name_en": "El Mazeraa"
+      },
+      {
+        "name_ar": "Ferkane",
+        "name_fr": "Ferkane",
+        "name_en": "Ferkane"
+      }
+    ]
+  },
+  "392": {
+    "name_ar": "Tlemcen",
+    "name_fr": "Tlemcen",
+    "name_en": "Tlemcen",
+    "communes": [
+      {
+        "name_ar": "Beni Mester",
+        "name_fr": "Beni Mester",
+        "name_en": "Beni Mester"
+      },
+      {
+        "name_ar": "Ain Tallout",
+        "name_fr": "Ain Tallout",
+        "name_en": "Ain Tallout"
+      },
+      {
+        "name_ar": "Remchi",
+        "name_fr": "Remchi",
+        "name_en": "Remchi"
+      },
+      {
+        "name_ar": "El Fehoul",
+        "name_fr": "El Fehoul",
+        "name_en": "El Fehoul"
+      },
+      {
+        "name_ar": "Sabra",
+        "name_fr": "Sabra",
+        "name_en": "Sabra"
+      },
+      {
+        "name_ar": "Ghazaouet",
+        "name_fr": "Ghazaouet",
+        "name_en": "Ghazaouet"
+      },
+      {
+        "name_ar": "Souani",
+        "name_fr": "Souani",
+        "name_en": "Souani"
+      },
+      {
+        "name_ar": "Djebala",
+        "name_fr": "Djebala",
+        "name_en": "Djebala"
+      },
+      {
+        "name_ar": "El Gor",
+        "name_fr": "El Gor",
+        "name_en": "El Gor"
+      },
+      {
+        "name_ar": "Oued Chouly",
+        "name_fr": "Oued Chouly",
+        "name_en": "Oued Chouly"
+      },
+      {
+        "name_ar": "Ain Fezza",
+        "name_fr": "Ain Fezza",
+        "name_en": "Ain Fezza"
+      },
+      {
+        "name_ar": "Ouled Mimoun",
+        "name_fr": "Ouled Mimoun",
+        "name_en": "Ouled Mimoun"
+      },
+      {
+        "name_ar": "Amieur",
+        "name_fr": "Amieur",
+        "name_en": "Amieur"
+      },
+      {
+        "name_ar": "Ain Youcef",
+        "name_fr": "Ain Youcef",
+        "name_en": "Ain Youcef"
+      },
+      {
+        "name_ar": "Zenata",
+        "name_fr": "Zenata",
+        "name_en": "Zenata"
+      },
+      {
+        "name_ar": "Beni Snous",
+        "name_fr": "Beni Snous",
+        "name_en": "Beni Snous"
+      },
+      {
+        "name_ar": "Bab El Assa",
+        "name_fr": "Bab El Assa",
+        "name_en": "Bab El Assa"
+      },
+      {
+        "name_ar": "Dar Yaghmouracene",
+        "name_fr": "Dar Yaghmouracene",
+        "name_en": "Dar Yaghmouracene"
+      },
+      {
+        "name_ar": "Fellaoucene",
+        "name_fr": "Fellaoucene",
+        "name_en": "Fellaoucene"
+      },
+      {
+        "name_ar": "Azails",
+        "name_fr": "Azails",
+        "name_en": "Azails"
+      },
+      {
+        "name_ar": "Sebbaa Chioukh",
+        "name_fr": "Sebbaa Chioukh",
+        "name_en": "Sebbaa Chioukh"
+      },
+      {
+        "name_ar": "Terni Beni Hediel",
+        "name_fr": "Terni Beni Hediel",
+        "name_en": "Terni Beni Hediel"
+      },
+      {
+        "name_ar": "Bensekrane",
+        "name_fr": "Bensekrane",
+        "name_en": "Bensekrane"
+      },
+      {
+        "name_ar": "Ain Nehala",
+        "name_fr": "Ain Nehala",
+        "name_en": "Ain Nehala"
+      },
+      {
+        "name_ar": "Hennaya",
+        "name_fr": "Hennaya",
+        "name_en": "Hennaya"
+      },
+      {
+        "name_ar": "Maghnia",
+        "name_fr": "Maghnia",
+        "name_en": "Maghnia"
+      },
+      {
+        "name_ar": "Hammam Boughrara",
+        "name_fr": "Hammam Boughrara",
+        "name_en": "Hammam Boughrara"
+      },
+      {
+        "name_ar": "Souahlia",
+        "name_fr": "Souahlia",
+        "name_en": "Souahlia"
+      },
+      {
+        "name_ar": "Msirda Fouaga",
+        "name_fr": "Msirda Fouaga",
+        "name_en": "Msirda Fouaga"
+      },
+      {
+        "name_ar": "Ain Fetah",
+        "name_fr": "Ain Fetah",
+        "name_en": "Ain Fetah"
+      },
+      {
+        "name_ar": "El Aricha",
+        "name_fr": "El Aricha",
+        "name_en": "El Aricha"
+      },
+      {
+        "name_ar": "Souk Thlata",
+        "name_fr": "Souk Thlata",
+        "name_en": "Souk Thlata"
+      },
+      {
+        "name_ar": "Sidi Abdelli",
+        "name_fr": "Sidi Abdelli",
+        "name_en": "Sidi Abdelli"
+      },
+      {
+        "name_ar": "Sebdou",
+        "name_fr": "Sebdou",
+        "name_en": "Sebdou"
+      },
+      {
+        "name_ar": "Beni Ouarsous",
+        "name_fr": "Beni Ouarsous",
+        "name_en": "Beni Ouarsous"
+      },
+      {
+        "name_ar": "Sidi Medjahed",
+        "name_fr": "Sidi Medjahed",
+        "name_en": "Sidi Medjahed"
+      },
+      {
+        "name_ar": "Beni Boussaid",
+        "name_fr": "Beni Boussaid",
+        "name_en": "Beni Boussaid"
+      },
+      {
+        "name_ar": "Marsa Ben Mhidi",
+        "name_fr": "Marsa Ben Mhidi",
+        "name_en": "Marsa Ben Mhidi"
+      },
+      {
+        "name_ar": "Nedroma",
+        "name_fr": "Nedroma",
+        "name_en": "Nedroma"
+      },
+      {
+        "name_ar": "Sidi Djillali",
+        "name_fr": "Sidi Djillali",
+        "name_en": "Sidi Djillali"
+      },
+      {
+        "name_ar": "Beni Bahdel",
+        "name_fr": "Beni Bahdel",
+        "name_en": "Beni Bahdel"
+      },
+      {
+        "name_ar": "El Bouihi",
+        "name_fr": "El Bouihi",
+        "name_en": "El Bouihi"
+      },
+      {
+        "name_ar": "Honaine",
+        "name_fr": "Honaine",
+        "name_en": "Honaine"
+      },
+      {
+        "name_ar": "Tianet",
+        "name_fr": "Tianet",
+        "name_en": "Tianet"
+      },
+      {
+        "name_ar": "Ouled Riyah",
+        "name_fr": "Ouled Riyah",
+        "name_en": "Ouled Riyah"
+      },
+      {
+        "name_ar": "Bouhlou",
+        "name_fr": "Bouhlou",
+        "name_en": "Bouhlou"
+      },
+      {
+        "name_ar": "Souk El Khemis",
+        "name_fr": "Souk El Khemis",
+        "name_en": "Souk El Khemis"
+      },
+      {
+        "name_ar": "Ain Ghoraba",
+        "name_fr": "Ain Ghoraba",
+        "name_en": "Ain Ghoraba"
+      },
+      {
+        "name_ar": "Chetouane",
+        "name_fr": "Chetouane",
+        "name_en": "Chetouane"
+      },
+      {
+        "name_ar": "Mansourah",
+        "name_fr": "Mansourah",
+        "name_en": "Mansourah"
+      },
+      {
+        "name_ar": "Beni Semiel",
+        "name_fr": "Beni Semiel",
+        "name_en": "Beni Semiel"
+      },
+      {
+        "name_ar": "Ain Kebira",
+        "name_fr": "Ain Kebira",
+        "name_en": "Ain Kebira"
+      }
+    ]
+  },
+  "445": {
+    "name_ar": "Tiaret",
+    "name_fr": "Tiaret",
+    "name_en": "Tiaret",
+    "communes": [
+      {
+        "name_ar": "Medroussa",
+        "name_fr": "Medroussa",
+        "name_en": "Medroussa"
+      },
+      {
+        "name_ar": "Ain Bouchekif",
+        "name_fr": "Ain Bouchekif",
+        "name_en": "Ain Bouchekif"
+      },
+      {
+        "name_ar": "Sidi Ali Mellal",
+        "name_fr": "Sidi Ali Mellal",
+        "name_en": "Sidi Ali Mellal"
+      },
+      {
+        "name_ar": "Ain Zarit",
+        "name_fr": "Ain Zarit",
+        "name_en": "Ain Zarit"
+      },
+      {
+        "name_ar": "Ain Deheb",
+        "name_fr": "Ain Deheb",
+        "name_en": "Ain Deheb"
+      },
+      {
+        "name_ar": "Sidi Bakhti",
+        "name_fr": "Sidi Bakhti",
+        "name_en": "Sidi Bakhti"
+      },
+      {
+        "name_ar": "Medrissa",
+        "name_fr": "Medrissa",
+        "name_en": "Medrissa"
+      },
+      {
+        "name_ar": "Zmalet El Emir Aek",
+        "name_fr": "Zmalet El Emir Aek",
+        "name_en": "Zmalet El Emir Aek"
+      },
+      {
+        "name_ar": "Madna",
+        "name_fr": "Madna",
+        "name_en": "Madna"
+      },
+      {
+        "name_ar": "Sebt",
+        "name_fr": "Sebt",
+        "name_en": "Sebt"
+      },
+      {
+        "name_ar": "Mellakou",
+        "name_fr": "Mellakou",
+        "name_en": "Mellakou"
+      },
+      {
+        "name_ar": "Dahmouni",
+        "name_fr": "Dahmouni",
+        "name_en": "Dahmouni"
+      },
+      {
+        "name_ar": "Rahouia",
+        "name_fr": "Rahouia",
+        "name_en": "Rahouia"
+      },
+      {
+        "name_ar": "Mahdia",
+        "name_fr": "Mahdia",
+        "name_en": "Mahdia"
+      },
+      {
+        "name_ar": "Sougueur",
+        "name_fr": "Sougueur",
+        "name_en": "Sougueur"
+      },
+      {
+        "name_ar": "Sidi Abdelghani",
+        "name_fr": "Sidi Abdelghani",
+        "name_en": "Sidi Abdelghani"
+      },
+      {
+        "name_ar": "Ain El Hadid",
+        "name_fr": "Ain El Hadid",
+        "name_en": "Ain El Hadid"
+      },
+      {
+        "name_ar": "Ouled Djerad",
+        "name_fr": "Ouled Djerad",
+        "name_en": "Ouled Djerad"
+      },
+      {
+        "name_ar": "Naima",
+        "name_fr": "Naima",
+        "name_en": "Naima"
+      },
+      {
+        "name_ar": "Meghila",
+        "name_fr": "Meghila",
+        "name_en": "Meghila"
+      },
+      {
+        "name_ar": "Guertoufa",
+        "name_fr": "Guertoufa",
+        "name_en": "Guertoufa"
+      },
+      {
+        "name_ar": "Sidi Hosni",
+        "name_fr": "Sidi Hosni",
+        "name_en": "Sidi Hosni"
+      },
+      {
+        "name_ar": "Djillali Ben Amar",
+        "name_fr": "Djillali Ben Amar",
+        "name_en": "Djillali Ben Amar"
+      },
+      {
+        "name_ar": "Sebaine",
+        "name_fr": "Sebaine",
+        "name_en": "Sebaine"
+      },
+      {
+        "name_ar": "Tousnina",
+        "name_fr": "Tousnina",
+        "name_en": "Tousnina"
+      },
+      {
+        "name_ar": "Frenda",
+        "name_fr": "Frenda",
+        "name_en": "Frenda"
+      },
+      {
+        "name_ar": "Ain Kermes",
+        "name_fr": "Ain Kermes",
+        "name_en": "Ain Kermes"
+      },
+      {
+        "name_ar": "Ksar Chellala",
+        "name_fr": "Ksar Chellala",
+        "name_en": "Ksar Chellala"
+      },
+      {
+        "name_ar": "Rechaiga",
+        "name_fr": "Rechaiga",
+        "name_en": "Rechaiga"
+      },
+      {
+        "name_ar": "Nadorah",
+        "name_fr": "Nadorah",
+        "name_en": "Nadorah"
+      },
+      {
+        "name_ar": "Tagdemt",
+        "name_fr": "Tagdemt",
+        "name_en": "Tagdemt"
+      },
+      {
+        "name_ar": "Oued Lilli",
+        "name_fr": "Oued Lilli",
+        "name_en": "Oued Lilli"
+      },
+      {
+        "name_ar": "Mechraa Safa",
+        "name_fr": "Mechraa Safa",
+        "name_en": "Mechraa Safa"
+      },
+      {
+        "name_ar": "Hamadia",
+        "name_fr": "Hamadia",
+        "name_en": "Hamadia"
+      },
+      {
+        "name_ar": "Chehaima",
+        "name_fr": "Chehaima",
+        "name_en": "Chehaima"
+      },
+      {
+        "name_ar": "Takhemaret",
+        "name_fr": "Takhemaret",
+        "name_en": "Takhemaret"
+      },
+      {
+        "name_ar": "Sidi Abderrahmane",
+        "name_fr": "Sidi Abderrahmane",
+        "name_en": "Sidi Abderrahmane"
+      },
+      {
+        "name_ar": "Serghine",
+        "name_fr": "Serghine",
+        "name_en": "Serghine"
+      },
+      {
+        "name_ar": "Bougara",
+        "name_fr": "Bougara",
+        "name_en": "Bougara"
+      },
+      {
+        "name_ar": "Faidja",
+        "name_fr": "Faidja",
+        "name_en": "Faidja"
+      },
+      {
+        "name_ar": "Tidda",
+        "name_fr": "Tidda",
+        "name_en": "Tidda"
+      }
+    ]
+  },
+  "487": {
+    "name_ar": "Tizi Ouzou",
+    "name_fr": "Tizi Ouzou",
+    "name_en": "Tizi Ouzou",
+    "communes": [
+      {
+        "name_ar": "Ain El Hammam",
+        "name_fr": "Ain El Hammam",
+        "name_en": "Ain El Hammam"
+      },
+      {
+        "name_ar": "Akbil",
+        "name_fr": "Akbil",
+        "name_en": "Akbil"
+      },
+      {
+        "name_ar": "Freha",
+        "name_fr": "Freha",
+        "name_en": "Freha"
+      },
+      {
+        "name_ar": "Souamaa",
+        "name_fr": "Souamaa",
+        "name_en": "Souamaa"
+      },
+      {
+        "name_ar": "Mechtrass",
+        "name_fr": "Mechtrass",
+        "name_en": "Mechtrass"
+      },
+      {
+        "name_ar": "Irdjen",
+        "name_fr": "Irdjen",
+        "name_en": "Irdjen"
+      },
+      {
+        "name_ar": "Timizart",
+        "name_fr": "Timizart",
+        "name_en": "Timizart"
+      },
+      {
+        "name_ar": "Makouda",
+        "name_fr": "Makouda",
+        "name_en": "Makouda"
+      },
+      {
+        "name_ar": "Draa El Mizan",
+        "name_fr": "Draa El Mizan",
+        "name_en": "Draa El Mizan"
+      },
+      {
+        "name_ar": "Tizi Ghenif",
+        "name_fr": "Tizi Ghenif",
+        "name_en": "Tizi Ghenif"
+      },
+      {
+        "name_ar": "Bounouh",
+        "name_fr": "Bounouh",
+        "name_en": "Bounouh"
+      },
+      {
+        "name_ar": "Ait Chaffaa",
+        "name_fr": "Ait Chaffaa",
+        "name_en": "Ait Chaffaa"
+      },
+      {
+        "name_ar": "Frikat",
+        "name_fr": "Frikat",
+        "name_en": "Frikat"
+      },
+      {
+        "name_ar": "Beni Aissi",
+        "name_fr": "Beni Aissi",
+        "name_en": "Beni Aissi"
+      },
+      {
+        "name_ar": "Beni Zmenzer",
+        "name_fr": "Beni Zmenzer",
+        "name_en": "Beni Zmenzer"
+      },
+      {
+        "name_ar": "Iferhounene",
+        "name_fr": "Iferhounene",
+        "name_en": "Iferhounene"
+      },
+      {
+        "name_ar": "Azazga",
+        "name_fr": "Azazga",
+        "name_en": "Azazga"
+      },
+      {
+        "name_ar": "Iloula Oumalou",
+        "name_fr": "Iloula Oumalou",
+        "name_en": "Iloula Oumalou"
+      },
+      {
+        "name_ar": "Yakouren",
+        "name_fr": "Yakouren",
+        "name_en": "Yakouren"
+      },
+      {
+        "name_ar": "Larba Nait Irathen",
+        "name_fr": "Larba Nait Irathen",
+        "name_en": "Larba Nait Irathen"
+      },
+      {
+        "name_ar": "Tizi Rached",
+        "name_fr": "Tizi Rached",
+        "name_en": "Tizi Rached"
+      },
+      {
+        "name_ar": "Zekri",
+        "name_fr": "Zekri",
+        "name_en": "Zekri"
+      },
+      {
+        "name_ar": "Ouaguenoun",
+        "name_fr": "Ouaguenoun",
+        "name_en": "Ouaguenoun"
+      },
+      {
+        "name_ar": "Ain Zaouia",
+        "name_fr": "Ain Zaouia",
+        "name_en": "Ain Zaouia"
+      },
+      {
+        "name_ar": "Mkira",
+        "name_fr": "Mkira",
+        "name_en": "Mkira"
+      },
+      {
+        "name_ar": "Ait Yahia",
+        "name_fr": "Ait Yahia",
+        "name_en": "Ait Yahia"
+      },
+      {
+        "name_ar": "Ait Mahmoud",
+        "name_fr": "Ait Mahmoud",
+        "name_en": "Ait Mahmoud"
+      },
+      {
+        "name_ar": "Maatka",
+        "name_fr": "Maatka",
+        "name_en": "Maatka"
+      },
+      {
+        "name_ar": "Ait Boumehdi",
+        "name_fr": "Ait Boumehdi",
+        "name_en": "Ait Boumehdi"
+      },
+      {
+        "name_ar": "Abi Youcef",
+        "name_fr": "Abi Youcef",
+        "name_en": "Abi Youcef"
+      },
+      {
+        "name_ar": "Beni Douala",
+        "name_fr": "Beni Douala",
+        "name_en": "Beni Douala"
+      },
+      {
+        "name_ar": "Illilten",
+        "name_fr": "Illilten",
+        "name_en": "Illilten"
+      },
+      {
+        "name_ar": "Bouzguen",
+        "name_fr": "Bouzguen",
+        "name_en": "Bouzguen"
+      },
+      {
+        "name_ar": "Ait Aggouacha",
+        "name_fr": "Ait Aggouacha",
+        "name_en": "Ait Aggouacha"
+      },
+      {
+        "name_ar": "Ouadhia",
+        "name_fr": "Ouadhia",
+        "name_en": "Ouadhia"
+      },
+      {
+        "name_ar": "Azzefoun",
+        "name_fr": "Azzefoun",
+        "name_en": "Azzefoun"
+      },
+      {
+        "name_ar": "Tigzirt",
+        "name_fr": "Tigzirt",
+        "name_en": "Tigzirt"
+      },
+      {
+        "name_ar": "Ait Aissa Mimoun",
+        "name_fr": "Ait Aissa Mimoun",
+        "name_en": "Ait Aissa Mimoun"
+      },
+      {
+        "name_ar": "Boghni",
+        "name_fr": "Boghni",
+        "name_en": "Boghni"
+      },
+      {
+        "name_ar": "Ifigha",
+        "name_fr": "Ifigha",
+        "name_en": "Ifigha"
+      },
+      {
+        "name_ar": "Ait Oumalou",
+        "name_fr": "Ait Oumalou",
+        "name_en": "Ait Oumalou"
+      },
+      {
+        "name_ar": "Tirmitine",
+        "name_fr": "Tirmitine",
+        "name_en": "Tirmitine"
+      },
+      {
+        "name_ar": "Akerrou",
+        "name_fr": "Akerrou",
+        "name_en": "Akerrou"
+      },
+      {
+        "name_ar": "Yatafen",
+        "name_fr": "Yatafen",
+        "name_en": "Yatafen"
+      },
+      {
+        "name_ar": "Beni Ziki",
+        "name_fr": "Beni Ziki",
+        "name_en": "Beni Ziki"
+      },
+      {
+        "name_ar": "Draa Ben Khedda",
+        "name_fr": "Draa Ben Khedda",
+        "name_en": "Draa Ben Khedda"
+      },
+      {
+        "name_ar": "Ouacif",
+        "name_fr": "Ouacif",
+        "name_en": "Ouacif"
+      },
+      {
+        "name_ar": "Idjeur",
+        "name_fr": "Idjeur",
+        "name_en": "Idjeur"
+      },
+      {
+        "name_ar": "Mekla",
+        "name_fr": "Mekla",
+        "name_en": "Mekla"
+      },
+      {
+        "name_ar": "Tizi Nthlata",
+        "name_fr": "Tizi Nthlata",
+        "name_en": "Tizi Nthlata"
+      },
+      {
+        "name_ar": "Beni Yenni",
+        "name_fr": "Beni Yenni",
+        "name_en": "Beni Yenni"
+      },
+      {
+        "name_ar": "Aghrib",
+        "name_fr": "Aghrib",
+        "name_en": "Aghrib"
+      },
+      {
+        "name_ar": "Iflissen",
+        "name_fr": "Iflissen",
+        "name_en": "Iflissen"
+      },
+      {
+        "name_ar": "Boudjima",
+        "name_fr": "Boudjima",
+        "name_en": "Boudjima"
+      },
+      {
+        "name_ar": "Ait Yahia Moussa",
+        "name_fr": "Ait Yahia Moussa",
+        "name_en": "Ait Yahia Moussa"
+      },
+      {
+        "name_ar": "Souk El Thenine",
+        "name_fr": "Souk El Thenine",
+        "name_en": "Souk El Thenine"
+      },
+      {
+        "name_ar": "Ait Khelil",
+        "name_fr": "Ait Khelil",
+        "name_en": "Ait Khelil"
+      },
+      {
+        "name_ar": "Sidi Naamane",
+        "name_fr": "Sidi Naamane",
+        "name_en": "Sidi Naamane"
+      },
+      {
+        "name_ar": "Iboudraren",
+        "name_fr": "Iboudraren",
+        "name_en": "Iboudraren"
+      },
+      {
+        "name_ar": "Agouni Gueghrane",
+        "name_fr": "Agouni Gueghrane",
+        "name_en": "Agouni Gueghrane"
+      },
+      {
+        "name_ar": "Mizrana",
+        "name_fr": "Mizrana",
+        "name_en": "Mizrana"
+      },
+      {
+        "name_ar": "Imsouhal",
+        "name_fr": "Imsouhal",
+        "name_en": "Imsouhal"
+      },
+      {
+        "name_ar": "Tadmait",
+        "name_fr": "Tadmait",
+        "name_en": "Tadmait"
+      },
+      {
+        "name_ar": "Ait Bouadou",
+        "name_fr": "Ait Bouadou",
+        "name_en": "Ait Bouadou"
+      },
+      {
+        "name_ar": "Assi Youcef",
+        "name_fr": "Assi Youcef",
+        "name_en": "Assi Youcef"
+      },
+      {
+        "name_ar": "Ait Toudert",
+        "name_fr": "Ait Toudert",
+        "name_en": "Ait Toudert"
+      }
+    ]
+  },
+  "611": {
+    "name_ar": "Djelfa",
+    "name_fr": "Djelfa",
+    "name_en": "Djelfa",
+    "communes": [
+      {
+        "name_ar": "Moudjebara",
+        "name_fr": "Moudjebara",
+        "name_en": "Moudjebara"
+      },
+      {
+        "name_ar": "El Guedid",
+        "name_fr": "El Guedid",
+        "name_en": "El Guedid"
+      },
+      {
+        "name_ar": "Hassi Bahbah",
+        "name_fr": "Hassi Bahbah",
+        "name_en": "Hassi Bahbah"
+      },
+      {
+        "name_ar": "Ain Maabed",
+        "name_fr": "Ain Maabed",
+        "name_en": "Ain Maabed"
+      },
+      {
+        "name_ar": "Sed Rahal",
+        "name_fr": "Sed Rahal",
+        "name_en": "Sed Rahal"
+      },
+      {
+        "name_ar": "Feidh El Botma",
+        "name_fr": "Feidh El Botma",
+        "name_en": "Feidh El Botma"
+      },
+      {
+        "name_ar": "Birine",
+        "name_fr": "Birine",
+        "name_en": "Birine"
+      },
+      {
+        "name_ar": "Bouira Lahdeb",
+        "name_fr": "Bouira Lahdeb",
+        "name_en": "Bouira Lahdeb"
+      },
+      {
+        "name_ar": "Zaccar",
+        "name_fr": "Zaccar",
+        "name_en": "Zaccar"
+      },
+      {
+        "name_ar": "El Khemis",
+        "name_fr": "El Khemis",
+        "name_en": "El Khemis"
+      },
+      {
+        "name_ar": "Sidi Baizid",
+        "name_fr": "Sidi Baizid",
+        "name_en": "Sidi Baizid"
+      },
+      {
+        "name_ar": "M'Liliha",
+        "name_fr": "M'Liliha",
+        "name_en": "M'Liliha"
+      },
+      {
+        "name_ar": "El Idrissia",
+        "name_fr": "El Idrissia",
+        "name_en": "El Idrissia"
+      },
+      {
+        "name_ar": "Douis",
+        "name_fr": "Douis",
+        "name_en": "Douis"
+      },
+      {
+        "name_ar": "Hassi El Euch",
+        "name_fr": "Hassi El Euch",
+        "name_en": "Hassi El Euch"
+      },
+      {
+        "name_ar": "Messaad",
+        "name_fr": "Messaad",
+        "name_en": "Messaad"
+      },
+      {
+        "name_ar": "Guettara",
+        "name_fr": "Guettara",
+        "name_en": "Guettara"
+      },
+      {
+        "name_ar": "Sidi Ladjel",
+        "name_fr": "Sidi Ladjel",
+        "name_en": "Sidi Ladjel"
+      },
+      {
+        "name_ar": "Had Sahary",
+        "name_fr": "Had Sahary",
+        "name_en": "Had Sahary"
+      },
+      {
+        "name_ar": "Guernini",
+        "name_fr": "Guernini",
+        "name_en": "Guernini"
+      },
+      {
+        "name_ar": "Selmana",
+        "name_fr": "Selmana",
+        "name_en": "Selmana"
+      },
+      {
+        "name_ar": "Ain Chouhada",
+        "name_fr": "Ain Chouhada",
+        "name_en": "Ain Chouhada"
+      },
+      {
+        "name_ar": "Oum Laadham",
+        "name_fr": "Oum Laadham",
+        "name_en": "Oum Laadham"
+      },
+      {
+        "name_ar": "Dar Chouikh",
+        "name_fr": "Dar Chouikh",
+        "name_en": "Dar Chouikh"
+      },
+      {
+        "name_ar": "Charef",
+        "name_fr": "Charef",
+        "name_en": "Charef"
+      },
+      {
+        "name_ar": "Beni Yacoub",
+        "name_fr": "Beni Yacoub",
+        "name_en": "Beni Yacoub"
+      },
+      {
+        "name_ar": "Zaafrane",
+        "name_fr": "Zaafrane",
+        "name_en": "Zaafrane"
+      },
+      {
+        "name_ar": "Ain El Ibel",
+        "name_fr": "Ain El Ibel",
+        "name_en": "Ain El Ibel"
+      },
+      {
+        "name_ar": "Ain Oussera",
+        "name_fr": "Ain Oussera",
+        "name_en": "Ain Oussera"
+      },
+      {
+        "name_ar": "Benhar",
+        "name_fr": "Benhar",
+        "name_en": "Benhar"
+      },
+      {
+        "name_ar": "Hassi Fedoul",
+        "name_fr": "Hassi Fedoul",
+        "name_en": "Hassi Fedoul"
+      },
+      {
+        "name_ar": "Amourah",
+        "name_fr": "Amourah",
+        "name_en": "Amourah"
+      },
+      {
+        "name_ar": "Ain Fekka",
+        "name_fr": "Ain Fekka",
+        "name_en": "Ain Fekka"
+      },
+      {
+        "name_ar": "Tadmit",
+        "name_fr": "Tadmit",
+        "name_en": "Tadmit"
+      }
+    ]
+  },
+  "647": {
+    "name_ar": "Jijel",
+    "name_fr": "Jijel",
+    "name_en": "Jijel",
+    "communes": [
+      {
+        "name_ar": "Erraguene",
+        "name_fr": "Erraguene",
+        "name_en": "Erraguene"
+      },
+      {
+        "name_ar": "El Aouana",
+        "name_fr": "El Aouana",
+        "name_en": "El Aouana"
+      },
+      {
+        "name_ar": "Ziamma Mansouriah",
+        "name_fr": "Ziamma Mansouriah",
+        "name_en": "Ziamma Mansouriah"
+      },
+      {
+        "name_ar": "Taher",
+        "name_fr": "Taher",
+        "name_en": "Taher"
+      },
+      {
+        "name_ar": "Emir Abdelkader",
+        "name_fr": "Emir Abdelkader",
+        "name_en": "Emir Abdelkader"
+      },
+      {
+        "name_ar": "Chekfa",
+        "name_fr": "Chekfa",
+        "name_en": "Chekfa"
+      },
+      {
+        "name_ar": "Chahna",
+        "name_fr": "Chahna",
+        "name_en": "Chahna"
+      },
+      {
+        "name_ar": "El Milia",
+        "name_fr": "El Milia",
+        "name_en": "El Milia"
+      },
+      {
+        "name_ar": "Sidi Maarouf",
+        "name_fr": "Sidi Maarouf",
+        "name_en": "Sidi Maarouf"
+      },
+      {
+        "name_ar": "Settara",
+        "name_fr": "Settara",
+        "name_en": "Settara"
+      },
+      {
+        "name_ar": "El Ancer",
+        "name_fr": "El Ancer",
+        "name_en": "El Ancer"
+      },
+      {
+        "name_ar": "Sidi Abdelaziz",
+        "name_fr": "Sidi Abdelaziz",
+        "name_en": "Sidi Abdelaziz"
+      },
+      {
+        "name_ar": "Kaous",
+        "name_fr": "Kaous",
+        "name_en": "Kaous"
+      },
+      {
+        "name_ar": "Ghebala",
+        "name_fr": "Ghebala",
+        "name_en": "Ghebala"
+      },
+      {
+        "name_ar": "Bouraoui Belhadef",
+        "name_fr": "Bouraoui Belhadef",
+        "name_en": "Bouraoui Belhadef"
+      },
+      {
+        "name_ar": "Djmila",
+        "name_fr": "Djmila",
+        "name_en": "Djmila"
+      },
+      {
+        "name_ar": "Selma Benziada",
+        "name_fr": "Selma Benziada",
+        "name_en": "Selma Benziada"
+      },
+      {
+        "name_ar": "Boussif Ouled Askeur",
+        "name_fr": "Boussif Ouled Askeur",
+        "name_en": "Boussif Ouled Askeur"
+      },
+      {
+        "name_ar": "El Kennar Nouchfi",
+        "name_fr": "El Kennar Nouchfi",
+        "name_en": "El Kennar Nouchfi"
+      },
+      {
+        "name_ar": "Ouled Yahia Khadrouch",
+        "name_fr": "Ouled Yahia Khadrouch",
+        "name_en": "Ouled Yahia Khadrouch"
+      },
+      {
+        "name_ar": "Boudria Beni Yadjis",
+        "name_fr": "Boudria Beni Yadjis",
+        "name_en": "Boudria Beni Yadjis"
+      },
+      {
+        "name_ar": "Kemir Oued Adjoul",
+        "name_fr": "Kemir Oued Adjoul",
+        "name_en": "Kemir Oued Adjoul"
+      },
+      {
+        "name_ar": "Texena",
+        "name_fr": "Texena",
+        "name_en": "Texena"
+      },
+      {
+        "name_ar": "Djemaa Beni Habibi",
+        "name_fr": "Djemaa Beni Habibi",
+        "name_en": "Djemaa Beni Habibi"
+      },
+      {
+        "name_ar": "Bordj T'her",
+        "name_fr": "Bordj T'her",
+        "name_en": "Bordj T'her"
+      },
+      {
+        "name_ar": "Ouled Rabah",
+        "name_fr": "Ouled Rabah",
+        "name_en": "Ouled Rabah"
+      },
+      {
+        "name_ar": "Ouadjana",
+        "name_fr": "Ouadjana",
+        "name_en": "Ouadjana"
+      }
+    ]
+  },
+  "675": {
+    "name_ar": "Setif",
+    "name_fr": "Setif",
+    "name_en": "Setif",
+    "communes": [
+      {
+        "name_ar": "Ain El Kebira",
+        "name_fr": "Ain El Kebira",
+        "name_en": "Ain El Kebira"
+      },
+      {
+        "name_ar": "Beni Aziz",
+        "name_fr": "Beni Aziz",
+        "name_en": "Beni Aziz"
+      },
+      {
+        "name_ar": "Ouled Sidi Ahmed",
+        "name_fr": "Ouled Sidi Ahmed",
+        "name_en": "Ouled Sidi Ahmed"
+      },
+      {
+        "name_ar": "Boutaleb",
+        "name_fr": "Boutaleb",
+        "name_en": "Boutaleb"
+      },
+      {
+        "name_ar": "Ain Roua",
+        "name_fr": "Ain Roua",
+        "name_en": "Ain Roua"
+      },
+      {
+        "name_ar": "Draa Kebila",
+        "name_fr": "Draa Kebila",
+        "name_en": "Draa Kebila"
+      },
+      {
+        "name_ar": "Bir El Arch",
+        "name_fr": "Bir El Arch",
+        "name_en": "Bir El Arch"
+      },
+      {
+        "name_ar": "Beni Chebana",
+        "name_fr": "Beni Chebana",
+        "name_en": "Beni Chebana"
+      },
+      {
+        "name_ar": "Ouled Tebben",
+        "name_fr": "Ouled Tebben",
+        "name_en": "Ouled Tebben"
+      },
+      {
+        "name_ar": "Hamma",
+        "name_fr": "Hamma",
+        "name_en": "Hamma"
+      },
+      {
+        "name_ar": "Maaouia",
+        "name_fr": "Maaouia",
+        "name_en": "Maaouia"
+      },
+      {
+        "name_ar": "Ain Legraj",
+        "name_fr": "Ain Legraj",
+        "name_en": "Ain Legraj"
+      },
+      {
+        "name_ar": "Ain Abessa",
+        "name_fr": "Ain Abessa",
+        "name_en": "Ain Abessa"
+      },
+      {
+        "name_ar": "Dehamcha",
+        "name_fr": "Dehamcha",
+        "name_en": "Dehamcha"
+      },
+      {
+        "name_ar": "Babor",
+        "name_fr": "Babor",
+        "name_en": "Babor"
+      },
+      {
+        "name_ar": "Guidjel",
+        "name_fr": "Guidjel",
+        "name_en": "Guidjel"
+      },
+      {
+        "name_ar": "Ain Lahdjar",
+        "name_fr": "Ain Lahdjar",
+        "name_en": "Ain Lahdjar"
+      },
+      {
+        "name_ar": "Bousselam",
+        "name_fr": "Bousselam",
+        "name_en": "Bousselam"
+      },
+      {
+        "name_ar": "El Eulma",
+        "name_fr": "El Eulma",
+        "name_en": "El Eulma"
+      },
+      {
+        "name_ar": "Djemila",
+        "name_fr": "Djemila",
+        "name_en": "Djemila"
+      },
+      {
+        "name_ar": "Beni Ouartilane",
+        "name_fr": "Beni Ouartilane",
+        "name_en": "Beni Ouartilane"
+      },
+      {
+        "name_ar": "Rosfa",
+        "name_fr": "Rosfa",
+        "name_en": "Rosfa"
+      },
+      {
+        "name_ar": "Ouled Addouane",
+        "name_fr": "Ouled Addouane",
+        "name_en": "Ouled Addouane"
+      },
+      {
+        "name_ar": "Belaa",
+        "name_fr": "Belaa",
+        "name_en": "Belaa"
+      },
+      {
+        "name_ar": "Ain Arnat",
+        "name_fr": "Ain Arnat",
+        "name_en": "Ain Arnat"
+      },
+      {
+        "name_ar": "Amoucha",
+        "name_fr": "Amoucha",
+        "name_en": "Amoucha"
+      },
+      {
+        "name_ar": "Ain Oulmane",
+        "name_fr": "Ain Oulmane",
+        "name_en": "Ain Oulmane"
+      },
+      {
+        "name_ar": "Beidha Bordj",
+        "name_fr": "Beidha Bordj",
+        "name_en": "Beidha Bordj"
+      },
+      {
+        "name_ar": "Bouandas",
+        "name_fr": "Bouandas",
+        "name_en": "Bouandas"
+      },
+      {
+        "name_ar": "Bazer Sakhra",
+        "name_fr": "Bazer Sakhra",
+        "name_en": "Bazer Sakhra"
+      },
+      {
+        "name_ar": "Hammam Essokhna",
+        "name_fr": "Hammam Essokhna",
+        "name_en": "Hammam Essokhna"
+      },
+      {
+        "name_ar": "Mezloug",
+        "name_fr": "Mezloug",
+        "name_en": "Mezloug"
+      },
+      {
+        "name_ar": "Bir Haddada",
+        "name_fr": "Bir Haddada",
+        "name_en": "Bir Haddada"
+      },
+      {
+        "name_ar": "Serdj El Ghoul",
+        "name_fr": "Serdj El Ghoul",
+        "name_en": "Serdj El Ghoul"
+      },
+      {
+        "name_ar": "Harbil",
+        "name_fr": "Harbil",
+        "name_en": "Harbil"
+      },
+      {
+        "name_ar": "El Ouricia",
+        "name_fr": "El Ouricia",
+        "name_en": "El Ouricia"
+      },
+      {
+        "name_ar": "Tizi Nbechar",
+        "name_fr": "Tizi Nbechar",
+        "name_en": "Tizi Nbechar"
+      },
+      {
+        "name_ar": "Salah Bey",
+        "name_fr": "Salah Bey",
+        "name_en": "Salah Bey"
+      },
+      {
+        "name_ar": "Ain Azal",
+        "name_fr": "Ain Azal",
+        "name_en": "Ain Azal"
+      },
+      {
+        "name_ar": "Guenzet",
+        "name_fr": "Guenzet",
+        "name_en": "Guenzet"
+      },
+      {
+        "name_ar": "Talaifacene",
+        "name_fr": "Talaifacene",
+        "name_en": "Talaifacene"
+      },
+      {
+        "name_ar": "Bougaa",
+        "name_fr": "Bougaa",
+        "name_en": "Bougaa"
+      },
+      {
+        "name_ar": "Beni Fouda",
+        "name_fr": "Beni Fouda",
+        "name_en": "Beni Fouda"
+      },
+      {
+        "name_ar": "Tachouda",
+        "name_fr": "Tachouda",
+        "name_en": "Tachouda"
+      },
+      {
+        "name_ar": "Beni Mouhli",
+        "name_fr": "Beni Mouhli",
+        "name_en": "Beni Mouhli"
+      },
+      {
+        "name_ar": "Ouled Sabor",
+        "name_fr": "Ouled Sabor",
+        "name_en": "Ouled Sabor"
+      },
+      {
+        "name_ar": "Guellal",
+        "name_fr": "Guellal",
+        "name_en": "Guellal"
+      },
+      {
+        "name_ar": "Ain Sebt",
+        "name_fr": "Ain Sebt",
+        "name_en": "Ain Sebt"
+      },
+      {
+        "name_ar": "Hammam Guergour",
+        "name_fr": "Hammam Guergour",
+        "name_en": "Hammam Guergour"
+      },
+      {
+        "name_ar": "Ait Naoual Mezada",
+        "name_fr": "Ait Naoual Mezada",
+        "name_en": "Ait Naoual Mezada"
+      },
+      {
+        "name_ar": "Ksar El Abtal",
+        "name_fr": "Ksar El Abtal",
+        "name_en": "Ksar El Abtal"
+      },
+      {
+        "name_ar": "Beni Hocine",
+        "name_fr": "Beni Hocine",
+        "name_en": "Beni Hocine"
+      },
+      {
+        "name_ar": "Ait Tizi",
+        "name_fr": "Ait Tizi",
+        "name_en": "Ait Tizi"
+      },
+      {
+        "name_ar": "Maouklane",
+        "name_fr": "Maouklane",
+        "name_en": "Maouklane"
+      },
+      {
+        "name_ar": "Guelta Zerka",
+        "name_fr": "Guelta Zerka",
+        "name_en": "Guelta Zerka"
+      },
+      {
+        "name_ar": "Oued El Barad",
+        "name_fr": "Oued El Barad",
+        "name_en": "Oued El Barad"
+      },
+      {
+        "name_ar": "Taya",
+        "name_fr": "Taya",
+        "name_en": "Taya"
+      },
+      {
+        "name_ar": "El Ouldja",
+        "name_fr": "El Ouldja",
+        "name_en": "El Ouldja"
+      },
+      {
+        "name_ar": "Tella",
+        "name_fr": "Tella",
+        "name_en": "Tella"
+      }
+    ]
+  },
+  "735": {
+    "name_ar": "Saida",
+    "name_fr": "Saida",
+    "name_en": "Saida",
+    "communes": [
+      {
+        "name_ar": "Doui Thabet",
+        "name_fr": "Doui Thabet",
+        "name_en": "Doui Thabet"
+      },
+      {
+        "name_ar": "Ain El Hadjar",
+        "name_fr": "Ain El Hadjar",
+        "name_en": "Ain El Hadjar"
+      },
+      {
+        "name_ar": "Ouled Khaled",
+        "name_fr": "Ouled Khaled",
+        "name_en": "Ouled Khaled"
+      },
+      {
+        "name_ar": "Moulay Larbi",
+        "name_fr": "Moulay Larbi",
+        "name_en": "Moulay Larbi"
+      },
+      {
+        "name_ar": "Youb",
+        "name_fr": "Youb",
+        "name_en": "Youb"
+      },
+      {
+        "name_ar": "Hounet",
+        "name_fr": "Hounet",
+        "name_en": "Hounet"
+      },
+      {
+        "name_ar": "Sidi Amar",
+        "name_fr": "Sidi Amar",
+        "name_en": "Sidi Amar"
+      },
+      {
+        "name_ar": "Sidi Boubekeur",
+        "name_fr": "Sidi Boubekeur",
+        "name_en": "Sidi Boubekeur"
+      },
+      {
+        "name_ar": "El Hassasna",
+        "name_fr": "El Hassasna",
+        "name_en": "El Hassasna"
+      },
+      {
+        "name_ar": "Maamora",
+        "name_fr": "Maamora",
+        "name_en": "Maamora"
+      },
+      {
+        "name_ar": "Sidi Ahmed",
+        "name_fr": "Sidi Ahmed",
+        "name_en": "Sidi Ahmed"
+      },
+      {
+        "name_ar": "Ain Sekhouna",
+        "name_fr": "Ain Sekhouna",
+        "name_en": "Ain Sekhouna"
+      },
+      {
+        "name_ar": "Ouled Brahim",
+        "name_fr": "Ouled Brahim",
+        "name_en": "Ouled Brahim"
+      },
+      {
+        "name_ar": "Tircine",
+        "name_fr": "Tircine",
+        "name_en": "Tircine"
+      },
+      {
+        "name_ar": "Ain Soltane",
+        "name_fr": "Ain Soltane",
+        "name_en": "Ain Soltane"
+      }
+    ]
+  },
+  "751": {
+    "name_ar": "Skikda",
+    "name_fr": "Skikda",
+    "name_en": "Skikda",
+    "communes": [
+      {
+        "name_ar": "Ain Zouit",
+        "name_fr": "Ain Zouit",
+        "name_en": "Ain Zouit"
+      },
+      {
+        "name_ar": "El Hadaik",
+        "name_fr": "El Hadaik",
+        "name_en": "El Hadaik"
+      },
+      {
+        "name_ar": "Azzaba",
+        "name_fr": "Azzaba",
+        "name_en": "Azzaba"
+      },
+      {
+        "name_ar": "Djendel",
+        "name_fr": "Djendel",
+        "name_en": "Djendel"
+      },
+      {
+        "name_ar": "Ain Cherchar",
+        "name_fr": "Ain Cherchar",
+        "name_en": "Ain Cherchar"
+      },
+      {
+        "name_ar": "Bekkouche Lakhdar",
+        "name_fr": "Bekkouche Lakhdar",
+        "name_en": "Bekkouche Lakhdar"
+      },
+      {
+        "name_ar": "Ben Azzouz",
+        "name_fr": "Ben Azzouz",
+        "name_en": "Ben Azzouz"
+      },
+      {
+        "name_ar": "Es Sebt",
+        "name_fr": "Es Sebt",
+        "name_en": "Es Sebt"
+      },
+      {
+        "name_ar": "Collo",
+        "name_fr": "Collo",
+        "name_en": "Collo"
+      },
+      {
+        "name_ar": "Beni Zid",
+        "name_fr": "Beni Zid",
+        "name_en": "Beni Zid"
+      },
+      {
+        "name_ar": "Kerkera",
+        "name_fr": "Kerkera",
+        "name_en": "Kerkera"
+      },
+      {
+        "name_ar": "Ouled Attia",
+        "name_fr": "Ouled Attia",
+        "name_en": "Ouled Attia"
+      },
+      {
+        "name_ar": "Oued Zehour",
+        "name_fr": "Oued Zehour",
+        "name_en": "Oued Zehour"
+      },
+      {
+        "name_ar": "Zitouna",
+        "name_fr": "Zitouna",
+        "name_en": "Zitouna"
+      },
+      {
+        "name_ar": "El Harrouch",
+        "name_fr": "El Harrouch",
+        "name_en": "El Harrouch"
+      },
+      {
+        "name_ar": "Zerdazas",
+        "name_fr": "Zerdazas",
+        "name_en": "Zerdazas"
+      },
+      {
+        "name_ar": "Ouled Hebaba",
+        "name_fr": "Ouled Hebaba",
+        "name_en": "Ouled Hebaba"
+      },
+      {
+        "name_ar": "Sidi Mezghiche",
+        "name_fr": "Sidi Mezghiche",
+        "name_en": "Sidi Mezghiche"
+      },
+      {
+        "name_ar": "Emdjez Edchich",
+        "name_fr": "Emdjez Edchich",
+        "name_en": "Emdjez Edchich"
+      },
+      {
+        "name_ar": "Beni Oulbane",
+        "name_fr": "Beni Oulbane",
+        "name_en": "Beni Oulbane"
+      },
+      {
+        "name_ar": "Ain Bouziane",
+        "name_fr": "Ain Bouziane",
+        "name_en": "Ain Bouziane"
+      },
+      {
+        "name_ar": "Ramdane Djamel",
+        "name_fr": "Ramdane Djamel",
+        "name_en": "Ramdane Djamel"
+      },
+      {
+        "name_ar": "Beni Bachir",
+        "name_fr": "Beni Bachir",
+        "name_en": "Beni Bachir"
+      },
+      {
+        "name_ar": "Salah Bouchaour",
+        "name_fr": "Salah Bouchaour",
+        "name_en": "Salah Bouchaour"
+      },
+      {
+        "name_ar": "Tamalous",
+        "name_fr": "Tamalous",
+        "name_en": "Tamalous"
+      },
+      {
+        "name_ar": "Ain Kechra",
+        "name_fr": "Ain Kechra",
+        "name_en": "Ain Kechra"
+      },
+      {
+        "name_ar": "Oum Toub",
+        "name_fr": "Oum Toub",
+        "name_en": "Oum Toub"
+      },
+      {
+        "name_ar": "Bein El Ouiden",
+        "name_fr": "Bein El Ouiden",
+        "name_en": "Bein El Ouiden"
+      },
+      {
+        "name_ar": "Filfila",
+        "name_fr": "Filfila",
+        "name_en": "Filfila"
+      },
+      {
+        "name_ar": "Cheraia",
+        "name_fr": "Cheraia",
+        "name_en": "Cheraia"
+      },
+      {
+        "name_ar": "Kanoua",
+        "name_fr": "Kanoua",
+        "name_en": "Kanoua"
+      },
+      {
+        "name_ar": "El Ghedir",
+        "name_fr": "El Ghedir",
+        "name_en": "El Ghedir"
+      },
+      {
+        "name_ar": "Bouchtata",
+        "name_fr": "Bouchtata",
+        "name_en": "Bouchtata"
+      },
+      {
+        "name_ar": "Ouldja Boulbalout",
+        "name_fr": "Ouldja Boulbalout",
+        "name_en": "Ouldja Boulbalout"
+      },
+      {
+        "name_ar": "Kheneg Mayoum",
+        "name_fr": "Kheneg Mayoum",
+        "name_en": "Kheneg Mayoum"
+      },
+      {
+        "name_ar": "Hamadi Krouma",
+        "name_fr": "Hamadi Krouma",
+        "name_en": "Hamadi Krouma"
+      },
+      {
+        "name_ar": "El Marsa",
+        "name_fr": "El Marsa",
+        "name_en": "El Marsa"
+      }
+    ]
+  },
+  "789": {
+    "name_ar": "Sidi Bel Abbes",
+    "name_fr": "Sidi Bel Abbes",
+    "name_en": "Sidi Bel Abbes",
+    "communes": [
+      {
+        "name_ar": "Tessala",
+        "name_fr": "Tessala",
+        "name_en": "Tessala"
+      },
+      {
+        "name_ar": "Sidi Brahim",
+        "name_fr": "Sidi Brahim",
+        "name_en": "Sidi Brahim"
+      },
+      {
+        "name_ar": "Mostefa Ben Brahim",
+        "name_fr": "Mostefa Ben Brahim",
+        "name_en": "Mostefa Ben Brahim"
+      },
+      {
+        "name_ar": "Telagh",
+        "name_fr": "Telagh",
+        "name_en": "Telagh"
+      },
+      {
+        "name_ar": "Mezaourou",
+        "name_fr": "Mezaourou",
+        "name_en": "Mezaourou"
+      },
+      {
+        "name_ar": "Boukhanafis",
+        "name_fr": "Boukhanafis",
+        "name_en": "Boukhanafis"
+      },
+      {
+        "name_ar": "Sidi Ali Boussidi",
+        "name_fr": "Sidi Ali Boussidi",
+        "name_en": "Sidi Ali Boussidi"
+      },
+      {
+        "name_ar": "Badredine El Mokrani",
+        "name_fr": "Badredine El Mokrani",
+        "name_en": "Badredine El Mokrani"
+      },
+      {
+        "name_ar": "Marhoum",
+        "name_fr": "Marhoum",
+        "name_en": "Marhoum"
+      },
+      {
+        "name_ar": "Tafissour",
+        "name_fr": "Tafissour",
+        "name_en": "Tafissour"
+      },
+      {
+        "name_ar": "Amarnas",
+        "name_fr": "Amarnas",
+        "name_en": "Amarnas"
+      },
+      {
+        "name_ar": "Tilmouni",
+        "name_fr": "Tilmouni",
+        "name_en": "Tilmouni"
+      },
+      {
+        "name_ar": "Sidi Lahcene",
+        "name_fr": "Sidi Lahcene",
+        "name_en": "Sidi Lahcene"
+      },
+      {
+        "name_ar": "Ain Thrid",
+        "name_fr": "Ain Thrid",
+        "name_en": "Ain Thrid"
+      },
+      {
+        "name_ar": "Makedra",
+        "name_fr": "Makedra",
+        "name_en": "Makedra"
+      },
+      {
+        "name_ar": "Tenira",
+        "name_fr": "Tenira",
+        "name_en": "Tenira"
+      },
+      {
+        "name_ar": "Moulay Slissen",
+        "name_fr": "Moulay Slissen",
+        "name_en": "Moulay Slissen"
+      },
+      {
+        "name_ar": "El Hacaiba",
+        "name_fr": "El Hacaiba",
+        "name_en": "El Hacaiba"
+      },
+      {
+        "name_ar": "Hassi Zehana",
+        "name_fr": "Hassi Zehana",
+        "name_en": "Hassi Zehana"
+      },
+      {
+        "name_ar": "Tabia",
+        "name_fr": "Tabia",
+        "name_en": "Tabia"
+      },
+      {
+        "name_ar": "Merine",
+        "name_fr": "Merine",
+        "name_en": "Merine"
+      },
+      {
+        "name_ar": "Ras El Ma",
+        "name_fr": "Ras El Ma",
+        "name_en": "Ras El Ma"
+      },
+      {
+        "name_ar": "Ain Tindamine",
+        "name_fr": "Ain Tindamine",
+        "name_en": "Ain Tindamine"
+      },
+      {
+        "name_ar": "Ain Kada",
+        "name_fr": "Ain Kada",
+        "name_en": "Ain Kada"
+      },
+      {
+        "name_ar": "Mcid",
+        "name_fr": "Mcid",
+        "name_en": "Mcid"
+      },
+      {
+        "name_ar": "Ain El Berd",
+        "name_fr": "Ain El Berd",
+        "name_en": "Ain El Berd"
+      },
+      {
+        "name_ar": "Sfissef",
+        "name_fr": "Sfissef",
+        "name_en": "Sfissef"
+      },
+      {
+        "name_ar": "Ain Adden",
+        "name_fr": "Ain Adden",
+        "name_en": "Ain Adden"
+      },
+      {
+        "name_ar": "Oued Taourira",
+        "name_fr": "Oued Taourira",
+        "name_en": "Oued Taourira"
+      },
+      {
+        "name_ar": "Dhaya",
+        "name_fr": "Dhaya",
+        "name_en": "Dhaya"
+      },
+      {
+        "name_ar": "Zerouala",
+        "name_fr": "Zerouala",
+        "name_en": "Zerouala"
+      },
+      {
+        "name_ar": "Lamtar",
+        "name_fr": "Lamtar",
+        "name_en": "Lamtar"
+      },
+      {
+        "name_ar": "Sidi Chaib",
+        "name_fr": "Sidi Chaib",
+        "name_en": "Sidi Chaib"
+      },
+      {
+        "name_ar": "Sidi Dahou",
+        "name_fr": "Sidi Dahou",
+        "name_en": "Sidi Dahou"
+      },
+      {
+        "name_ar": "Oued Sbaa",
+        "name_fr": "Oued Sbaa",
+        "name_en": "Oued Sbaa"
+      },
+      {
+        "name_ar": "Boudjebaa El Bordj",
+        "name_fr": "Boudjebaa El Bordj",
+        "name_en": "Boudjebaa El Bordj"
+      },
+      {
+        "name_ar": "Sehala Thaoura",
+        "name_fr": "Sehala Thaoura",
+        "name_en": "Sehala Thaoura"
+      },
+      {
+        "name_ar": "Sidi Yacoub",
+        "name_fr": "Sidi Yacoub",
+        "name_en": "Sidi Yacoub"
+      },
+      {
+        "name_ar": "Sidi Hamadouche",
+        "name_fr": "Sidi Hamadouche",
+        "name_en": "Sidi Hamadouche"
+      },
+      {
+        "name_ar": "Belarbi",
+        "name_fr": "Belarbi",
+        "name_en": "Belarbi"
+      },
+      {
+        "name_ar": "Oued Sefioun",
+        "name_fr": "Oued Sefioun",
+        "name_en": "Oued Sefioun"
+      },
+      {
+        "name_ar": "Teghalimet",
+        "name_fr": "Teghalimet",
+        "name_en": "Teghalimet"
+      },
+      {
+        "name_ar": "Ben Badis",
+        "name_fr": "Ben Badis",
+        "name_en": "Ben Badis"
+      },
+      {
+        "name_ar": "Sidi Ali Benyoub",
+        "name_fr": "Sidi Ali Benyoub",
+        "name_en": "Sidi Ali Benyoub"
+      },
+      {
+        "name_ar": "Chetouane Belaila",
+        "name_fr": "Chetouane Belaila",
+        "name_en": "Chetouane Belaila"
+      },
+      {
+        "name_ar": "Bir El Hammam",
+        "name_fr": "Bir El Hammam",
+        "name_en": "Bir El Hammam"
+      },
+      {
+        "name_ar": "Taoudmout",
+        "name_fr": "Taoudmout",
+        "name_en": "Taoudmout"
+      },
+      {
+        "name_ar": "Redjem Demouche",
+        "name_fr": "Redjem Demouche",
+        "name_en": "Redjem Demouche"
+      },
+      {
+        "name_ar": "Benachiba Chelia",
+        "name_fr": "Benachiba Chelia",
+        "name_en": "Benachiba Chelia"
+      },
+      {
+        "name_ar": "Hassi Dahou",
+        "name_fr": "Hassi Dahou",
+        "name_en": "Hassi Dahou"
+      }
+    ]
+  },
+  "841": {
+    "name_ar": "Annaba",
+    "name_fr": "Annaba",
+    "name_en": "Annaba",
+    "communes": [
+      {
+        "name_ar": "Berrahel",
+        "name_fr": "Berrahel",
+        "name_en": "Berrahel"
+      },
+      {
+        "name_ar": "El Hadjar",
+        "name_fr": "El Hadjar",
+        "name_en": "El Hadjar"
+      },
+      {
+        "name_ar": "Eulma",
+        "name_fr": "Eulma",
+        "name_en": "Eulma"
+      },
+      {
+        "name_ar": "El Bouni",
+        "name_fr": "El Bouni",
+        "name_en": "El Bouni"
+      },
+      {
+        "name_ar": "Oued El Aneb",
+        "name_fr": "Oued El Aneb",
+        "name_en": "Oued El Aneb"
+      },
+      {
+        "name_ar": "Cheurfa",
+        "name_fr": "Cheurfa",
+        "name_en": "Cheurfa"
+      },
+      {
+        "name_ar": "Seraidi",
+        "name_fr": "Seraidi",
+        "name_en": "Seraidi"
+      },
+      {
+        "name_ar": "Ain Berda",
+        "name_fr": "Ain Berda",
+        "name_en": "Ain Berda"
+      },
+      {
+        "name_ar": "Chetaibi",
+        "name_fr": "Chetaibi",
+        "name_en": "Chetaibi"
+      },
+      {
+        "name_ar": "Sidi Amer",
+        "name_fr": "Sidi Amer",
+        "name_en": "Sidi Amer"
+      },
+      {
+        "name_ar": "Treat",
+        "name_fr": "Treat",
+        "name_en": "Treat"
+      }
+    ]
+  },
+  "853": {
+    "name_ar": "Guelma",
+    "name_fr": "Guelma",
+    "name_en": "Guelma",
+    "communes": [
+      {
+        "name_ar": "Nechmaya",
+        "name_fr": "Nechmaya",
+        "name_en": "Nechmaya"
+      },
+      {
+        "name_ar": "Bouati Mahmoud",
+        "name_fr": "Bouati Mahmoud",
+        "name_en": "Bouati Mahmoud"
+      },
+      {
+        "name_ar": "Oued Zenati",
+        "name_fr": "Oued Zenati",
+        "name_en": "Oued Zenati"
+      },
+      {
+        "name_ar": "Tamlouka",
+        "name_fr": "Tamlouka",
+        "name_en": "Tamlouka"
+      },
+      {
+        "name_ar": "Oued Fragha",
+        "name_fr": "Oued Fragha",
+        "name_en": "Oued Fragha"
+      },
+      {
+        "name_ar": "Ain Sandel",
+        "name_fr": "Ain Sandel",
+        "name_en": "Ain Sandel"
+      },
+      {
+        "name_ar": "Ras El Agba",
+        "name_fr": "Ras El Agba",
+        "name_en": "Ras El Agba"
+      },
+      {
+        "name_ar": "Dahouara",
+        "name_fr": "Dahouara",
+        "name_en": "Dahouara"
+      },
+      {
+        "name_ar": "Belkhir",
+        "name_fr": "Belkhir",
+        "name_en": "Belkhir"
+      },
+      {
+        "name_ar": "Ben Djarah",
+        "name_fr": "Ben Djarah",
+        "name_en": "Ben Djarah"
+      },
+      {
+        "name_ar": "Bou Hamdane",
+        "name_fr": "Bou Hamdane",
+        "name_en": "Bou Hamdane"
+      },
+      {
+        "name_ar": "Ain Makhlouf",
+        "name_fr": "Ain Makhlouf",
+        "name_en": "Ain Makhlouf"
+      },
+      {
+        "name_ar": "Ain Ben Beida",
+        "name_fr": "Ain Ben Beida",
+        "name_en": "Ain Ben Beida"
+      },
+      {
+        "name_ar": "Khezara",
+        "name_fr": "Khezara",
+        "name_en": "Khezara"
+      },
+      {
+        "name_ar": "Beni Mezline",
+        "name_fr": "Beni Mezline",
+        "name_en": "Beni Mezline"
+      },
+      {
+        "name_ar": "Bou Hachana",
+        "name_fr": "Bou Hachana",
+        "name_en": "Bou Hachana"
+      },
+      {
+        "name_ar": "Guelaat Bou Sbaa",
+        "name_fr": "Guelaat Bou Sbaa",
+        "name_en": "Guelaat Bou Sbaa"
+      },
+      {
+        "name_ar": "Hammam Maskhoutine",
+        "name_fr": "Hammam Maskhoutine",
+        "name_en": "Hammam Maskhoutine"
+      },
+      {
+        "name_ar": "El Fedjoudj",
+        "name_fr": "El Fedjoudj",
+        "name_en": "El Fedjoudj"
+      },
+      {
+        "name_ar": "Bordj Sabat",
+        "name_fr": "Bordj Sabat",
+        "name_en": "Bordj Sabat"
+      },
+      {
+        "name_ar": "Hamman Nbail",
+        "name_fr": "Hamman Nbail",
+        "name_en": "Hamman Nbail"
+      },
+      {
+        "name_ar": "Ain Larbi",
+        "name_fr": "Ain Larbi",
+        "name_en": "Ain Larbi"
+      },
+      {
+        "name_ar": "Medjez Amar",
+        "name_fr": "Medjez Amar",
+        "name_en": "Medjez Amar"
+      },
+      {
+        "name_ar": "Bouchegouf",
+        "name_fr": "Bouchegouf",
+        "name_en": "Bouchegouf"
+      },
+      {
+        "name_ar": "Heliopolis",
+        "name_fr": "Heliopolis",
+        "name_en": "Heliopolis"
+      },
+      {
+        "name_ar": "Houari Boumediene",
+        "name_fr": "Houari Boumediene",
+        "name_en": "Houari Boumediene"
+      },
+      {
+        "name_ar": "Roknia",
+        "name_fr": "Roknia",
+        "name_en": "Roknia"
+      },
+      {
+        "name_ar": "Salaoua Announa",
+        "name_fr": "Salaoua Announa",
+        "name_en": "Salaoua Announa"
+      },
+      {
+        "name_ar": "Medjez Sfa",
+        "name_fr": "Medjez Sfa",
+        "name_en": "Medjez Sfa"
+      },
+      {
+        "name_ar": "Boumahra Ahmed",
+        "name_fr": "Boumahra Ahmed",
+        "name_en": "Boumahra Ahmed"
+      },
+      {
+        "name_ar": "Ain Reggada",
+        "name_fr": "Ain Reggada",
+        "name_en": "Ain Reggada"
+      },
+      {
+        "name_ar": "Oued Cheham",
+        "name_fr": "Oued Cheham",
+        "name_en": "Oued Cheham"
+      },
+      {
+        "name_ar": "Djeballah Khemissi",
+        "name_fr": "Djeballah Khemissi",
+        "name_en": "Djeballah Khemissi"
+      }
+    ]
+  },
+  "887": {
+    "name_ar": "Constantine",
+    "name_fr": "Constantine",
+    "name_en": "Constantine",
+    "communes": [
+      {
+        "name_ar": "Hamma Bouziane",
+        "name_fr": "Hamma Bouziane",
+        "name_en": "Hamma Bouziane"
+      },
+      {
+        "name_ar": "Ibn Badis",
+        "name_fr": "Ibn Badis",
+        "name_en": "Ibn Badis"
+      },
+      {
+        "name_ar": "Zighoud Youcef",
+        "name_fr": "Zighoud Youcef",
+        "name_en": "Zighoud Youcef"
+      },
+      {
+        "name_ar": "Didouche Mourad",
+        "name_fr": "Didouche Mourad",
+        "name_en": "Didouche Mourad"
+      },
+      {
+        "name_ar": "El Khroub",
+        "name_fr": "El Khroub",
+        "name_en": "El Khroub"
+      },
+      {
+        "name_ar": "Ain Abid",
+        "name_fr": "Ain Abid",
+        "name_en": "Ain Abid"
+      },
+      {
+        "name_ar": "Beni Hamiden",
+        "name_fr": "Beni Hamiden",
+        "name_en": "Beni Hamiden"
+      },
+      {
+        "name_ar": "Ouled Rahmoune",
+        "name_fr": "Ouled Rahmoune",
+        "name_en": "Ouled Rahmoune"
+      },
+      {
+        "name_ar": "Ain Smara",
+        "name_fr": "Ain Smara",
+        "name_en": "Ain Smara"
+      },
+      {
+        "name_ar": "Mesaoud Boudjeriou",
+        "name_fr": "Mesaoud Boudjeriou",
+        "name_en": "Mesaoud Boudjeriou"
+      },
+      {
+        "name_ar": "Ibn Ziad",
+        "name_fr": "Ibn Ziad",
+        "name_en": "Ibn Ziad"
+      }
+    ]
+  },
+  "899": {
+    "name_ar": "Medea",
+    "name_fr": "Medea",
+    "name_en": "Medea",
+    "communes": [
+      {
+        "name_ar": "Ouzera",
+        "name_fr": "Ouzera",
+        "name_en": "Ouzera"
+      },
+      {
+        "name_ar": "Ouled Maaref",
+        "name_fr": "Ouled Maaref",
+        "name_en": "Ouled Maaref"
+      },
+      {
+        "name_ar": "Ain Boucif",
+        "name_fr": "Ain Boucif",
+        "name_en": "Ain Boucif"
+      },
+      {
+        "name_ar": "Aissaouia",
+        "name_fr": "Aissaouia",
+        "name_en": "Aissaouia"
+      },
+      {
+        "name_ar": "Ouled Deide",
+        "name_fr": "Ouled Deide",
+        "name_en": "Ouled Deide"
+      },
+      {
+        "name_ar": "El Omaria",
+        "name_fr": "El Omaria",
+        "name_en": "El Omaria"
+      },
+      {
+        "name_ar": "Derrag",
+        "name_fr": "Derrag",
+        "name_en": "Derrag"
+      },
+      {
+        "name_ar": "El Guelbelkebir",
+        "name_fr": "El Guelbelkebir",
+        "name_en": "El Guelbelkebir"
+      },
+      {
+        "name_ar": "Bouaiche",
+        "name_fr": "Bouaiche",
+        "name_en": "Bouaiche"
+      },
+      {
+        "name_ar": "Mezerena",
+        "name_fr": "Mezerena",
+        "name_en": "Mezerena"
+      },
+      {
+        "name_ar": "Ouled Brahim",
+        "name_fr": "Ouled Brahim",
+        "name_en": "Ouled Brahim"
+      },
+      {
+        "name_ar": "Tizi Mahdi",
+        "name_fr": "Tizi Mahdi",
+        "name_en": "Tizi Mahdi"
+      },
+      {
+        "name_ar": "Sidi Ziane",
+        "name_fr": "Sidi Ziane",
+        "name_en": "Sidi Ziane"
+      },
+      {
+        "name_ar": "Tamesguida",
+        "name_fr": "Tamesguida",
+        "name_en": "Tamesguida"
+      },
+      {
+        "name_ar": "El Hamdania",
+        "name_fr": "El Hamdania",
+        "name_en": "El Hamdania"
+      },
+      {
+        "name_ar": "Kef Lakhdar",
+        "name_fr": "Kef Lakhdar",
+        "name_en": "Kef Lakhdar"
+      },
+      {
+        "name_ar": "Chelalet El Adhaoura",
+        "name_fr": "Chelalet El Adhaoura",
+        "name_en": "Chelalet El Adhaoura"
+      },
+      {
+        "name_ar": "Bouskene",
+        "name_fr": "Bouskene",
+        "name_en": "Bouskene"
+      },
+      {
+        "name_ar": "Rebaia",
+        "name_fr": "Rebaia",
+        "name_en": "Rebaia"
+      },
+      {
+        "name_ar": "Bouchrahil",
+        "name_fr": "Bouchrahil",
+        "name_en": "Bouchrahil"
+      },
+      {
+        "name_ar": "Ouled Hellal",
+        "name_fr": "Ouled Hellal",
+        "name_en": "Ouled Hellal"
+      },
+      {
+        "name_ar": "Tafraout",
+        "name_fr": "Tafraout",
+        "name_en": "Tafraout"
+      },
+      {
+        "name_ar": "Baata",
+        "name_fr": "Baata",
+        "name_en": "Baata"
+      },
+      {
+        "name_ar": "Boghar",
+        "name_fr": "Boghar",
+        "name_en": "Boghar"
+      },
+      {
+        "name_ar": "Sidi Naamane",
+        "name_fr": "Sidi Naamane",
+        "name_en": "Sidi Naamane"
+      },
+      {
+        "name_ar": "Ouled Bouachra",
+        "name_fr": "Ouled Bouachra",
+        "name_en": "Ouled Bouachra"
+      },
+      {
+        "name_ar": "Sidi Zahar",
+        "name_fr": "Sidi Zahar",
+        "name_en": "Sidi Zahar"
+      },
+      {
+        "name_ar": "Oued Harbil",
+        "name_fr": "Oued Harbil",
+        "name_en": "Oued Harbil"
+      },
+      {
+        "name_ar": "Benchicao",
+        "name_fr": "Benchicao",
+        "name_en": "Benchicao"
+      },
+      {
+        "name_ar": "Sidi Damed",
+        "name_fr": "Sidi Damed",
+        "name_en": "Sidi Damed"
+      },
+      {
+        "name_ar": "Aziz",
+        "name_fr": "Aziz",
+        "name_en": "Aziz"
+      },
+      {
+        "name_ar": "Souagui",
+        "name_fr": "Souagui",
+        "name_en": "Souagui"
+      },
+      {
+        "name_ar": "Zoubiria",
+        "name_fr": "Zoubiria",
+        "name_en": "Zoubiria"
+      },
+      {
+        "name_ar": "Ksar El Boukhari",
+        "name_fr": "Ksar El Boukhari",
+        "name_en": "Ksar El Boukhari"
+      },
+      {
+        "name_ar": "El Azizia",
+        "name_fr": "El Azizia",
+        "name_en": "El Azizia"
+      },
+      {
+        "name_ar": "Djouab",
+        "name_fr": "Djouab",
+        "name_en": "Djouab"
+      },
+      {
+        "name_ar": "Chahbounia",
+        "name_fr": "Chahbounia",
+        "name_en": "Chahbounia"
+      },
+      {
+        "name_ar": "Meghraoua",
+        "name_fr": "Meghraoua",
+        "name_en": "Meghraoua"
+      },
+      {
+        "name_ar": "Cheniguel",
+        "name_fr": "Cheniguel",
+        "name_en": "Cheniguel"
+      },
+      {
+        "name_ar": "Ain Ouksir",
+        "name_fr": "Ain Ouksir",
+        "name_en": "Ain Ouksir"
+      },
+      {
+        "name_ar": "Oum El Djalil",
+        "name_fr": "Oum El Djalil",
+        "name_en": "Oum El Djalil"
+      },
+      {
+        "name_ar": "Ouamri",
+        "name_fr": "Ouamri",
+        "name_en": "Ouamri"
+      },
+      {
+        "name_ar": "Si Mahdjoub",
+        "name_fr": "Si Mahdjoub",
+        "name_en": "Si Mahdjoub"
+      },
+      {
+        "name_ar": "Tlatet Eddouair",
+        "name_fr": "Tlatet Eddouair",
+        "name_en": "Tlatet Eddouair"
+      },
+      {
+        "name_ar": "Beni Slimane",
+        "name_fr": "Beni Slimane",
+        "name_en": "Beni Slimane"
+      },
+      {
+        "name_ar": "Berrouaghia",
+        "name_fr": "Berrouaghia",
+        "name_en": "Berrouaghia"
+      },
+      {
+        "name_ar": "Seghouane",
+        "name_fr": "Seghouane",
+        "name_en": "Seghouane"
+      },
+      {
+        "name_ar": "Meftaha",
+        "name_fr": "Meftaha",
+        "name_en": "Meftaha"
+      },
+      {
+        "name_ar": "Mihoub",
+        "name_fr": "Mihoub",
+        "name_en": "Mihoub"
+      },
+      {
+        "name_ar": "Boughezoul",
+        "name_fr": "Boughezoul",
+        "name_en": "Boughezoul"
+      },
+      {
+        "name_ar": "Tablat",
+        "name_fr": "Tablat",
+        "name_en": "Tablat"
+      },
+      {
+        "name_ar": "Deux Bassins",
+        "name_fr": "Deux Bassins",
+        "name_en": "Deux Bassins"
+      },
+      {
+        "name_ar": "Draa Essamar",
+        "name_fr": "Draa Essamar",
+        "name_en": "Draa Essamar"
+      },
+      {
+        "name_ar": "Sidi Errabia",
+        "name_fr": "Sidi Errabia",
+        "name_en": "Sidi Errabia"
+      },
+      {
+        "name_ar": "Bir Ben Laabed",
+        "name_fr": "Bir Ben Laabed",
+        "name_en": "Bir Ben Laabed"
+      },
+      {
+        "name_ar": "El Ouinet",
+        "name_fr": "El Ouinet",
+        "name_en": "El Ouinet"
+      },
+      {
+        "name_ar": "Ouled Antar",
+        "name_fr": "Ouled Antar",
+        "name_en": "Ouled Antar"
+      },
+      {
+        "name_ar": "Bouaichoune",
+        "name_fr": "Bouaichoune",
+        "name_en": "Bouaichoune"
+      },
+      {
+        "name_ar": "Hannacha",
+        "name_fr": "Hannacha",
+        "name_en": "Hannacha"
+      },
+      {
+        "name_ar": "Sedraia",
+        "name_fr": "Sedraia",
+        "name_en": "Sedraia"
+      },
+      {
+        "name_ar": "Medjebar",
+        "name_fr": "Medjebar",
+        "name_en": "Medjebar"
+      },
+      {
+        "name_ar": "Khams Djouamaa",
+        "name_fr": "Khams Djouamaa",
+        "name_en": "Khams Djouamaa"
+      },
+      {
+        "name_ar": "Saneg",
+        "name_fr": "Saneg",
+        "name_en": "Saneg"
+      }
+    ]
+  },
+  "963": {
+    "name_ar": "Mostaganem",
+    "name_fr": "Mostaganem",
+    "name_en": "Mostaganem",
+    "communes": [
+      {
+        "name_ar": "Sayada",
+        "name_fr": "Sayada",
+        "name_en": "Sayada"
+      },
+      {
+        "name_ar": "Fornaka",
+        "name_fr": "Fornaka",
+        "name_en": "Fornaka"
+      },
+      {
+        "name_ar": "Stidia",
+        "name_fr": "Stidia",
+        "name_en": "Stidia"
+      },
+      {
+        "name_ar": "Ain Nouissy",
+        "name_fr": "Ain Nouissy",
+        "name_en": "Ain Nouissy"
+      },
+      {
+        "name_ar": "Hassi Maameche",
+        "name_fr": "Hassi Maameche",
+        "name_en": "Hassi Maameche"
+      },
+      {
+        "name_ar": "Ain Tadles",
+        "name_fr": "Ain Tadles",
+        "name_en": "Ain Tadles"
+      },
+      {
+        "name_ar": "Sour",
+        "name_fr": "Sour",
+        "name_en": "Sour"
+      },
+      {
+        "name_ar": "Oued El Kheir",
+        "name_fr": "Oued El Kheir",
+        "name_en": "Oued El Kheir"
+      },
+      {
+        "name_ar": "Sidi Bellater",
+        "name_fr": "Sidi Bellater",
+        "name_en": "Sidi Bellater"
+      },
+      {
+        "name_ar": "Kheiredine",
+        "name_fr": "Kheiredine",
+        "name_en": "Kheiredine"
+      },
+      {
+        "name_ar": "Sidi Ali",
+        "name_fr": "Sidi Ali",
+        "name_en": "Sidi Ali"
+      },
+      {
+        "name_ar": "Abdelmalek Ramdane",
+        "name_fr": "Abdelmalek Ramdane",
+        "name_en": "Abdelmalek Ramdane"
+      },
+      {
+        "name_ar": "Hadjadj",
+        "name_fr": "Hadjadj",
+        "name_en": "Hadjadj"
+      },
+      {
+        "name_ar": "Nekmaria",
+        "name_fr": "Nekmaria",
+        "name_en": "Nekmaria"
+      },
+      {
+        "name_ar": "Sidi Lakhdar",
+        "name_fr": "Sidi Lakhdar",
+        "name_en": "Sidi Lakhdar"
+      },
+      {
+        "name_ar": "Achaacha",
+        "name_fr": "Achaacha",
+        "name_en": "Achaacha"
+      },
+      {
+        "name_ar": "Khadra",
+        "name_fr": "Khadra",
+        "name_en": "Khadra"
+      },
+      {
+        "name_ar": "Bouguirat",
+        "name_fr": "Bouguirat",
+        "name_en": "Bouguirat"
+      },
+      {
+        "name_ar": "Sirat",
+        "name_fr": "Sirat",
+        "name_en": "Sirat"
+      },
+      {
+        "name_ar": "Ain Sidi Cherif",
+        "name_fr": "Ain Sidi Cherif",
+        "name_en": "Ain Sidi Cherif"
+      },
+      {
+        "name_ar": "Mesra",
+        "name_fr": "Mesra",
+        "name_en": "Mesra"
+      },
+      {
+        "name_ar": "Mansourah",
+        "name_fr": "Mansourah",
+        "name_en": "Mansourah"
+      },
+      {
+        "name_ar": "Souaflia",
+        "name_fr": "Souaflia",
+        "name_en": "Souaflia"
+      },
+      {
+        "name_ar": "Ouled Boughalem",
+        "name_fr": "Ouled Boughalem",
+        "name_en": "Ouled Boughalem"
+      },
+      {
+        "name_ar": "Ouled Maallah",
+        "name_fr": "Ouled Maallah",
+        "name_en": "Ouled Maallah"
+      },
+      {
+        "name_ar": "Mezghrane",
+        "name_fr": "Mezghrane",
+        "name_en": "Mezghrane"
+      },
+      {
+        "name_ar": "Ain Boudinar",
+        "name_fr": "Ain Boudinar",
+        "name_en": "Ain Boudinar"
+      },
+      {
+        "name_ar": "Tazgait",
+        "name_fr": "Tazgait",
+        "name_en": "Tazgait"
+      },
+      {
+        "name_ar": "Safsaf",
+        "name_fr": "Safsaf",
+        "name_en": "Safsaf"
+      },
+      {
+        "name_ar": "Touahria",
+        "name_fr": "Touahria",
+        "name_en": "Touahria"
+      },
+      {
+        "name_ar": "El Hassiane",
+        "name_fr": "El Hassiane",
+        "name_en": "El Hassiane"
+      }
+    ]
+  },
+  "995": {
+    "name_ar": "Msila",
+    "name_fr": "Msila",
+    "name_en": "Msila",
+    "communes": [
+      {
+        "name_ar": "Maadid",
+        "name_fr": "Maadid",
+        "name_en": "Maadid"
+      },
+      {
+        "name_ar": "Hammam Dhalaa",
+        "name_fr": "Hammam Dhalaa",
+        "name_en": "Hammam Dhalaa"
+      },
+      {
+        "name_ar": "Ouled Derradj",
+        "name_fr": "Ouled Derradj",
+        "name_en": "Ouled Derradj"
+      },
+      {
+        "name_ar": "Tarmount",
+        "name_fr": "Tarmount",
+        "name_en": "Tarmount"
+      },
+      {
+        "name_ar": "Mtarfa",
+        "name_fr": "Mtarfa",
+        "name_en": "Mtarfa"
+      },
+      {
+        "name_ar": "Khoubana",
+        "name_fr": "Khoubana",
+        "name_en": "Khoubana"
+      },
+      {
+        "name_ar": "M'cif",
+        "name_fr": "M'cif",
+        "name_en": "M'cif"
+      },
+      {
+        "name_ar": "Chellal",
+        "name_fr": "Chellal",
+        "name_en": "Chellal"
+      },
+      {
+        "name_ar": "Ouled Madhi",
+        "name_fr": "Ouled Madhi",
+        "name_en": "Ouled Madhi"
+      },
+      {
+        "name_ar": "Magra",
+        "name_fr": "Magra",
+        "name_en": "Magra"
+      },
+      {
+        "name_ar": "Berhoum",
+        "name_fr": "Berhoum",
+        "name_en": "Berhoum"
+      },
+      {
+        "name_ar": "Ain Khadra",
+        "name_fr": "Ain Khadra",
+        "name_en": "Ain Khadra"
+      },
+      {
+        "name_ar": "Ouled Addi Guebala",
+        "name_fr": "Ouled Addi Guebala",
+        "name_en": "Ouled Addi Guebala"
+      },
+      {
+        "name_ar": "Belaiba",
+        "name_fr": "Belaiba",
+        "name_en": "Belaiba"
+      },
+      {
+        "name_ar": "Sidi Aissa",
+        "name_fr": "Sidi Aissa",
+        "name_en": "Sidi Aissa"
+      },
+      {
+        "name_ar": "Ain El Hadjel",
+        "name_fr": "Ain El Hadjel",
+        "name_en": "Ain El Hadjel"
+      },
+      {
+        "name_ar": "Sidi Hadjeres",
+        "name_fr": "Sidi Hadjeres",
+        "name_en": "Sidi Hadjeres"
+      },
+      {
+        "name_ar": "Ouanougha",
+        "name_fr": "Ouanougha",
+        "name_en": "Ouanougha"
+      },
+      {
+        "name_ar": "Bou Saada",
+        "name_fr": "Bou Saada",
+        "name_en": "Bou Saada"
+      },
+      {
+        "name_ar": "Ouled Sidi Brahim",
+        "name_fr": "Ouled Sidi Brahim",
+        "name_en": "Ouled Sidi Brahim"
+      },
+      {
+        "name_ar": "Sidi Ameur",
+        "name_fr": "Sidi Ameur",
+        "name_en": "Sidi Ameur"
+      },
+      {
+        "name_ar": "Tamsa",
+        "name_fr": "Tamsa",
+        "name_en": "Tamsa"
+      },
+      {
+        "name_ar": "Ben Srour",
+        "name_fr": "Ben Srour",
+        "name_en": "Ben Srour"
+      },
+      {
+        "name_ar": "Ouled Slimane",
+        "name_fr": "Ouled Slimane",
+        "name_en": "Ouled Slimane"
+      },
+      {
+        "name_ar": "El Houamed",
+        "name_fr": "El Houamed",
+        "name_en": "El Houamed"
+      },
+      {
+        "name_ar": "El Hamel",
+        "name_fr": "El Hamel",
+        "name_en": "El Hamel"
+      },
+      {
+        "name_ar": "Ouled Mansour",
+        "name_fr": "Ouled Mansour",
+        "name_en": "Ouled Mansour"
+      },
+      {
+        "name_ar": "Maarif",
+        "name_fr": "Maarif",
+        "name_en": "Maarif"
+      },
+      {
+        "name_ar": "Dehahna",
+        "name_fr": "Dehahna",
+        "name_en": "Dehahna"
+      },
+      {
+        "name_ar": "Bouti Sayah",
+        "name_fr": "Bouti Sayah",
+        "name_en": "Bouti Sayah"
+      },
+      {
+        "name_ar": "Khettouti Sed Djir",
+        "name_fr": "Khettouti Sed Djir",
+        "name_en": "Khettouti Sed Djir"
+      },
+      {
+        "name_ar": "Zarzour",
+        "name_fr": "Zarzour",
+        "name_en": "Zarzour"
+      },
+      {
+        "name_ar": "Oued Chair",
+        "name_fr": "Oued Chair",
+        "name_en": "Oued Chair"
+      },
+      {
+        "name_ar": "Benzouh",
+        "name_fr": "Benzouh",
+        "name_en": "Benzouh"
+      },
+      {
+        "name_ar": "Bir Foda",
+        "name_fr": "Bir Foda",
+        "name_en": "Bir Foda"
+      },
+      {
+        "name_ar": "Ain Fares",
+        "name_fr": "Ain Fares",
+        "name_en": "Ain Fares"
+      },
+      {
+        "name_ar": "Sidi Mhamed",
+        "name_fr": "Sidi Mhamed",
+        "name_en": "Sidi Mhamed"
+      },
+      {
+        "name_ar": "Ouled Atia",
+        "name_fr": "Ouled Atia",
+        "name_en": "Ouled Atia"
+      },
+      {
+        "name_ar": "Souamaa",
+        "name_fr": "Souamaa",
+        "name_en": "Souamaa"
+      },
+      {
+        "name_ar": "Ain El Melh",
+        "name_fr": "Ain El Melh",
+        "name_en": "Ain El Melh"
+      },
+      {
+        "name_ar": "Medjedel",
+        "name_fr": "Medjedel",
+        "name_en": "Medjedel"
+      },
+      {
+        "name_ar": "Slim",
+        "name_fr": "Slim",
+        "name_en": "Slim"
+      },
+      {
+        "name_ar": "Ain Errich",
+        "name_fr": "Ain Errich",
+        "name_en": "Ain Errich"
+      },
+      {
+        "name_ar": "Beni Ilmane",
+        "name_fr": "Beni Ilmane",
+        "name_en": "Beni Ilmane"
+      },
+      {
+        "name_ar": "Oultene",
+        "name_fr": "Oultene",
+        "name_en": "Oultene"
+      },
+      {
+        "name_ar": "Djebel Messaad",
+        "name_fr": "Djebel Messaad",
+        "name_en": "Djebel Messaad"
+      }
+    ]
+  },
+  "1042": {
+    "name_ar": "Mascara",
+    "name_fr": "Mascara",
+    "name_en": "Mascara",
+    "communes": [
+      {
+        "name_ar": "Bou Hanifia",
+        "name_fr": "Bou Hanifia",
+        "name_en": "Bou Hanifia"
+      },
+      {
+        "name_ar": "Tizi",
+        "name_fr": "Tizi",
+        "name_en": "Tizi"
+      },
+      {
+        "name_ar": "Hacine",
+        "name_fr": "Hacine",
+        "name_en": "Hacine"
+      },
+      {
+        "name_ar": "Maoussa",
+        "name_fr": "Maoussa",
+        "name_en": "Maoussa"
+      },
+      {
+        "name_ar": "Teghennif",
+        "name_fr": "Teghennif",
+        "name_en": "Teghennif"
+      },
+      {
+        "name_ar": "El Hachem",
+        "name_fr": "El Hachem",
+        "name_en": "El Hachem"
+      },
+      {
+        "name_ar": "Sidi Kada",
+        "name_fr": "Sidi Kada",
+        "name_en": "Sidi Kada"
+      },
+      {
+        "name_ar": "Zelmata",
+        "name_fr": "Zelmata",
+        "name_en": "Zelmata"
+      },
+      {
+        "name_ar": "Oued El Abtal",
+        "name_fr": "Oued El Abtal",
+        "name_en": "Oued El Abtal"
+      },
+      {
+        "name_ar": "Ain Ferah",
+        "name_fr": "Ain Ferah",
+        "name_en": "Ain Ferah"
+      },
+      {
+        "name_ar": "Ghriss",
+        "name_fr": "Ghriss",
+        "name_en": "Ghriss"
+      },
+      {
+        "name_ar": "Froha",
+        "name_fr": "Froha",
+        "name_en": "Froha"
+      },
+      {
+        "name_ar": "Matemore",
+        "name_fr": "Matemore",
+        "name_en": "Matemore"
+      },
+      {
+        "name_ar": "Makdha",
+        "name_fr": "Makdha",
+        "name_en": "Makdha"
+      },
+      {
+        "name_ar": "Sidi Boussaid",
+        "name_fr": "Sidi Boussaid",
+        "name_en": "Sidi Boussaid"
+      },
+      {
+        "name_ar": "El Bordj",
+        "name_fr": "El Bordj",
+        "name_en": "El Bordj"
+      },
+      {
+        "name_ar": "Ain Fekan",
+        "name_fr": "Ain Fekan",
+        "name_en": "Ain Fekan"
+      },
+      {
+        "name_ar": "Benian",
+        "name_fr": "Benian",
+        "name_en": "Benian"
+      },
+      {
+        "name_ar": "Khalouia",
+        "name_fr": "Khalouia",
+        "name_en": "Khalouia"
+      },
+      {
+        "name_ar": "El Menaouer",
+        "name_fr": "El Menaouer",
+        "name_en": "El Menaouer"
+      },
+      {
+        "name_ar": "Oued Taria",
+        "name_fr": "Oued Taria",
+        "name_en": "Oued Taria"
+      },
+      {
+        "name_ar": "Aouf",
+        "name_fr": "Aouf",
+        "name_en": "Aouf"
+      },
+      {
+        "name_ar": "Ain Fares",
+        "name_fr": "Ain Fares",
+        "name_en": "Ain Fares"
+      },
+      {
+        "name_ar": "Ain Frass",
+        "name_fr": "Ain Frass",
+        "name_en": "Ain Frass"
+      },
+      {
+        "name_ar": "Sig",
+        "name_fr": "Sig",
+        "name_en": "Sig"
+      },
+      {
+        "name_ar": "Oggaz",
+        "name_fr": "Oggaz",
+        "name_en": "Oggaz"
+      },
+      {
+        "name_ar": "Alaimia",
+        "name_fr": "Alaimia",
+        "name_en": "Alaimia"
+      },
+      {
+        "name_ar": "El Gaada",
+        "name_fr": "El Gaada",
+        "name_en": "El Gaada"
+      },
+      {
+        "name_ar": "Zahana",
+        "name_fr": "Zahana",
+        "name_en": "Zahana"
+      },
+      {
+        "name_ar": "Mohammadia",
+        "name_fr": "Mohammadia",
+        "name_en": "Mohammadia"
+      },
+      {
+        "name_ar": "Sidi Abdelmoumene",
+        "name_fr": "Sidi Abdelmoumene",
+        "name_en": "Sidi Abdelmoumene"
+      },
+      {
+        "name_ar": "Ferraguig",
+        "name_fr": "Ferraguig",
+        "name_en": "Ferraguig"
+      },
+      {
+        "name_ar": "El Ghomri",
+        "name_fr": "El Ghomri",
+        "name_en": "El Ghomri"
+      },
+      {
+        "name_ar": "Sedjerara",
+        "name_fr": "Sedjerara",
+        "name_en": "Sedjerara"
+      },
+      {
+        "name_ar": "Moctadouz",
+        "name_fr": "Moctadouz",
+        "name_en": "Moctadouz"
+      },
+      {
+        "name_ar": "Bou Henni",
+        "name_fr": "Bou Henni",
+        "name_en": "Bou Henni"
+      },
+      {
+        "name_ar": "Guettena",
+        "name_fr": "Guettena",
+        "name_en": "Guettena"
+      },
+      {
+        "name_ar": "El Mamounia",
+        "name_fr": "El Mamounia",
+        "name_en": "El Mamounia"
+      },
+      {
+        "name_ar": "El Keurt",
+        "name_fr": "El Keurt",
+        "name_en": "El Keurt"
+      },
+      {
+        "name_ar": "Gharrous",
+        "name_fr": "Gharrous",
+        "name_en": "Gharrous"
+      },
+      {
+        "name_ar": "Gherdjoum",
+        "name_fr": "Gherdjoum",
+        "name_en": "Gherdjoum"
+      },
+      {
+        "name_ar": "Chorfa",
+        "name_fr": "Chorfa",
+        "name_en": "Chorfa"
+      },
+      {
+        "name_ar": "Ras Ain Amirouche",
+        "name_fr": "Ras Ain Amirouche",
+        "name_en": "Ras Ain Amirouche"
+      },
+      {
+        "name_ar": "Nesmot",
+        "name_fr": "Nesmot",
+        "name_en": "Nesmot"
+      },
+      {
+        "name_ar": "Sidi Abdeldjebar",
+        "name_fr": "Sidi Abdeldjebar",
+        "name_en": "Sidi Abdeldjebar"
+      },
+      {
+        "name_ar": "Sehailia",
+        "name_fr": "Sehailia",
+        "name_en": "Sehailia"
+      }
+    ]
+  },
+  "1089": {
+    "name_ar": "Ouargla",
+    "name_fr": "Ouargla",
+    "name_en": "Ouargla",
+    "communes": [
+      {
+        "name_ar": "Ain Beida",
+        "name_fr": "Ain Beida",
+        "name_en": "Ain Beida"
+      },
+      {
+        "name_ar": "Ngoussa",
+        "name_fr": "Ngoussa",
+        "name_en": "Ngoussa"
+      },
+      {
+        "name_ar": "Hassi Messaoud",
+        "name_fr": "Hassi Messaoud",
+        "name_en": "Hassi Messaoud"
+      },
+      {
+        "name_ar": "Rouissat",
+        "name_fr": "Rouissat",
+        "name_en": "Rouissat"
+      },
+      {
+        "name_ar": "Balidat Ameur",
+        "name_fr": "Balidat Ameur",
+        "name_en": "Balidat Ameur"
+      },
+      {
+        "name_ar": "Sidi Khouiled",
+        "name_fr": "Sidi Khouiled",
+        "name_en": "Sidi Khouiled"
+      },
+      {
+        "name_ar": "Hassi Ben Abdellah",
+        "name_fr": "Hassi Ben Abdellah",
+        "name_en": "Hassi Ben Abdellah"
+      }
+    ]
+  },
+  "1101": {
+    "name_ar": "تقرت",
+    "name_fr": "Touggourt",
+    "name_en": "Touggourt",
+    "communes": [
+      {
+        "name_fr": "Benaceur",
+        "name_en": "Benaceur",
+        "name_ar": "بن ناصر"
+      },
+      {
+        "name_fr": "Blidet Amor",
+        "name_en": "Blidet Amor",
+        "name_ar": "بلدية عامر"
+      },
+      {
+        "name_fr": "El Allia",
+        "name_en": "El Allia",
+        "name_ar": "العالية"
+      },
+      {
+        "name_fr": "El Hadjira",
+        "name_en": "El Hadjira",
+        "name_ar": "الحجيرة"
+      },
+      {
+        "name_fr": "Megarine",
+        "name_en": "Megarine",
+        "name_ar": "المقارين"
+      },
+      {
+        "name_fr": "M'Naguer",
+        "name_en": "M'Naguer",
+        "name_ar": "المنڨر"
+      },
+      {
+        "name_fr": "Nezla",
+        "name_en": "Nezla",
+        "name_ar": "النزلة"
+      },
+      {
+        "name_fr": "Sidi Slimane",
+        "name_en": "Sidi Slimane",
+        "name_ar": "سيدي سليمان"
+      },
+      {
+        "name_fr": "Taibet",
+        "name_en": "Taibet",
+        "name_ar": "الطيبات"
+      },
+      {
+        "name_fr": "Temacine",
+        "name_en": "Temacine",
+        "name_ar": "تماسين"
+      },
+      {
+        "name_fr": "Tebesbest",
+        "name_en": "Tebesbest",
+        "name_ar": "تبسبست"
+      },
+      {
+        "name_fr": "Touggourt",
+        "name_en": "Touggourt",
+        "name_ar": "تقرت"
+      },
+      {
+        "name_fr": "Zaouia El Abidia",
+        "name_en": "Zaouia El Abidia",
+        "name_ar": "زاوية العابدية"
+      }
+    ]
+  },
+  "1110": {
+    "name_ar": "Oran",
+    "name_fr": "Oran",
+    "name_en": "Oran",
+    "communes": [
+      {
+        "name_ar": "Gdyel",
+        "name_fr": "Gdyel",
+        "name_en": "Gdyel"
+      },
+      {
+        "name_ar": "Bir El Djir",
+        "name_fr": "Bir El Djir",
+        "name_en": "Bir El Djir"
+      },
+      {
+        "name_ar": "Hassi Bounif",
+        "name_fr": "Hassi Bounif",
+        "name_en": "Hassi Bounif"
+      },
+      {
+        "name_ar": "Es Senia",
+        "name_fr": "Es Senia",
+        "name_en": "Es Senia"
+      },
+      {
+        "name_ar": "Arzew",
+        "name_fr": "Arzew",
+        "name_en": "Arzew"
+      },
+      {
+        "name_ar": "Bethioua",
+        "name_fr": "Bethioua",
+        "name_en": "Bethioua"
+      },
+      {
+        "name_ar": "Marsat El Hadjadj",
+        "name_fr": "Marsat El Hadjadj",
+        "name_en": "Marsat El Hadjadj"
+      },
+      {
+        "name_ar": "Ain Turk",
+        "name_fr": "Ain Turk",
+        "name_en": "Ain Turk"
+      },
+      {
+        "name_ar": "El Ancar",
+        "name_fr": "El Ancar",
+        "name_en": "El Ancar"
+      },
+      {
+        "name_ar": "Oued Tlelat",
+        "name_fr": "Oued Tlelat",
+        "name_en": "Oued Tlelat"
+      },
+      {
+        "name_ar": "Tafraoui",
+        "name_fr": "Tafraoui",
+        "name_en": "Tafraoui"
+      },
+      {
+        "name_ar": "Sidi Chami",
+        "name_fr": "Sidi Chami",
+        "name_en": "Sidi Chami"
+      },
+      {
+        "name_ar": "Boufatis",
+        "name_fr": "Boufatis",
+        "name_en": "Boufatis"
+      },
+      {
+        "name_ar": "Mers El Kebir",
+        "name_fr": "Mers El Kebir",
+        "name_en": "Mers El Kebir"
+      },
+      {
+        "name_ar": "Bousfer",
+        "name_fr": "Bousfer",
+        "name_en": "Bousfer"
+      },
+      {
+        "name_ar": "El Karma",
+        "name_fr": "El Karma",
+        "name_en": "El Karma"
+      },
+      {
+        "name_ar": "El Braya",
+        "name_fr": "El Braya",
+        "name_en": "El Braya"
+      },
+      {
+        "name_ar": "Hassi Ben Okba",
+        "name_fr": "Hassi Ben Okba",
+        "name_en": "Hassi Ben Okba"
+      },
+      {
+        "name_ar": "Ben Freha",
+        "name_fr": "Ben Freha",
+        "name_en": "Ben Freha"
+      },
+      {
+        "name_ar": "Hassi Mefsoukh",
+        "name_fr": "Hassi Mefsoukh",
+        "name_en": "Hassi Mefsoukh"
+      },
+      {
+        "name_ar": "Sidi Ben Yabka",
+        "name_fr": "Sidi Ben Yabka",
+        "name_en": "Sidi Ben Yabka"
+      },
+      {
+        "name_ar": "Messerghin",
+        "name_fr": "Messerghin",
+        "name_en": "Messerghin"
+      },
+      {
+        "name_ar": "Boutlelis",
+        "name_fr": "Boutlelis",
+        "name_en": "Boutlelis"
+      },
+      {
+        "name_ar": "Ain Kerma",
+        "name_fr": "Ain Kerma",
+        "name_en": "Ain Kerma"
+      },
+      {
+        "name_ar": "Ain Biya",
+        "name_fr": "Ain Biya",
+        "name_en": "Ain Biya"
+      }
+    ]
+  },
+  "1136": {
+    "name_ar": "El Bayadh",
+    "name_fr": "El Bayadh",
+    "name_en": "El Bayadh",
+    "communes": [
+      {
+        "name_ar": "Rogassa",
+        "name_fr": "Rogassa",
+        "name_en": "Rogassa"
+      },
+      {
+        "name_ar": "Stitten",
+        "name_fr": "Stitten",
+        "name_en": "Stitten"
+      },
+      {
+        "name_ar": "Brezina",
+        "name_fr": "Brezina",
+        "name_en": "Brezina"
+      },
+      {
+        "name_ar": "Ghassoul",
+        "name_fr": "Ghassoul",
+        "name_en": "Ghassoul"
+      },
+      {
+        "name_ar": "Boualem",
+        "name_fr": "Boualem",
+        "name_en": "Boualem"
+      },
+      {
+        "name_ar": "El Abiodh Sidi Cheikh",
+        "name_fr": "El Abiodh Sidi Cheikh",
+        "name_en": "El Abiodh Sidi Cheikh"
+      },
+      {
+        "name_ar": "Ain El Orak",
+        "name_fr": "Ain El Orak",
+        "name_en": "Ain El Orak"
+      },
+      {
+        "name_ar": "Arbaouat",
+        "name_fr": "Arbaouat",
+        "name_en": "Arbaouat"
+      },
+      {
+        "name_ar": "Bougtoub",
+        "name_fr": "Bougtoub",
+        "name_en": "Bougtoub"
+      },
+      {
+        "name_ar": "El Kheither",
+        "name_fr": "El Kheither",
+        "name_en": "El Kheither"
+      },
+      {
+        "name_ar": "Kef El Ahmar",
+        "name_fr": "Kef El Ahmar",
+        "name_en": "Kef El Ahmar"
+      },
+      {
+        "name_ar": "Boussemghoun",
+        "name_fr": "Boussemghoun",
+        "name_en": "Boussemghoun"
+      },
+      {
+        "name_ar": "Chellala",
+        "name_fr": "Chellala",
+        "name_en": "Chellala"
+      },
+      {
+        "name_ar": "Krakda",
+        "name_fr": "Krakda",
+        "name_en": "Krakda"
+      },
+      {
+        "name_ar": "El Bnoud",
+        "name_fr": "El Bnoud",
+        "name_en": "El Bnoud"
+      },
+      {
+        "name_ar": "Cheguig",
+        "name_fr": "Cheguig",
+        "name_en": "Cheguig"
+      },
+      {
+        "name_ar": "Sidi Ameur",
+        "name_fr": "Sidi Ameur",
+        "name_en": "Sidi Ameur"
+      },
+      {
+        "name_ar": "El Mehara",
+        "name_fr": "El Mehara",
+        "name_en": "El Mehara"
+      },
+      {
+        "name_ar": "Tousmouline",
+        "name_fr": "Tousmouline",
+        "name_en": "Tousmouline"
+      },
+      {
+        "name_ar": "Sidi Tifour",
+        "name_fr": "Sidi Tifour",
+        "name_en": "Sidi Tifour"
+      }
+    ]
+  },
+  "1158": {
+    "name_ar": "Illizi",
+    "name_fr": "Illizi",
+    "name_en": "Illizi",
+    "communes": []
+  },
+  "1159": {
+    "name_ar": "جانت",
+    "name_fr": "Djanet",
+    "name_en": "Djanet",
+    "communes": [
+      {
+        "name_fr": "Djanet",
+        "name_en": "Djanet",
+        "name_ar": "جانت"
+      },
+      {
+        "name_fr": "Bordj El Haouas",
+        "name_en": "Bordj El Haouas",
+        "name_ar": "برج الحواس"
+      }
+    ]
+  },
+  "1164": {
+    "name_ar": "Bordj Bou Arreridj",
+    "name_fr": "Bordj Bou Arreridj",
+    "name_en": "Bordj Bou Arreridj",
+    "communes": [
+      {
+        "name_ar": "Ras El Oued",
+        "name_fr": "Ras El Oued",
+        "name_en": "Ras El Oued"
+      },
+      {
+        "name_ar": "Bordj Zemoura",
+        "name_fr": "Bordj Zemoura",
+        "name_en": "Bordj Zemoura"
+      },
+      {
+        "name_ar": "Mansoura",
+        "name_fr": "Mansoura",
+        "name_en": "Mansoura"
+      },
+      {
+        "name_ar": "El Mhir",
+        "name_fr": "El Mhir",
+        "name_en": "El Mhir"
+      },
+      {
+        "name_ar": "Ben Daoud",
+        "name_fr": "Ben Daoud",
+        "name_en": "Ben Daoud"
+      },
+      {
+        "name_ar": "El Achir",
+        "name_fr": "El Achir",
+        "name_en": "El Achir"
+      },
+      {
+        "name_ar": "Ain Taghrout",
+        "name_fr": "Ain Taghrout",
+        "name_en": "Ain Taghrout"
+      },
+      {
+        "name_ar": "Bordj Ghdir",
+        "name_fr": "Bordj Ghdir",
+        "name_en": "Bordj Ghdir"
+      },
+      {
+        "name_ar": "Sidi Embarek",
+        "name_fr": "Sidi Embarek",
+        "name_en": "Sidi Embarek"
+      },
+      {
+        "name_ar": "El Hamadia",
+        "name_fr": "El Hamadia",
+        "name_en": "El Hamadia"
+      },
+      {
+        "name_ar": "Belimour",
+        "name_fr": "Belimour",
+        "name_en": "Belimour"
+      },
+      {
+        "name_ar": "Medjana",
+        "name_fr": "Medjana",
+        "name_en": "Medjana"
+      },
+      {
+        "name_ar": "Teniet En Nasr",
+        "name_fr": "Teniet En Nasr",
+        "name_en": "Teniet En Nasr"
+      },
+      {
+        "name_ar": "Djaafra",
+        "name_fr": "Djaafra",
+        "name_en": "Djaafra"
+      },
+      {
+        "name_ar": "El Main",
+        "name_fr": "El Main",
+        "name_en": "El Main"
+      },
+      {
+        "name_ar": "Ouled Brahem",
+        "name_fr": "Ouled Brahem",
+        "name_en": "Ouled Brahem"
+      },
+      {
+        "name_ar": "Ouled Dahmane",
+        "name_fr": "Ouled Dahmane",
+        "name_en": "Ouled Dahmane"
+      },
+      {
+        "name_ar": "Hasnaoua",
+        "name_fr": "Hasnaoua",
+        "name_en": "Hasnaoua"
+      },
+      {
+        "name_ar": "Khelil",
+        "name_fr": "Khelil",
+        "name_en": "Khelil"
+      },
+      {
+        "name_ar": "Taglait",
+        "name_fr": "Taglait",
+        "name_en": "Taglait"
+      },
+      {
+        "name_ar": "Ksour",
+        "name_fr": "Ksour",
+        "name_en": "Ksour"
+      },
+      {
+        "name_ar": "Ouled Sidi Brahim",
+        "name_fr": "Ouled Sidi Brahim",
+        "name_en": "Ouled Sidi Brahim"
+      },
+      {
+        "name_ar": "Tafreg",
+        "name_fr": "Tafreg",
+        "name_en": "Tafreg"
+      },
+      {
+        "name_ar": "Colla",
+        "name_fr": "Colla",
+        "name_en": "Colla"
+      },
+      {
+        "name_ar": "Tixter",
+        "name_fr": "Tixter",
+        "name_en": "Tixter"
+      },
+      {
+        "name_ar": "El Ach",
+        "name_fr": "El Ach",
+        "name_en": "El Ach"
+      },
+      {
+        "name_ar": "El Anseur",
+        "name_fr": "El Anseur",
+        "name_en": "El Anseur"
+      },
+      {
+        "name_ar": "Tesmart",
+        "name_fr": "Tesmart",
+        "name_en": "Tesmart"
+      },
+      {
+        "name_ar": "Ain Tesra",
+        "name_fr": "Ain Tesra",
+        "name_en": "Ain Tesra"
+      },
+      {
+        "name_ar": "Bir Kasdali",
+        "name_fr": "Bir Kasdali",
+        "name_en": "Bir Kasdali"
+      },
+      {
+        "name_ar": "Ghilassa",
+        "name_fr": "Ghilassa",
+        "name_en": "Ghilassa"
+      },
+      {
+        "name_ar": "Rabta",
+        "name_fr": "Rabta",
+        "name_en": "Rabta"
+      },
+      {
+        "name_ar": "Haraza",
+        "name_fr": "Haraza",
+        "name_en": "Haraza"
+      }
+    ]
+  },
+  "1198": {
+    "name_ar": "Boumerdes",
+    "name_fr": "Boumerdes",
+    "name_en": "Boumerdes",
+    "communes": [
+      {
+        "name_ar": "Boudouaou",
+        "name_fr": "Boudouaou",
+        "name_en": "Boudouaou"
+      },
+      {
+        "name_ar": "Afir",
+        "name_fr": "Afir",
+        "name_en": "Afir"
+      },
+      {
+        "name_ar": "Bordj Menaiel",
+        "name_fr": "Bordj Menaiel",
+        "name_en": "Bordj Menaiel"
+      },
+      {
+        "name_ar": "Baghlia",
+        "name_fr": "Baghlia",
+        "name_en": "Baghlia"
+      },
+      {
+        "name_ar": "Sidi Daoud",
+        "name_fr": "Sidi Daoud",
+        "name_en": "Sidi Daoud"
+      },
+      {
+        "name_ar": "Naciria",
+        "name_fr": "Naciria",
+        "name_en": "Naciria"
+      },
+      {
+        "name_ar": "Djinet",
+        "name_fr": "Djinet",
+        "name_en": "Djinet"
+      },
+      {
+        "name_ar": "Isser",
+        "name_fr": "Isser",
+        "name_en": "Isser"
+      },
+      {
+        "name_ar": "Zemmouri",
+        "name_fr": "Zemmouri",
+        "name_en": "Zemmouri"
+      },
+      {
+        "name_ar": "Si Mustapha",
+        "name_fr": "Si Mustapha",
+        "name_en": "Si Mustapha"
+      },
+      {
+        "name_ar": "Tidjelabine",
+        "name_fr": "Tidjelabine",
+        "name_en": "Tidjelabine"
+      },
+      {
+        "name_ar": "Chabet El Ameur",
+        "name_fr": "Chabet El Ameur",
+        "name_en": "Chabet El Ameur"
+      },
+      {
+        "name_ar": "Thenia",
+        "name_fr": "Thenia",
+        "name_en": "Thenia"
+      },
+      {
+        "name_ar": "Timezrit",
+        "name_fr": "Timezrit",
+        "name_en": "Timezrit"
+      },
+      {
+        "name_ar": "Corso",
+        "name_fr": "Corso",
+        "name_en": "Corso"
+      },
+      {
+        "name_ar": "Ouled Moussa",
+        "name_fr": "Ouled Moussa",
+        "name_en": "Ouled Moussa"
+      },
+      {
+        "name_ar": "Larbatache",
+        "name_fr": "Larbatache",
+        "name_en": "Larbatache"
+      },
+      {
+        "name_ar": "Bouzegza Keddara",
+        "name_fr": "Bouzegza Keddara",
+        "name_en": "Bouzegza Keddara"
+      },
+      {
+        "name_ar": "Taourga",
+        "name_fr": "Taourga",
+        "name_en": "Taourga"
+      },
+      {
+        "name_ar": "Ouled Aissa",
+        "name_fr": "Ouled Aissa",
+        "name_en": "Ouled Aissa"
+      },
+      {
+        "name_ar": "Ben Choud",
+        "name_fr": "Ben Choud",
+        "name_en": "Ben Choud"
+      },
+      {
+        "name_ar": "Dellys",
+        "name_fr": "Dellys",
+        "name_en": "Dellys"
+      },
+      {
+        "name_ar": "Ammal",
+        "name_fr": "Ammal",
+        "name_en": "Ammal"
+      },
+      {
+        "name_ar": "Beni Amrane",
+        "name_fr": "Beni Amrane",
+        "name_en": "Beni Amrane"
+      },
+      {
+        "name_ar": "Souk El Had",
+        "name_fr": "Souk El Had",
+        "name_en": "Souk El Had"
+      },
+      {
+        "name_ar": "Boudouaou El Bahri",
+        "name_fr": "Boudouaou El Bahri",
+        "name_en": "Boudouaou El Bahri"
+      },
+      {
+        "name_ar": "Ouled Hedadj",
+        "name_fr": "Ouled Hedadj",
+        "name_en": "Ouled Hedadj"
+      },
+      {
+        "name_ar": "Laghata",
+        "name_fr": "Laghata",
+        "name_en": "Laghata"
+      },
+      {
+        "name_ar": "Hammedi",
+        "name_fr": "Hammedi",
+        "name_en": "Hammedi"
+      },
+      {
+        "name_ar": "Khemis El Khechna",
+        "name_fr": "Khemis El Khechna",
+        "name_en": "Khemis El Khechna"
+      },
+      {
+        "name_ar": "El Kharrouba",
+        "name_fr": "El Kharrouba",
+        "name_en": "El Kharrouba"
+      }
+    ]
+  },
+  "1230": {
+    "name_ar": "El Tarf",
+    "name_fr": "El Tarf",
+    "name_en": "El Tarf",
+    "communes": [
+      {
+        "name_ar": "Bouhadjar",
+        "name_fr": "Bouhadjar",
+        "name_en": "Bouhadjar"
+      },
+      {
+        "name_ar": "Ben Mhidi",
+        "name_fr": "Ben Mhidi",
+        "name_en": "Ben Mhidi"
+      },
+      {
+        "name_ar": "Bougous",
+        "name_fr": "Bougous",
+        "name_en": "Bougous"
+      },
+      {
+        "name_ar": "El Kala",
+        "name_fr": "El Kala",
+        "name_en": "El Kala"
+      },
+      {
+        "name_ar": "Ain El Assel",
+        "name_fr": "Ain El Assel",
+        "name_en": "Ain El Assel"
+      },
+      {
+        "name_ar": "El Aioun",
+        "name_fr": "El Aioun",
+        "name_en": "El Aioun"
+      },
+      {
+        "name_ar": "Bouteldja",
+        "name_fr": "Bouteldja",
+        "name_en": "Bouteldja"
+      },
+      {
+        "name_ar": "Souarekh",
+        "name_fr": "Souarekh",
+        "name_en": "Souarekh"
+      },
+      {
+        "name_ar": "Berrihane",
+        "name_fr": "Berrihane",
+        "name_en": "Berrihane"
+      },
+      {
+        "name_ar": "Lac Des Oiseaux",
+        "name_fr": "Lac Des Oiseaux",
+        "name_en": "Lac Des Oiseaux"
+      },
+      {
+        "name_ar": "Chefia",
+        "name_fr": "Chefia",
+        "name_en": "Chefia"
+      },
+      {
+        "name_ar": "Drean",
+        "name_fr": "Drean",
+        "name_en": "Drean"
+      },
+      {
+        "name_ar": "Chihani",
+        "name_fr": "Chihani",
+        "name_en": "Chihani"
+      },
+      {
+        "name_ar": "Chebaita Mokhtar",
+        "name_fr": "Chebaita Mokhtar",
+        "name_en": "Chebaita Mokhtar"
+      },
+      {
+        "name_ar": "Asfour",
+        "name_fr": "Asfour",
+        "name_en": "Asfour"
+      },
+      {
+        "name_ar": "Echatt",
+        "name_fr": "Echatt",
+        "name_en": "Echatt"
+      },
+      {
+        "name_ar": "Zerizer",
+        "name_fr": "Zerizer",
+        "name_en": "Zerizer"
+      },
+      {
+        "name_ar": "Zitouna",
+        "name_fr": "Zitouna",
+        "name_en": "Zitouna"
+      },
+      {
+        "name_ar": "Ain Kerma",
+        "name_fr": "Ain Kerma",
+        "name_en": "Ain Kerma"
+      },
+      {
+        "name_ar": "Oued Zitoun",
+        "name_fr": "Oued Zitoun",
+        "name_en": "Oued Zitoun"
+      },
+      {
+        "name_ar": "Hammam Beni Salah",
+        "name_fr": "Hammam Beni Salah",
+        "name_en": "Hammam Beni Salah"
+      },
+      {
+        "name_ar": "Raml Souk",
+        "name_fr": "Raml Souk",
+        "name_en": "Raml Souk"
+      }
+    ]
+  },
+  "1254": {
+    "name_ar": "Tindouf",
+    "name_fr": "Tindouf",
+    "name_en": "Tindouf",
+    "communes": [
+      {
+        "name_ar": "Oum El Assel",
+        "name_fr": "Oum El Assel",
+        "name_en": "Oum El Assel"
+      }
+    ]
+  },
+  "1256": {
+    "name_ar": "Tissemsilt",
+    "name_fr": "Tissemsilt",
+    "name_en": "Tissemsilt",
+    "communes": [
+      {
+        "name_ar": "Bordj Bou Naama",
+        "name_fr": "Bordj Bou Naama",
+        "name_en": "Bordj Bou Naama"
+      },
+      {
+        "name_ar": "Theniet El Had",
+        "name_fr": "Theniet El Had",
+        "name_en": "Theniet El Had"
+      },
+      {
+        "name_ar": "Lazharia",
+        "name_fr": "Lazharia",
+        "name_en": "Lazharia"
+      },
+      {
+        "name_ar": "Beni Chaib",
+        "name_fr": "Beni Chaib",
+        "name_en": "Beni Chaib"
+      },
+      {
+        "name_ar": "Lardjem",
+        "name_fr": "Lardjem",
+        "name_en": "Lardjem"
+      },
+      {
+        "name_ar": "Melaab",
+        "name_fr": "Melaab",
+        "name_en": "Melaab"
+      },
+      {
+        "name_ar": "Sidi Lantri",
+        "name_fr": "Sidi Lantri",
+        "name_en": "Sidi Lantri"
+      },
+      {
+        "name_ar": "Bordj El Emir Abdelkader",
+        "name_fr": "Bordj El Emir Abdelkader",
+        "name_en": "Bordj El Emir Abdelkader"
+      },
+      {
+        "name_ar": "Layoune",
+        "name_fr": "Layoune",
+        "name_en": "Layoune"
+      },
+      {
+        "name_ar": "Khemisti",
+        "name_fr": "Khemisti",
+        "name_en": "Khemisti"
+      },
+      {
+        "name_ar": "Ouled Bessem",
+        "name_fr": "Ouled Bessem",
+        "name_en": "Ouled Bessem"
+      },
+      {
+        "name_ar": "Ammari",
+        "name_fr": "Ammari",
+        "name_en": "Ammari"
+      },
+      {
+        "name_ar": "Youssoufia",
+        "name_fr": "Youssoufia",
+        "name_en": "Youssoufia"
+      },
+      {
+        "name_ar": "Sidi Boutouchent",
+        "name_fr": "Sidi Boutouchent",
+        "name_en": "Sidi Boutouchent"
+      },
+      {
+        "name_ar": "Larbaa",
+        "name_fr": "Larbaa",
+        "name_en": "Larbaa"
+      },
+      {
+        "name_ar": "Maasem",
+        "name_fr": "Maasem",
+        "name_en": "Maasem"
+      },
+      {
+        "name_ar": "Sidi Abed",
+        "name_fr": "Sidi Abed",
+        "name_en": "Sidi Abed"
+      },
+      {
+        "name_ar": "Tamalaht",
+        "name_fr": "Tamalaht",
+        "name_en": "Tamalaht"
+      },
+      {
+        "name_ar": "Boucaid",
+        "name_fr": "Boucaid",
+        "name_en": "Boucaid"
+      },
+      {
+        "name_ar": "Beni Lahcene",
+        "name_fr": "Beni Lahcene",
+        "name_en": "Beni Lahcene"
+      }
+    ]
+  },
+  "1278": {
+    "name_ar": "El Oued",
+    "name_fr": "El Oued",
+    "name_en": "El Oued",
+    "communes": [
+      {
+        "name_ar": "Robbah",
+        "name_fr": "Robbah",
+        "name_en": "Robbah"
+      },
+      {
+        "name_ar": "Oued El Alenda",
+        "name_fr": "Oued El Alenda",
+        "name_en": "Oued El Alenda"
+      },
+      {
+        "name_ar": "Bayadha",
+        "name_fr": "Bayadha",
+        "name_en": "Bayadha"
+      },
+      {
+        "name_ar": "Nakhla",
+        "name_fr": "Nakhla",
+        "name_en": "Nakhla"
+      },
+      {
+        "name_ar": "Guemar",
+        "name_fr": "Guemar",
+        "name_en": "Guemar"
+      },
+      {
+        "name_ar": "Kouinine",
+        "name_fr": "Kouinine",
+        "name_en": "Kouinine"
+      },
+      {
+        "name_ar": "Reguiba",
+        "name_fr": "Reguiba",
+        "name_en": "Reguiba"
+      },
+      {
+        "name_ar": "Hamraia",
+        "name_fr": "Hamraia",
+        "name_en": "Hamraia"
+      },
+      {
+        "name_ar": "Taghzout",
+        "name_fr": "Taghzout",
+        "name_en": "Taghzout"
+      },
+      {
+        "name_ar": "Debila",
+        "name_fr": "Debila",
+        "name_en": "Debila"
+      },
+      {
+        "name_ar": "Hassani Abdelkrim",
+        "name_fr": "Hassani Abdelkrim",
+        "name_en": "Hassani Abdelkrim"
+      },
+      {
+        "name_ar": "Hassi Khelifa",
+        "name_fr": "Hassi Khelifa",
+        "name_en": "Hassi Khelifa"
+      },
+      {
+        "name_ar": "Taleb Larbi",
+        "name_fr": "Taleb Larbi",
+        "name_en": "Taleb Larbi"
+      },
+      {
+        "name_ar": "Douar El Ma",
+        "name_fr": "Douar El Ma",
+        "name_en": "Douar El Ma"
+      },
+      {
+        "name_ar": "Sidi Aoun",
+        "name_fr": "Sidi Aoun",
+        "name_en": "Sidi Aoun"
+      },
+      {
+        "name_ar": "Trifaoui",
+        "name_fr": "Trifaoui",
+        "name_en": "Trifaoui"
+      },
+      {
+        "name_ar": "Magrane",
+        "name_fr": "Magrane",
+        "name_en": "Magrane"
+      },
+      {
+        "name_ar": "Beni Guecha",
+        "name_fr": "Beni Guecha",
+        "name_en": "Beni Guecha"
+      },
+      {
+        "name_ar": "Ourmas",
+        "name_fr": "Ourmas",
+        "name_en": "Ourmas"
+      },
+      {
+        "name_ar": "Mrara",
+        "name_fr": "Mrara",
+        "name_en": "Mrara"
+      },
+      {
+        "name_ar": "El Ogla",
+        "name_fr": "El Ogla",
+        "name_en": "El Ogla"
+      },
+      {
+        "name_ar": "Mih Ouansa",
+        "name_fr": "Mih Ouansa",
+        "name_en": "Mih Ouansa"
+      }
+    ]
+  },
+  "1304": {
+    "name_ar": "المغير",
+    "name_fr": "El M'ghair",
+    "name_en": "El M'ghair",
+    "communes": [
+      {
+        "name_fr": "Djamaa",
+        "name_en": "Djamaa",
+        "name_ar": "جامعة"
+      },
+      {
+        "name_fr": "El M'Ghair",
+        "name_en": "El M'Ghair",
+        "name_ar": "المغير"
+      },
+      {
+        "name_fr": "Merara",
+        "name_en": "Merara",
+        "name_ar": "مرارة"
+      },
+      {
+        "name_fr": "Oum Touyour",
+        "name_en": "Oum Touyour",
+        "name_ar": "أم الطيور"
+      },
+      {
+        "name_fr": "Sidi Amrane",
+        "name_en": "Sidi Amrane",
+        "name_ar": "سيدي عمران"
+      },
+      {
+        "name_fr": "Sidi Khellil",
+        "name_en": "Sidi Khellil",
+        "name_ar": "سيدي خليل"
+      },
+      {
+        "name_fr": "Still",
+        "name_en": "Still",
+        "name_ar": "سطيل"
+      },
+      {
+        "name_fr": "Tendla",
+        "name_en": "Tendla",
+        "name_ar": "تندلة"
+      }
+    ]
+  },
+  "1308": {
+    "name_ar": "Khenchela",
+    "name_fr": "Khenchela",
+    "name_en": "Khenchela",
+    "communes": [
+      {
+        "name_ar": "Mtoussa",
+        "name_fr": "Mtoussa",
+        "name_en": "Mtoussa"
+      },
+      {
+        "name_ar": "Kais",
+        "name_fr": "Kais",
+        "name_en": "Kais"
+      },
+      {
+        "name_ar": "Baghai",
+        "name_fr": "Baghai",
+        "name_en": "Baghai"
+      },
+      {
+        "name_ar": "El Hamma",
+        "name_fr": "El Hamma",
+        "name_en": "El Hamma"
+      },
+      {
+        "name_ar": "Ain Touila",
+        "name_fr": "Ain Touila",
+        "name_en": "Ain Touila"
+      },
+      {
+        "name_ar": "Taouzianat",
+        "name_fr": "Taouzianat",
+        "name_en": "Taouzianat"
+      },
+      {
+        "name_ar": "Bouhmama",
+        "name_fr": "Bouhmama",
+        "name_en": "Bouhmama"
+      },
+      {
+        "name_ar": "El Oueldja",
+        "name_fr": "El Oueldja",
+        "name_en": "El Oueldja"
+      },
+      {
+        "name_ar": "Remila",
+        "name_fr": "Remila",
+        "name_en": "Remila"
+      },
+      {
+        "name_ar": "Cherchar",
+        "name_fr": "Cherchar",
+        "name_en": "Cherchar"
+      },
+      {
+        "name_ar": "Djellal",
+        "name_fr": "Djellal",
+        "name_en": "Djellal"
+      },
+      {
+        "name_ar": "Babar",
+        "name_fr": "Babar",
+        "name_en": "Babar"
+      },
+      {
+        "name_ar": "Tamza",
+        "name_fr": "Tamza",
+        "name_en": "Tamza"
+      },
+      {
+        "name_ar": "Ensigha",
+        "name_fr": "Ensigha",
+        "name_en": "Ensigha"
+      },
+      {
+        "name_ar": "Ouled Rechache",
+        "name_fr": "Ouled Rechache",
+        "name_en": "Ouled Rechache"
+      },
+      {
+        "name_ar": "El Mahmal",
+        "name_fr": "El Mahmal",
+        "name_en": "El Mahmal"
+      },
+      {
+        "name_ar": "Msara",
+        "name_fr": "Msara",
+        "name_en": "Msara"
+      },
+      {
+        "name_ar": "Yabous",
+        "name_fr": "Yabous",
+        "name_en": "Yabous"
+      },
+      {
+        "name_ar": "Khirane",
+        "name_fr": "Khirane",
+        "name_en": "Khirane"
+      },
+      {
+        "name_ar": "Chelia",
+        "name_fr": "Chelia",
+        "name_en": "Chelia"
+      }
+    ]
+  },
+  "1329": {
+    "name_ar": "Souk Ahras",
+    "name_fr": "Souk Ahras",
+    "name_en": "Souk Ahras",
+    "communes": [
+      {
+        "name_ar": "Sedrata",
+        "name_fr": "Sedrata",
+        "name_en": "Sedrata"
+      },
+      {
+        "name_ar": "Hanancha",
+        "name_fr": "Hanancha",
+        "name_en": "Hanancha"
+      },
+      {
+        "name_ar": "Mechroha",
+        "name_fr": "Mechroha",
+        "name_en": "Mechroha"
+      },
+      {
+        "name_ar": "Ouled Driss",
+        "name_fr": "Ouled Driss",
+        "name_en": "Ouled Driss"
+      },
+      {
+        "name_ar": "Tiffech",
+        "name_fr": "Tiffech",
+        "name_en": "Tiffech"
+      },
+      {
+        "name_ar": "Zaarouria",
+        "name_fr": "Zaarouria",
+        "name_en": "Zaarouria"
+      },
+      {
+        "name_ar": "Taoura",
+        "name_fr": "Taoura",
+        "name_en": "Taoura"
+      },
+      {
+        "name_ar": "Drea",
+        "name_fr": "Drea",
+        "name_en": "Drea"
+      },
+      {
+        "name_ar": "Haddada",
+        "name_fr": "Haddada",
+        "name_en": "Haddada"
+      },
+      {
+        "name_ar": "Khedara",
+        "name_fr": "Khedara",
+        "name_en": "Khedara"
+      },
+      {
+        "name_ar": "Merahna",
+        "name_fr": "Merahna",
+        "name_en": "Merahna"
+      },
+      {
+        "name_ar": "Ouled Moumen",
+        "name_fr": "Ouled Moumen",
+        "name_en": "Ouled Moumen"
+      },
+      {
+        "name_ar": "Bir Bouhouche",
+        "name_fr": "Bir Bouhouche",
+        "name_en": "Bir Bouhouche"
+      },
+      {
+        "name_ar": "Mdaourouche",
+        "name_fr": "Mdaourouche",
+        "name_en": "Mdaourouche"
+      },
+      {
+        "name_ar": "Oum El Adhaim",
+        "name_fr": "Oum El Adhaim",
+        "name_en": "Oum El Adhaim"
+      },
+      {
+        "name_ar": "Ain Zana",
+        "name_fr": "Ain Zana",
+        "name_en": "Ain Zana"
+      },
+      {
+        "name_ar": "Ain Soltane",
+        "name_fr": "Ain Soltane",
+        "name_en": "Ain Soltane"
+      },
+      {
+        "name_ar": "Quillen",
+        "name_fr": "Quillen",
+        "name_en": "Quillen"
+      },
+      {
+        "name_ar": "Sidi Fredj",
+        "name_fr": "Sidi Fredj",
+        "name_en": "Sidi Fredj"
+      },
+      {
+        "name_ar": "Safel El Ouiden",
+        "name_fr": "Safel El Ouiden",
+        "name_en": "Safel El Ouiden"
+      },
+      {
+        "name_ar": "Ragouba",
+        "name_fr": "Ragouba",
+        "name_en": "Ragouba"
+      },
+      {
+        "name_ar": "Khemissa",
+        "name_fr": "Khemissa",
+        "name_en": "Khemissa"
+      },
+      {
+        "name_ar": "Oued Keberit",
+        "name_fr": "Oued Keberit",
+        "name_en": "Oued Keberit"
+      },
+      {
+        "name_ar": "Terraguelt",
+        "name_fr": "Terraguelt",
+        "name_en": "Terraguelt"
+      },
+      {
+        "name_ar": "Zouabi",
+        "name_fr": "Zouabi",
+        "name_en": "Zouabi"
+      }
+    ]
+  },
+  "1355": {
+    "name_ar": "Tipaza",
+    "name_fr": "Tipaza",
+    "name_en": "Tipaza",
+    "communes": [
+      {
+        "name_ar": "Menaceur",
+        "name_fr": "Menaceur",
+        "name_en": "Menaceur"
+      },
+      {
+        "name_ar": "Larhat",
+        "name_fr": "Larhat",
+        "name_en": "Larhat"
+      },
+      {
+        "name_ar": "Douaouda",
+        "name_fr": "Douaouda",
+        "name_en": "Douaouda"
+      },
+      {
+        "name_ar": "Bourkika",
+        "name_fr": "Bourkika",
+        "name_en": "Bourkika"
+      },
+      {
+        "name_ar": "Khemisti",
+        "name_fr": "Khemisti",
+        "name_en": "Khemisti"
+      },
+      {
+        "name_ar": "Aghabal",
+        "name_fr": "Aghabal",
+        "name_en": "Aghabal"
+      },
+      {
+        "name_ar": "Hadjout",
+        "name_fr": "Hadjout",
+        "name_en": "Hadjout"
+      },
+      {
+        "name_ar": "Sidi Amar",
+        "name_fr": "Sidi Amar",
+        "name_en": "Sidi Amar"
+      },
+      {
+        "name_ar": "Gouraya",
+        "name_fr": "Gouraya",
+        "name_en": "Gouraya"
+      },
+      {
+        "name_ar": "Nodor",
+        "name_fr": "Nodor",
+        "name_en": "Nodor"
+      },
+      {
+        "name_ar": "Chaiba",
+        "name_fr": "Chaiba",
+        "name_en": "Chaiba"
+      },
+      {
+        "name_ar": "Ain Tagourait",
+        "name_fr": "Ain Tagourait",
+        "name_en": "Ain Tagourait"
+      },
+      {
+        "name_ar": "Cherchel",
+        "name_fr": "Cherchel",
+        "name_en": "Cherchel"
+      },
+      {
+        "name_ar": "Damous",
+        "name_fr": "Damous",
+        "name_en": "Damous"
+      },
+      {
+        "name_ar": "Meurad",
+        "name_fr": "Meurad",
+        "name_en": "Meurad"
+      },
+      {
+        "name_ar": "Fouka",
+        "name_fr": "Fouka",
+        "name_en": "Fouka"
+      },
+      {
+        "name_ar": "Bou Ismail",
+        "name_fr": "Bou Ismail",
+        "name_en": "Bou Ismail"
+      },
+      {
+        "name_ar": "Ahmer El Ain",
+        "name_fr": "Ahmer El Ain",
+        "name_en": "Ahmer El Ain"
+      },
+      {
+        "name_ar": "Bou Haroun",
+        "name_fr": "Bou Haroun",
+        "name_en": "Bou Haroun"
+      },
+      {
+        "name_ar": "Sidi Ghiles",
+        "name_fr": "Sidi Ghiles",
+        "name_en": "Sidi Ghiles"
+      },
+      {
+        "name_ar": "Messelmoun",
+        "name_fr": "Messelmoun",
+        "name_en": "Messelmoun"
+      },
+      {
+        "name_ar": "Sidi Rached",
+        "name_fr": "Sidi Rached",
+        "name_en": "Sidi Rached"
+      },
+      {
+        "name_ar": "Kolea",
+        "name_fr": "Kolea",
+        "name_en": "Kolea"
+      },
+      {
+        "name_ar": "Attatba",
+        "name_fr": "Attatba",
+        "name_en": "Attatba"
+      },
+      {
+        "name_ar": "Sidi Semiane",
+        "name_fr": "Sidi Semiane",
+        "name_en": "Sidi Semiane"
+      },
+      {
+        "name_ar": "Beni Milleuk",
+        "name_fr": "Beni Milleuk",
+        "name_en": "Beni Milleuk"
+      },
+      {
+        "name_ar": "Hadjerat Ennous",
+        "name_fr": "Hadjerat Ennous",
+        "name_en": "Hadjerat Ennous"
+      }
+    ]
+  },
+  "1383": {
+    "name_ar": "Mila",
+    "name_fr": "Mila",
+    "name_en": "Mila",
+    "communes": [
+      {
+        "name_ar": "Ferdjioua",
+        "name_fr": "Ferdjioua",
+        "name_en": "Ferdjioua"
+      },
+      {
+        "name_ar": "Chelghoum Laid",
+        "name_fr": "Chelghoum Laid",
+        "name_en": "Chelghoum Laid"
+      },
+      {
+        "name_ar": "Oued Athmenia",
+        "name_fr": "Oued Athmenia",
+        "name_en": "Oued Athmenia"
+      },
+      {
+        "name_ar": "Ain Mellouk",
+        "name_fr": "Ain Mellouk",
+        "name_en": "Ain Mellouk"
+      },
+      {
+        "name_ar": "Telerghma",
+        "name_fr": "Telerghma",
+        "name_en": "Telerghma"
+      },
+      {
+        "name_ar": "Oued Seguen",
+        "name_fr": "Oued Seguen",
+        "name_en": "Oued Seguen"
+      },
+      {
+        "name_ar": "Tadjenanet",
+        "name_fr": "Tadjenanet",
+        "name_en": "Tadjenanet"
+      },
+      {
+        "name_ar": "Benyahia Abderrahmane",
+        "name_fr": "Benyahia Abderrahmane",
+        "name_en": "Benyahia Abderrahmane"
+      },
+      {
+        "name_ar": "Oued Endja",
+        "name_fr": "Oued Endja",
+        "name_en": "Oued Endja"
+      },
+      {
+        "name_ar": "Ahmed Rachedi",
+        "name_fr": "Ahmed Rachedi",
+        "name_en": "Ahmed Rachedi"
+      },
+      {
+        "name_ar": "Ouled Khalouf",
+        "name_fr": "Ouled Khalouf",
+        "name_en": "Ouled Khalouf"
+      },
+      {
+        "name_ar": "Tiberguent",
+        "name_fr": "Tiberguent",
+        "name_en": "Tiberguent"
+      },
+      {
+        "name_ar": "Bouhatem",
+        "name_fr": "Bouhatem",
+        "name_en": "Bouhatem"
+      },
+      {
+        "name_ar": "Rouached",
+        "name_fr": "Rouached",
+        "name_en": "Rouached"
+      },
+      {
+        "name_ar": "Tessala Lamatai",
+        "name_fr": "Tessala Lamatai",
+        "name_en": "Tessala Lamatai"
+      },
+      {
+        "name_ar": "Grarem Gouga",
+        "name_fr": "Grarem Gouga",
+        "name_en": "Grarem Gouga"
+      },
+      {
+        "name_ar": "Sidi Merouane",
+        "name_fr": "Sidi Merouane",
+        "name_en": "Sidi Merouane"
+      },
+      {
+        "name_ar": "Tassadane Haddada",
+        "name_fr": "Tassadane Haddada",
+        "name_en": "Tassadane Haddada"
+      },
+      {
+        "name_ar": "Derradji Bousselah",
+        "name_fr": "Derradji Bousselah",
+        "name_en": "Derradji Bousselah"
+      },
+      {
+        "name_ar": "Minar Zarza",
+        "name_fr": "Minar Zarza",
+        "name_en": "Minar Zarza"
+      },
+      {
+        "name_ar": "Amira Arras",
+        "name_fr": "Amira Arras",
+        "name_en": "Amira Arras"
+      },
+      {
+        "name_ar": "Terrai Bainen",
+        "name_fr": "Terrai Bainen",
+        "name_en": "Terrai Bainen"
+      },
+      {
+        "name_ar": "Hamala",
+        "name_fr": "Hamala",
+        "name_en": "Hamala"
+      },
+      {
+        "name_ar": "Ain Tine",
+        "name_fr": "Ain Tine",
+        "name_en": "Ain Tine"
+      },
+      {
+        "name_ar": "El Mechira",
+        "name_fr": "El Mechira",
+        "name_en": "El Mechira"
+      },
+      {
+        "name_ar": "Sidi Khelifa",
+        "name_fr": "Sidi Khelifa",
+        "name_en": "Sidi Khelifa"
+      },
+      {
+        "name_ar": "Zeghaia",
+        "name_fr": "Zeghaia",
+        "name_en": "Zeghaia"
+      },
+      {
+        "name_ar": "Elayadi Barbes",
+        "name_fr": "Elayadi Barbes",
+        "name_en": "Elayadi Barbes"
+      },
+      {
+        "name_ar": "Ain Beida Harriche",
+        "name_fr": "Ain Beida Harriche",
+        "name_en": "Ain Beida Harriche"
+      },
+      {
+        "name_ar": "Yahia Beniguecha",
+        "name_fr": "Yahia Beniguecha",
+        "name_en": "Yahia Beniguecha"
+      },
+      {
+        "name_ar": "Chigara",
+        "name_fr": "Chigara",
+        "name_en": "Chigara"
+      }
+    ]
+  },
+  "1415": {
+    "name_ar": "Ain Defla",
+    "name_fr": "Ain Defla",
+    "name_en": "Ain Defla",
+    "communes": [
+      {
+        "name_ar": "Miliana",
+        "name_fr": "Miliana",
+        "name_en": "Miliana"
+      },
+      {
+        "name_ar": "Boumedfaa",
+        "name_fr": "Boumedfaa",
+        "name_en": "Boumedfaa"
+      },
+      {
+        "name_ar": "Khemis Miliana",
+        "name_fr": "Khemis Miliana",
+        "name_en": "Khemis Miliana"
+      },
+      {
+        "name_ar": "Hammam Righa",
+        "name_fr": "Hammam Righa",
+        "name_en": "Hammam Righa"
+      },
+      {
+        "name_ar": "Arib",
+        "name_fr": "Arib",
+        "name_en": "Arib"
+      },
+      {
+        "name_ar": "Djelida",
+        "name_fr": "Djelida",
+        "name_en": "Djelida"
+      },
+      {
+        "name_ar": "El Amra",
+        "name_fr": "El Amra",
+        "name_en": "El Amra"
+      },
+      {
+        "name_ar": "Bourached",
+        "name_fr": "Bourached",
+        "name_en": "Bourached"
+      },
+      {
+        "name_ar": "El Attaf",
+        "name_fr": "El Attaf",
+        "name_en": "El Attaf"
+      },
+      {
+        "name_ar": "El Abadia",
+        "name_fr": "El Abadia",
+        "name_en": "El Abadia"
+      },
+      {
+        "name_ar": "Djendel",
+        "name_fr": "Djendel",
+        "name_en": "Djendel"
+      },
+      {
+        "name_ar": "Oued Chorfa",
+        "name_fr": "Oued Chorfa",
+        "name_en": "Oued Chorfa"
+      },
+      {
+        "name_ar": "Ain Lechiakh",
+        "name_fr": "Ain Lechiakh",
+        "name_en": "Ain Lechiakh"
+      },
+      {
+        "name_ar": "Oued Djemaa",
+        "name_fr": "Oued Djemaa",
+        "name_en": "Oued Djemaa"
+      },
+      {
+        "name_ar": "Rouina",
+        "name_fr": "Rouina",
+        "name_en": "Rouina"
+      },
+      {
+        "name_ar": "Zeddine",
+        "name_fr": "Zeddine",
+        "name_en": "Zeddine"
+      },
+      {
+        "name_ar": "El Hassania",
+        "name_fr": "El Hassania",
+        "name_en": "El Hassania"
+      },
+      {
+        "name_ar": "Bir Ouled Khelifa",
+        "name_fr": "Bir Ouled Khelifa",
+        "name_en": "Bir Ouled Khelifa"
+      },
+      {
+        "name_ar": "Ain Soltane",
+        "name_fr": "Ain Soltane",
+        "name_en": "Ain Soltane"
+      },
+      {
+        "name_ar": "Tarik Ibn Ziad",
+        "name_fr": "Tarik Ibn Ziad",
+        "name_en": "Tarik Ibn Ziad"
+      },
+      {
+        "name_ar": "Bordj Emir Khaled",
+        "name_fr": "Bordj Emir Khaled",
+        "name_en": "Bordj Emir Khaled"
+      },
+      {
+        "name_ar": "Ain Torki",
+        "name_fr": "Ain Torki",
+        "name_en": "Ain Torki"
+      },
+      {
+        "name_ar": "Sidi Lakhdar",
+        "name_fr": "Sidi Lakhdar",
+        "name_en": "Sidi Lakhdar"
+      },
+      {
+        "name_ar": "Ben Allal",
+        "name_fr": "Ben Allal",
+        "name_en": "Ben Allal"
+      },
+      {
+        "name_ar": "Ain Benian",
+        "name_fr": "Ain Benian",
+        "name_en": "Ain Benian"
+      },
+      {
+        "name_ar": "Hoceinia",
+        "name_fr": "Hoceinia",
+        "name_en": "Hoceinia"
+      },
+      {
+        "name_ar": "Barbouche",
+        "name_fr": "Barbouche",
+        "name_en": "Barbouche"
+      },
+      {
+        "name_ar": "Djemaa Ouled Chikh",
+        "name_fr": "Djemaa Ouled Chikh",
+        "name_en": "Djemaa Ouled Chikh"
+      },
+      {
+        "name_ar": "Mekhatria",
+        "name_fr": "Mekhatria",
+        "name_en": "Mekhatria"
+      },
+      {
+        "name_ar": "Bathia",
+        "name_fr": "Bathia",
+        "name_en": "Bathia"
+      },
+      {
+        "name_ar": "Tachta Zegagha",
+        "name_fr": "Tachta Zegagha",
+        "name_en": "Tachta Zegagha"
+      },
+      {
+        "name_ar": "Ain Bouyahia",
+        "name_fr": "Ain Bouyahia",
+        "name_en": "Ain Bouyahia"
+      },
+      {
+        "name_ar": "El Maine",
+        "name_fr": "El Maine",
+        "name_en": "El Maine"
+      },
+      {
+        "name_ar": "Tiberkanine",
+        "name_fr": "Tiberkanine",
+        "name_en": "Tiberkanine"
+      },
+      {
+        "name_ar": "Belaas",
+        "name_fr": "Belaas",
+        "name_en": "Belaas"
+      }
+    ]
+  },
+  "1451": {
+    "name_ar": "Naama",
+    "name_fr": "Naama",
+    "name_en": "Naama",
+    "communes": [
+      {
+        "name_ar": "Mechria",
+        "name_fr": "Mechria",
+        "name_en": "Mechria"
+      },
+      {
+        "name_ar": "Ain Sefra",
+        "name_fr": "Ain Sefra",
+        "name_en": "Ain Sefra"
+      },
+      {
+        "name_ar": "Tiout",
+        "name_fr": "Tiout",
+        "name_en": "Tiout"
+      },
+      {
+        "name_ar": "Sfissifa",
+        "name_fr": "Sfissifa",
+        "name_en": "Sfissifa"
+      },
+      {
+        "name_ar": "Moghrar",
+        "name_fr": "Moghrar",
+        "name_en": "Moghrar"
+      },
+      {
+        "name_ar": "Assela",
+        "name_fr": "Assela",
+        "name_en": "Assela"
+      },
+      {
+        "name_ar": "Djeniane Bourzeg",
+        "name_fr": "Djeniane Bourzeg",
+        "name_en": "Djeniane Bourzeg"
+      },
+      {
+        "name_ar": "Ain Ben Khelil",
+        "name_fr": "Ain Ben Khelil",
+        "name_en": "Ain Ben Khelil"
+      },
+      {
+        "name_ar": "Makman Ben Amer",
+        "name_fr": "Makman Ben Amer",
+        "name_en": "Makman Ben Amer"
+      },
+      {
+        "name_ar": "Kasdir",
+        "name_fr": "Kasdir",
+        "name_en": "Kasdir"
+      },
+      {
+        "name_ar": "El Biod",
+        "name_fr": "El Biod",
+        "name_en": "El Biod"
+      }
+    ]
+  },
+  "1463": {
+    "name_ar": "Ain Temouchent",
+    "name_fr": "Ain Temouchent",
+    "name_en": "Ain Temouchent",
+    "communes": [
+      {
+        "name_ar": "Chaabet El Ham",
+        "name_fr": "Chaabet El Ham",
+        "name_en": "Chaabet El Ham"
+      },
+      {
+        "name_ar": "Ain Kihal",
+        "name_fr": "Ain Kihal",
+        "name_en": "Ain Kihal"
+      },
+      {
+        "name_ar": "Hammam Bouhadjar",
+        "name_fr": "Hammam Bouhadjar",
+        "name_en": "Hammam Bouhadjar"
+      },
+      {
+        "name_ar": "Bou Zedjar",
+        "name_fr": "Bou Zedjar",
+        "name_en": "Bou Zedjar"
+      },
+      {
+        "name_ar": "Oued Berkeche",
+        "name_fr": "Oued Berkeche",
+        "name_en": "Oued Berkeche"
+      },
+      {
+        "name_ar": "Aghlal",
+        "name_fr": "Aghlal",
+        "name_en": "Aghlal"
+      },
+      {
+        "name_ar": "Terga",
+        "name_fr": "Terga",
+        "name_en": "Terga"
+      },
+      {
+        "name_ar": "Ain El Arbaa",
+        "name_fr": "Ain El Arbaa",
+        "name_en": "Ain El Arbaa"
+      },
+      {
+        "name_ar": "Tamzoura",
+        "name_fr": "Tamzoura",
+        "name_en": "Tamzoura"
+      },
+      {
+        "name_ar": "Chentouf",
+        "name_fr": "Chentouf",
+        "name_en": "Chentouf"
+      },
+      {
+        "name_ar": "Sidi Ben Adda",
+        "name_fr": "Sidi Ben Adda",
+        "name_en": "Sidi Ben Adda"
+      },
+      {
+        "name_ar": "Aoubellil",
+        "name_fr": "Aoubellil",
+        "name_en": "Aoubellil"
+      },
+      {
+        "name_ar": "El Malah",
+        "name_fr": "El Malah",
+        "name_en": "El Malah"
+      },
+      {
+        "name_ar": "Sidi Boumediene",
+        "name_fr": "Sidi Boumediene",
+        "name_en": "Sidi Boumediene"
+      },
+      {
+        "name_ar": "Oued Sabah",
+        "name_fr": "Oued Sabah",
+        "name_en": "Oued Sabah"
+      },
+      {
+        "name_ar": "Ouled Boudjemaa",
+        "name_fr": "Ouled Boudjemaa",
+        "name_en": "Ouled Boudjemaa"
+      },
+      {
+        "name_ar": "Ain Tolba",
+        "name_fr": "Ain Tolba",
+        "name_en": "Ain Tolba"
+      },
+      {
+        "name_ar": "El Amria",
+        "name_fr": "El Amria",
+        "name_en": "El Amria"
+      },
+      {
+        "name_ar": "Hassi El Ghella",
+        "name_fr": "Hassi El Ghella",
+        "name_en": "Hassi El Ghella"
+      },
+      {
+        "name_ar": "Hassasna",
+        "name_fr": "Hassasna",
+        "name_en": "Hassasna"
+      },
+      {
+        "name_ar": "Ouled Kihal",
+        "name_fr": "Ouled Kihal",
+        "name_en": "Ouled Kihal"
+      },
+      {
+        "name_ar": "Beni Saf",
+        "name_fr": "Beni Saf",
+        "name_en": "Beni Saf"
+      },
+      {
+        "name_ar": "Sidi Safi",
+        "name_fr": "Sidi Safi",
+        "name_en": "Sidi Safi"
+      },
+      {
+        "name_ar": "Oulhaca El Gheraba",
+        "name_fr": "Oulhaca El Gheraba",
+        "name_en": "Oulhaca El Gheraba"
+      },
+      {
+        "name_ar": "Sidi Ouriache",
+        "name_fr": "Sidi Ouriache",
+        "name_en": "Sidi Ouriache"
+      },
+      {
+        "name_ar": "El Emir Abdelkader",
+        "name_fr": "El Emir Abdelkader",
+        "name_en": "El Emir Abdelkader"
+      },
+      {
+        "name_ar": "El Messaid",
+        "name_fr": "El Messaid",
+        "name_en": "El Messaid"
+      }
+    ]
+  },
+  "1491": {
+    "name_ar": "Ghardaia",
+    "name_fr": "Ghardaia",
+    "name_en": "Ghardaia",
+    "communes": []
+  },
+  "1492": {
+    "name_ar": "المنيعة",
+    "name_fr": "El Meniaa",
+    "name_en": "El Meniaa",
+    "communes": [
+      {
+        "name_fr": "El Meniaa",
+        "name_en": "El Meniaa",
+        "name_ar": "المنيعة"
+      },
+      {
+        "name_fr": "Hassi Gara",
+        "name_en": "Hassi Gara",
+        "name_ar": "حاسي قارة"
+      },
+      {
+        "name_fr": "Hassi Fehal",
+        "name_en": "Hassi Fehal",
+        "name_ar": "حاسي الفحل"
+      }
+    ]
+  },
+  "1504": {
+    "name_ar": "Relizane",
+    "name_fr": "Relizane",
+    "name_en": "Relizane",
+    "communes": [
+      {
+        "name_ar": "Oued Rhiou",
+        "name_fr": "Oued Rhiou",
+        "name_en": "Oued Rhiou"
+      },
+      {
+        "name_ar": "Belaassel Bouzegza",
+        "name_fr": "Belaassel Bouzegza",
+        "name_en": "Belaassel Bouzegza"
+      },
+      {
+        "name_ar": "Sidi Saada",
+        "name_fr": "Sidi Saada",
+        "name_en": "Sidi Saada"
+      },
+      {
+        "name_ar": "Ouled Aiche",
+        "name_fr": "Ouled Aiche",
+        "name_en": "Ouled Aiche"
+      },
+      {
+        "name_ar": "Sidi Lazreg",
+        "name_fr": "Sidi Lazreg",
+        "name_en": "Sidi Lazreg"
+      },
+      {
+        "name_ar": "El Hamadna",
+        "name_fr": "El Hamadna",
+        "name_en": "El Hamadna"
+      },
+      {
+        "name_ar": "Sidi Mhamed Ben Ali",
+        "name_fr": "Sidi Mhamed Ben Ali",
+        "name_en": "Sidi Mhamed Ben Ali"
+      },
+      {
+        "name_ar": "Mediouna",
+        "name_fr": "Mediouna",
+        "name_en": "Mediouna"
+      },
+      {
+        "name_ar": "Sidi Khettab",
+        "name_fr": "Sidi Khettab",
+        "name_en": "Sidi Khettab"
+      },
+      {
+        "name_ar": "Ammi Moussa",
+        "name_fr": "Ammi Moussa",
+        "name_en": "Ammi Moussa"
+      },
+      {
+        "name_ar": "Zemmoura",
+        "name_fr": "Zemmoura",
+        "name_en": "Zemmoura"
+      },
+      {
+        "name_ar": "Beni Dergoun",
+        "name_fr": "Beni Dergoun",
+        "name_en": "Beni Dergoun"
+      },
+      {
+        "name_ar": "Djidiouia",
+        "name_fr": "Djidiouia",
+        "name_en": "Djidiouia"
+      },
+      {
+        "name_ar": "El Guettar",
+        "name_fr": "El Guettar",
+        "name_en": "El Guettar"
+      },
+      {
+        "name_ar": "Hamri",
+        "name_fr": "Hamri",
+        "name_en": "Hamri"
+      },
+      {
+        "name_ar": "El Matmar",
+        "name_fr": "El Matmar",
+        "name_en": "El Matmar"
+      },
+      {
+        "name_ar": "Sidi Mhamed Ben Aouda",
+        "name_fr": "Sidi Mhamed Ben Aouda",
+        "name_en": "Sidi Mhamed Ben Aouda"
+      },
+      {
+        "name_ar": "Ain Tarek",
+        "name_fr": "Ain Tarek",
+        "name_en": "Ain Tarek"
+      },
+      {
+        "name_ar": "Oued Essalem",
+        "name_fr": "Oued Essalem",
+        "name_en": "Oued Essalem"
+      },
+      {
+        "name_ar": "Ouarizane",
+        "name_fr": "Ouarizane",
+        "name_en": "Ouarizane"
+      },
+      {
+        "name_ar": "Mazouna",
+        "name_fr": "Mazouna",
+        "name_en": "Mazouna"
+      },
+      {
+        "name_ar": "Kalaa",
+        "name_fr": "Kalaa",
+        "name_en": "Kalaa"
+      },
+      {
+        "name_ar": "Ain Rahma",
+        "name_fr": "Ain Rahma",
+        "name_en": "Ain Rahma"
+      },
+      {
+        "name_ar": "Yellel",
+        "name_fr": "Yellel",
+        "name_en": "Yellel"
+      },
+      {
+        "name_ar": "Oued El Djemaa",
+        "name_fr": "Oued El Djemaa",
+        "name_en": "Oued El Djemaa"
+      },
+      {
+        "name_ar": "Ramka",
+        "name_fr": "Ramka",
+        "name_en": "Ramka"
+      },
+      {
+        "name_ar": "Mendes",
+        "name_fr": "Mendes",
+        "name_en": "Mendes"
+      },
+      {
+        "name_ar": "Lahlef",
+        "name_fr": "Lahlef",
+        "name_en": "Lahlef"
+      },
+      {
+        "name_ar": "Beni Zentis",
+        "name_fr": "Beni Zentis",
+        "name_en": "Beni Zentis"
+      },
+      {
+        "name_ar": "Souk El Haad",
+        "name_fr": "Souk El Haad",
+        "name_en": "Souk El Haad"
+      },
+      {
+        "name_ar": "Dar Ben Abdellah",
+        "name_fr": "Dar Ben Abdellah",
+        "name_en": "Dar Ben Abdellah"
+      },
+      {
+        "name_ar": "El Hassi",
+        "name_fr": "El Hassi",
+        "name_en": "El Hassi"
+      },
+      {
+        "name_ar": "Had Echkalla",
+        "name_fr": "Had Echkalla",
+        "name_en": "Had Echkalla"
+      },
+      {
+        "name_ar": "Bendaoud",
+        "name_fr": "Bendaoud",
+        "name_en": "Bendaoud"
+      },
+      {
+        "name_ar": "El Ouldja",
+        "name_fr": "El Ouldja",
+        "name_en": "El Ouldja"
+      },
+      {
+        "name_ar": "Merdja Sidi Abed",
+        "name_fr": "Merdja Sidi Abed",
+        "name_en": "Merdja Sidi Abed"
+      },
+      {
+        "name_ar": "Ouled Sidi Mihoub",
+        "name_fr": "Ouled Sidi Mihoub",
+        "name_en": "Ouled Sidi Mihoub"
+      }
+    ]
+  }
+}
